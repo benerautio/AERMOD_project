@@ -19,5 +19,6 @@ Download this Geotiff file, decompress with GDAL, rename it gdal_uncompress.tif,
 
 NLCD for AERSURFACE:
 ftp://newftp.epa.gov/Air/aqmg/nlcd/2016/2016_R08_CO-UT.zip
+
 Download this NLCD, unzip, and put all of the tiff files in AERSURFACE\2016_R08_CO-UT
 
