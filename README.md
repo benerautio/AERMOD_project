@@ -15,7 +15,7 @@ Although the output of this project is already in AERMOD.out, if you want to run
 
 NED for AERMAP:
 https://prd-tnm.s3.amazonaws.com/StagedProducts/Elevation/13/TIFF/n40w106/USGS_13_n40w106.tif
-Download this Geotiff file, decompress with GDAL, rename it gdal_uncompress.tif, and put it in AERMAP/NED
+Download this Geotiff file, decompress with GDAL, rename it gdal_uncompress.tif, and put it in AERMAP\NED
 
 NLCD for AERSURFACE:
 ftp://newftp.epa.gov/Air/aqmg/nlcd/2016/2016_R08_CO-UT.zip
