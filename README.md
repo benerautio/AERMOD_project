@@ -1,4 +1,4 @@
-# AERMOD_project
+## AERMOD_project
 This run of AERMOD simulates a point source on a drilling site in Broomfield from 19/3/1 TO 19/8/1
 This is an example run to get familiar with the various pre-processors and basic options.
 
