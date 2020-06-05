@@ -1,0 +1,50 @@
+ExifTool Version Number         : 10.57
+File Name                       : 2016_R08_CO-UT_Canopy.tif
+Directory                       : .
+File Size                       : 891 MB
+File Modification Date/Time     : 2020:03:09 20:27:36-04:00
+File Access Date/Time           : 2020:03:09 20:27:36-04:00
+File Creation Date/Time         : 2020:03:06 14:34:59-05:00
+File Permissions                : rw-rw-rw-
+File Type                       : TIFF
+File Type Extension             : tif
+MIME Type                       : image/tiff
+Exif Byte Order                 : Little-endian (Intel, II)
+Image Width                     : 37680
+Image Height                    : 24784
+Bits Per Sample                 : 8
+Compression                     : Uncompressed
+Photometric Interpretation      : RGB Palette
+Strip Offsets                   : (Binary data 244907 bytes, use -b option to extract)
+Samples Per Pixel               : 1
+Rows Per Strip                  : 1
+Strip Byte Counts               : (Binary data 148703 bytes, use -b option to extract)
+Planar Configuration            : Chunky
+Color Map                       : (Binary data 1536 bytes, use -b option to extract)
+Sample Format                   : Unsigned
+Pixel Scale                     : 30 30 0
+Model Tie Point                 : 0 0 0 -1619595 2279805 0
+GDAL Metadata                   : <GDALMetadata>.  <Item name="LAYER_TYPE" sample="0">thematic</Item>.  <Item name="OVERVIEWS_ALGORITHM" sample="0">ErdasBino3</Item>.  <Item name="DESCRIPTION" sample="0" role="description">Layer_1</Item>.</GDALMetadata>.
+GDAL No Data                    : 127
+Geo Tiff Version                : 1.1.0
+GT Model Type                   : Projected
+GT Raster Type                  : Pixel Is Area
+GT Citation                     : Albers Conical Equal Area
+Geographic Type                 : NAD83
+Geog Citation                   : NAD83
+Geog Angular Units              : Angular Degree
+Geog Semi Major Axis            : 6378137
+Geog Inv Flattening             : 298.257222101
+Geog To WGS84                   : 0 0 0
+Projected CS Type               : User Defined
+Projection                      : User Defined
+Proj Coord Trans                : Albers Equal Area
+Proj Linear Units               : Linear Meter
+Proj Std Parallel 1             : 29.5
+Proj Std Parallel 2             : 45.5
+Proj Nat Origin Long            : -96
+Proj Nat Origin Lat             : 23
+Proj False Easting              : 0
+Proj False Northing             : 0
+Image Size                      : 37680x24784
+Megapixels                      : 933.9

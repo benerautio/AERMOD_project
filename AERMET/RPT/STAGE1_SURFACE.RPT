@@ -1,0 +1,128 @@
+        AERMET, A Meteorological Processor for the AERMOD Dispersion Model
+                                   Version  19191
+
+                     Data Processed on 29-MAY-2020 at 11:46:30
+
+                                      Stage 1                          Page   1
+
+              ********************************************************
+              ***        AERMET Setup Finished Successfully        ***
+              ********************************************************
+
+ 1.  Job File Names
+
+     Listing of Messages: STAGE1_SURFACE.MSG
+     Summary (this file): STAGE1_SURFACE.RPT
+
+
+ 2.  Upper Air Data  
+
+     AERMET Has Determined That Processing For This Pathway Includes:
+          NONE, NO DATA TO BE PROCESSED ON THIS PATH 
+
+
+
+ 3.  NWS Surface Data
+
+      Site ID    Latitude(deg.)   Longitude(deg.)   Time Adjustment   Elev. (m)
+        24015     40.1744N          103.214W               6           1437.0
+
+      Data Format: ISHD    
+
+     AERMET Has Determined That Processing For This Pathway Includes:
+          EXTRACT AND QUALITY ASSESSMENT             
+
+          Extract Input -    OPEN: SURFACE\724698-24015-2019
+          Extract Output-    OPEN: SURF_EXTRACT.TXT
+          QA Output     -    OPEN: STAGE1_SURF.OUT
+
+          The Extract Dates Are:    Starting:  1-MAR-2019
+                                      Ending:  1-AUG-2019
+
+
+ 4.  On-site Data    
+
+     AERMET Has Determined That Processing For This Pathway Includes:
+          NONE, NO DATA TO BE PROCESSED ON THIS PATH 
+
+        AERMET, A Meteorological Processor for the AERMOD Dispersion Model
+                                   Version  19191
+
+                     Data Processed on 29-MAY-2020 at 11:46:30
+
+                                      Stage 1                          Page   2
+
+              ********************************************************
+              ***   AERMET Data Processing Finished Successfully   ***
+              ********************************************************
+
+
+                        **** SUMMARY OF THE QA AUDIT ****
+
+
+ SURFACE DATA         |------VIOLATION SUMMARY------|   |-----TEST VALUES-----|
+               TOTAL     #     LOWER  UPPER      %      MISSING   LOWER   UPPER
+               # OBS  MISSING  BOUND  BOUND  ACCEPTED     FLAG    BOUND   BOUND
+       TMPD    3691       84      0      0     97.72      999.0, -300.0,  400.0
+       WDIR    3691      201      0      0     94.55      999.0,    0.0,   36.0
+       WSPD    3691      123      0      0     96.67      999.0,    0.0,  500.0
+
+ NOTE: Test values were also multiplied by the same factors applied to the data
+       (see Appendix B of the AERMET User's Guide)
+
+
+        In addition, for the  3691 hourly obs, AERMET reports that there are:   
+                                                                                
+             98 CALM WIND CONDITIONS (WS=0, WD=0)                               
+              0 ZERO WIND SPEEDS WITH NONZERO WIND DIRECTIONS                   
+              0 DEW-POINT GREATER THAN DRY BULB TEMPERATURES                    
+                                                                                
+        The date & time of these occurrences can be found in                    
+        the message file  STAGE1_SURFACE.MSG                                    
+
+     THIS CONCLUDES THE AUDIT TRAIL
+        AERMET, A Meteorological Processor for the AERMOD Dispersion Model
+                                   Version  19191
+
+                     Data Processed on 29-MAY-2020 at 11:46:30
+
+                                      Stage 1                          Page   3
+
+              ********************************************************
+              ***   AERMET Data Processing Finished Successfully   ***
+              ********************************************************
+
+                     EXTRACT AND/OR QA THE METEOROLOGICAL DATA
+
+
+                      **** AERMET MESSAGE SUMMARY TABLE ****
+
+          0- 9   10-19   20-29   30-39   40-49   50-59   60-69   70-89   TOTAL
+       ------------------------------------------------------------------------
+
+  JOB       
+    E      0       0       0       0       0       0       0       0       0
+    W      0       0       0       0       0       0       0       0       0
+    I      0       1       3       0       0       0       0       0       4
+
+  SURFACE   
+    E      0       0       0       0       0       0       0       0       0
+    W      0       0       0       0       4       0       0       0       4
+    I      0       0       0       0       8       0       0       0       8
+    Q      0       0       0       0     408       0       0       0     408
+       ------------------------------------------------------------------------
+           0       1       3       0     420       0       0       0     424
+
+        ****    ERROR MESSAGES    ****
+
+               ---  NONE  ---
+
+
+        ****   WARNING MESSAGES   ****
+20190101 SURFACE    W46 RDISHD  : SURFACE elev on LOCATION keyword ( 1437.00) differs from elev in ISHD file ( 1408.00).
+         SURFACE    W48 RDISHD  : The # of discarded records is:               606.  See 'Discarded_ISHD_Records.dat' file.
+         SURFACE    W48 RDISHD  : The # of records flagged as calm is:         104
+         SURFACE    W48 RDISHD  : The # of records flagged as variable is:      82
+
+    ASOS Commission Date for Surface Station    24015 (YYYYMMDD): 19960206
+

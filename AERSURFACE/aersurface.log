@@ -1,0 +1,254 @@
+** AERSURFACE Log File, Version 20060                             05/29/20 **
+**                                                                09:22:44 **
+
+
+ *************************** 
+
+ TIFF File Opened: 2016_R08_CO-UT\2016_R08_CO-UT_Land_Cover.tif
+
+ Data Type: NLCD  2016
+
+ Attempting to read TIFF file header: 2016_R08_CO-UT\2016_R08_CO-UT_Land_Cover.tif
+
+ Byte order: Little Endian 
+ IFD Offset (bytes):              8
+
+ Attempting to read TIFF tags: 2016_R08_CO-UT\2016_R08_CO-UT_Land_Cover.tif
+
+ Data Columns:   37680
+ Data Rows:      24784
+
+ WARNING: TIFF tag   274 (Orientation) was not found - default value used: NLCD
+          Orientation = 1; row-major with (0,0) = NW corner
+
+ Spatial Res. X:    30.00000000 (meters)
+ Spatial Res. Y:    30.00000000 (meters)
+ TIFF Data Organization: Strips
+ Model Type:  Projected
+ GT Raster Type = Pixel Is Area
+ Model Tie Point (NW corner) adjusted to midpoint of pixel.
+      X Tie Point:     -1619580.00 (meters)
+      Y Tie Point:      2279790.00 (meters)
+
+ Horizontal Datum: WGS84
+
+ *************************** 
+
+ TIFF File Opened: 2016_R08_CO-UT\2016_R08_CO-UT_Impervious.tif
+
+ Data Type: MPRV  2016
+
+ Attempting to read TIFF file header: 2016_R08_CO-UT\2016_R08_CO-UT_Impervious.tif
+
+ Byte order: Little Endian 
+ IFD Offset (bytes):              8
+
+ Attempting to read TIFF tags: 2016_R08_CO-UT\2016_R08_CO-UT_Impervious.tif
+
+ Data Columns:   37680
+ Data Rows:      24784
+
+ WARNING: TIFF tag   274 (Orientation) was not found - default value used: MPRV
+          Orientation = 1; row-major with (0,0) = NW corner
+
+ Spatial Res. X:    30.00000000 (meters)
+ Spatial Res. Y:    30.00000000 (meters)
+ TIFF Data Organization: Strips
+ Model Type:  Projected
+ GT Raster Type = Pixel Is Area
+ Model Tie Point (NW corner) adjusted to midpoint of pixel.
+      X Tie Point:     -1619580.00 (meters)
+      Y Tie Point:      2279790.00 (meters)
+
+ Horizontal Datum: WGS84
+
+ *************************** 
+
+ TIFF File Opened: 2016_R08_CO-UT\2016_R08_CO-UT_Canopy.tif
+
+ Data Type: CNPY  2016
+
+ Attempting to read TIFF file header: 2016_R08_CO-UT\2016_R08_CO-UT_Canopy.tif
+
+ Byte order: Little Endian 
+ IFD Offset (bytes):              8
+
+ Attempting to read TIFF tags: 2016_R08_CO-UT\2016_R08_CO-UT_Canopy.tif
+
+ Data Columns:   37680
+ Data Rows:      24784
+
+ WARNING: TIFF tag   274 (Orientation) was not found - default value used: CNPY
+          Orientation = 1; row-major with (0,0) = NW corner
+
+ Spatial Res. X:    30.00000000 (meters)
+ Spatial Res. Y:    30.00000000 (meters)
+ TIFF Data Organization: Strips
+ Model Type:  Projected
+ GT Raster Type = Pixel Is Area
+ Model Tie Point (NW corner) adjusted to midpoint of pixel.
+      X Tie Point:     -1619580.00 (meters)
+      Y Tie Point:      2279790.00 (meters)
+
+ Horizontal Datum: NAD83
+
+ ***************************
+
+ Getting grid information for NLCD: 2016_R08_CO-UT\2016_R08_CO-UT_Land_Cover.tif
+ Based on the following input coordinates, converted if needed to LATLON/NAD83: 
+    Latitude:     40.174440
+    Longitude:  -103.214440
+
+ The study center is located at
+    Albers projection X-coordinate:   -608436.
+    Albers projection Y-coordinate:   1929628.
+    Row in data file:      11673
+    Column in data file:   33706
+
+ Rotation of Albers grid to true North (deg):    4.34961
+
+ ***************************
+
+ Getting grid information for MPRV: 2016_R08_CO-UT\2016_R08_CO-UT_Impervious.tif
+ Based on the following input coordinates, converted if needed to LATLON/NAD83: 
+    Latitude:     40.174440
+    Longitude:  -103.214440
+
+ The study center is located at
+    Albers projection X-coordinate:   -608436.
+    Albers projection Y-coordinate:   1929628.
+    Row in data file:      11673
+    Column in data file:   33706
+
+ Rotation of Albers grid to true North (deg):    4.34961
+
+ ***************************
+
+ Getting grid information for CNPY: 2016_R08_CO-UT\2016_R08_CO-UT_Canopy.tif
+ Based on the following input coordinates, converted if needed to LATLON/NAD83: 
+    Latitude:     40.174440
+    Longitude:  -103.214440
+
+ The study center is located at
+    Albers projection X-coordinate:   -608436.
+    Albers projection Y-coordinate:   1929628.
+    Row in data file:      11673
+    Column in data file:   33706
+
+ Rotation of Albers grid to true North (deg):    4.34961
+
+***************************
+
+ Land Cover Counts: Surface Roughness (Within 1000m Radius)
+
+                             SECTOR:        1       2       3       4       5       6       7       8       9      10      11      12
+Cat              Starting Direction:      0.0    30.0    60.0    90.0   120.0   150.0   180.0   210.0   240.0   270.0   300.0   330.0
+------------------------------------
+  0 Missing, Out-of-Bounds, or Unde:        0       0       0       0       0       0       0       0       0       0       0       0
+ 11                      Open Water:        0       0       0       0       0       0       0       0       0       0       0       0
+ 12              Perennial Ice/Snow:        0       0       0       0       0       0       0       0       0       0       0       0
+ 21           Developed, Open Space:        6      30      26      11      49      56      36      54      29     104      11       6
+ 22        Developed, Low Intensity:        0       0       2       8      22      38      40      14       6      23       0       0
+ 23     Developed, Medium Intensity:        0       0       0       3      18      11      13       4       6      11       0       0
+ 24       Developed, High Intensity:        0       0       0       1       5       0       0       0       0       0       0       0
+ 31    Barren Land (Rock/Sand/Clay):        0       0       0       0       0       0       0       0       0       0       0       0
+ 32            Unconsolidated Shore:        0       0       0       0       0       0       0       0       0       0       0       0
+ 41                Deciduous Forest:        0       0       0       0       0       0       0       0       0       0       0       0
+ 42                Evergreen Forest:        0       0       0       0       0       0       0       0       0       0       0       0
+ 43                    Mixed Forest:        0       0       0       0       0       0       0       0       0       0       0       0
+ 51                     Dwarf Scrub:        0       0       0       0       0       0       0       0       0       0       0       0
+ 52                     Shrub/Scrub:        0       0       0       0       0       0       0       0       0       0       0       0
+ 71           Grasslands/Herbaceous:      283     156      78      54      69     185     185     186     239     151     259     245
+ 72                Sedge/Herbaceous:        0       0       0       0       0       0       0       0       0       0       0       0
+ 73                         Lichens:        0       0       0       0       0       0       0       0       0       0       0       0
+ 74                            Moss:        0       0       0       0       0       0       0       0       0       0       0       0
+ 81                     Pasture/Hay:        0       0       0       0       0       0       0       5       0       0       0       0
+ 82                Cultivated Crops:        0     105     186     211     127       2      15      30      12       0      21      43
+ 90                  Woody Wetlands:        0       0       0       0       0       0       0       0       0       0       0       0
+ 91     Palustrine Forested Wetland:        0       0       0       0       0       0       0       0       0       0       0       0
+ 92  Palustrine Scrub/Shrub Wetland:        0       0       0       0       0       0       0       0       0       0       0       0
+ 93      Estuarine Forested Wetland:        0       0       0       0       0       0       0       0       0       0       0       0
+ 94   Estuarine Scrub/Shrub Wetland:        0       0       0       0       0       0       0       0       0       0       0       0
+ 95     Emergent Herbaceous Wetland:        0       0       0       0       0       0       0       0       0       0       0       0
+ 96 Palustrine Emergent Wetland (Pe:        0       0       0       0       0       0       0       0       0       0       0       0
+ 97      Estuarine Emergent Wetland:        0       0       0       0       0       0       0       0       0       0       0       0
+ 98          Palustrine Aquatic Bed:        0       0       0       0       0       0       0       0       0       0       0       0
+ 99           Estuarine Aquatic Bed:        0       0       0       0       0       0       0       0       0       0       0       0
+------------------------------------
+                              Total:      289     291     292     288     290     292     289     293     292     289     291     294
+
+ Land Cover Counts: Bowen Ratio and Albedo (10km X 10km Domain)
+
+  0 Missing, Out-of-Bounds, or Unde:        0
+ 11                      Open Water:       89
+ 12              Perennial Ice/Snow:        0
+ 21           Developed, Open Space:     4404
+ 22        Developed, Low Intensity:     1510
+ 23     Developed, Medium Intensity:      770
+ 24       Developed, High Intensity:      205
+ 31    Barren Land (Rock/Sand/Clay):      187
+ 32            Unconsolidated Shore:        0
+ 41                Deciduous Forest:        5
+ 42                Evergreen Forest:        0
+ 43                    Mixed Forest:        0
+ 51                     Dwarf Scrub:        0
+ 52                     Shrub/Scrub:        0
+ 71           Grasslands/Herbaceous:    57491
+ 72                Sedge/Herbaceous:        0
+ 73                         Lichens:        0
+ 74                            Moss:        0
+ 81                     Pasture/Hay:      389
+ 82                Cultivated Crops:    48504
+ 90                  Woody Wetlands:        0
+ 91     Palustrine Forested Wetland:        0
+ 92  Palustrine Scrub/Shrub Wetland:        0
+ 93      Estuarine Forested Wetland:        0
+ 94   Estuarine Scrub/Shrub Wetland:        0
+ 95     Emergent Herbaceous Wetland:       15
+ 96 Palustrine Emergent Wetland (Pe:        0
+ 97      Estuarine Emergent Wetland:        0
+ 98          Palustrine Aquatic Bed:        0
+ 99           Estuarine Aquatic Bed:        0
+------------------------------------
+                              Total:   113569
+
+** Non-Airport Sector IDs: None
+
+ Roughness (m) by Month and Sector
+------------------------------------------------------------------------------------------------------------------------
+       Start                                                 Month
+Sector  Dir       1        2        3        4        5        6        7        8        9       10       11       12
+   1     0.0    0.005    0.005    0.048    0.048    0.048    0.095    0.095    0.095    0.094    0.094    0.094    0.005
+   2    30.0    0.006    0.006    0.037    0.037    0.037    0.068    0.068    0.068    0.066    0.066    0.066    0.006
+   3    60.0    0.007    0.007    0.033    0.033    0.033    0.057    0.057    0.057    0.056    0.056    0.056    0.007
+   4    90.0    0.008    0.008    0.029    0.029    0.029    0.048    0.048    0.048    0.047    0.047    0.047    0.008
+   5   120.0    0.008    0.008    0.030    0.030    0.030    0.047    0.047    0.047    0.043    0.043    0.043    0.008
+   6   150.0    0.006    0.006    0.034    0.034    0.034    0.057    0.057    0.057    0.052    0.052    0.052    0.006
+   7   180.0    0.006    0.006    0.035    0.035    0.035    0.057    0.057    0.057    0.053    0.053    0.053    0.006
+   8   210.0    0.006    0.006    0.033    0.033    0.033    0.055    0.055    0.055    0.051    0.051    0.051    0.006
+   9   240.0    0.006    0.006    0.037    0.037    0.037    0.064    0.064    0.064    0.060    0.060    0.060    0.006
+  10   270.0    0.006    0.006    0.033    0.033    0.033    0.055    0.055    0.055    0.050    0.050    0.050    0.006
+  11   300.0    0.005    0.005    0.046    0.046    0.046    0.088    0.088    0.088    0.087    0.087    0.087    0.005
+  12   330.0    0.005    0.005    0.044    0.044    0.044    0.085    0.085    0.085    0.084    0.084    0.084    0.005
+------------------------------------------------------------------------------------------------------------------------
+
+
+ Roughness Fetch (m) by Month and Sector
+------------------------------------------------------------------------------------------------------------------------
+       Start                                                 Month
+Sector  Dir       1        2        3        4        5        6        7        8        9       10       11       12
+   1     0.0   1000.0   1000.0   1000.0   1000.0   1000.0   1000.0   1000.0   1000.0   1000.0   1000.0   1000.0   1000.0
+   2    30.0   1000.0   1000.0   1000.0   1000.0   1000.0   1000.0   1000.0   1000.0   1000.0   1000.0   1000.0   1000.0
+   3    60.0   1000.0   1000.0   1000.0   1000.0   1000.0   1000.0   1000.0   1000.0   1000.0   1000.0   1000.0   1000.0
+   4    90.0   1000.0   1000.0   1000.0   1000.0   1000.0   1000.0   1000.0   1000.0   1000.0   1000.0   1000.0   1000.0
+   5   120.0   1000.0   1000.0   1000.0   1000.0   1000.0   1000.0   1000.0   1000.0   1000.0   1000.0   1000.0   1000.0
+   6   150.0   1000.0   1000.0   1000.0   1000.0   1000.0   1000.0   1000.0   1000.0   1000.0   1000.0   1000.0   1000.0
+   7   180.0   1000.0   1000.0   1000.0   1000.0   1000.0   1000.0   1000.0   1000.0   1000.0   1000.0   1000.0   1000.0
+   8   210.0   1000.0   1000.0   1000.0   1000.0   1000.0   1000.0   1000.0   1000.0   1000.0   1000.0   1000.0   1000.0
+   9   240.0   1000.0   1000.0   1000.0   1000.0   1000.0   1000.0   1000.0   1000.0   1000.0   1000.0   1000.0   1000.0
+  10   270.0   1000.0   1000.0   1000.0   1000.0   1000.0   1000.0   1000.0   1000.0   1000.0   1000.0   1000.0   1000.0
+  11   300.0   1000.0   1000.0   1000.0   1000.0   1000.0   1000.0   1000.0   1000.0   1000.0   1000.0   1000.0   1000.0
+  12   330.0   1000.0   1000.0   1000.0   1000.0   1000.0   1000.0   1000.0   1000.0   1000.0   1000.0   1000.0   1000.0
+------------------------------------------------------------------------------------------------------------------------
+ 
+ Average Roughness Fetch (m) =   1000.0

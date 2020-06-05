@@ -1,0 +1,320 @@
+;- meta
+version=2
+; (That line must be the first non-comment and the value must be 2.)
+;
+; The following is not case sensitive.
+;
+
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;
+;- input parameters
+;  ================
+;
+;- input for origin of coordinate system
+;  =====================================
+;
+; There are three options for the model grid coordinate system:
+;
+; 1) X and Y are relative coordinates in meters: the UTM coordinates in
+;    AERPLOT.inp should be set to the "zero origin" of that coordinate
+;    system to show the plot in the right location within the browser.
+;
+; 2) X and Y parameters are absolute UTM coordinates: coordinates
+;    in AERPLOT.inp should be set to zero.
+;
+; 3) X and Y are not relative to a real grographic location: UTM
+;    coordinates in AERPLOT.inp can be used to select a neutral
+;    background (e.g., the ocean, or a glacier field) for easy display.
+;
+;
+; State where the coordinate system's origin is --
+; either in "UTM" (in meters) or LatLong (in degrees, using decimal fractions).
+origin=UTM
+;origin=LL
+;
+;- FOR UTM
+;  -------
+;
+; The four parameters below will be used for 'origin=UTM'.  (If origin=LL, they do not matter.)
+;
+; easting
+; northing
+; utmZone
+; inNorthernHemisphere
+;
+; The program converts UTM coordinates into latitude and longitude
+; for display in Google Earth earth browser. Also note that UTM
+; coordinates require the UTM "zone" to be set in AERPLOT.inp.
+;
+; PLEASE NOTE: If the whole UTM is in the .PLT file, then a UTM of (0,0) in the
+;              correct zone is appropriate. But if you were to want to use
+;              LatLong with such a file, you would want to specify the same
+;              spot. To avoid having to look up the longitude of the center
+;              of the different zones, please just stick to a UTM of (0,0).
+
+easting=0
+northing=0
+utmZone=13
+inNorthernHemisphere=true
+;
+; 'inNorthernHemisphere' needs to know if this run is in the Southern Hemisphere or not.
+; If right on the equator, set this to True.
+;
+;- FOR LL
+;  ------
+;
+; These two parameters will be used for 'origin=LL'.  (If origin=UTM, they do not matter.)
+originLatitude =0.0
+originLongitude=-84.0
+; If southern hemisphere, originLatitude will be negative.
+; If western  hemisphere, originLongitude will be negative.
+;
+; Note that all seven UTM+LL parameters must be set,
+; but only five will be used for UTM, or three for LL will be used.
+;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;
+;- altitude parameters
+;  ===================
+;
+; Receptors can be plotted relative to the ground,
+; or at a specific height level above or below sea level.
+; If the ZELEV field can be isolated, "flagpole" also can be used as relativeToGround .
+;
+altitudeChoice = relativeToGround
+; or
+; altitudeChoice = absolute
+; or
+; altitudeChoice = flagpole
+;
+; The altitude of the receptors is offset from the height indicated in the .PLT file.
+; ( Note: Specify an expected altitude even if 'flagpole' is the altitudeChoice.
+;         This parameter is part of the calculation for the height of the initial viewpoint.)
+altitude=0
+;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;
+;- the source data file
+;  ====================
+;  (output from aermod, presumably)
+;
+; The input file name, that is, the plotfile.
+PlotFileName              =..\AERMOD\basic_example.plt
+
+; If one wishes to plot the sources as well, set this to the aermod.inp file.
+; If not, leave it empty.
+SourceDisplayInputFileName=..\AERMAP\aermap_src.OUT
+
+;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;
+;- output parameters
+;  =================
+;
+; The output file names.
+;
+; Pick a name for this run, and it will be applied to a number of files,
+; plus the objects that may be manipulated within Google Earth.
+;
+OutputFileNameBase        =AERMOD_basic_example
+;
+; The name that will be displayed in Google Earth for the dataset.
+NameDisplayedInGoogleEarth=basic_example
+;
+;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;
+;- control parameters on the procedure
+;  ===================================
+;
+; To assure the user that the program has not halted, progress
+; meters are provided that show up in a text window.
+;
+sDisableProgressMeter              = false
+;
+;
+; This parameter controls whether the program will
+; automatically launch Google Earth after processing the
+; .PLT file ("TRUE") or not ("FALSE").
+;
+sDisableEarthBrowser               = false
+;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;
+;- receptor display
+;  ================
+;
+; This IconScale parameter "scales" the circles that are drawn in
+; the Earth Browser for each receptor. If too big, the display can
+; become so cramped that it becomes useless.
+;
+;             For Google Earth and ArcGIS,
+;             The suggested icon scale default is 0.70 .
+IconScale     = 0.70
+;             (For the NASA "WorldWind" earth browser, a value of
+;              IconScale = 1.99 may look better.)
+;
+; The sIconSetChoice color scheme for the concentration scale. The
+; red and green is less preferred because a common color blindness
+; won't see the difference; however, it is provided for use.
+;
+sIconSetChoice=redBlue
+;sIconSetChoice=redGreen
+;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;
+;- concentration binning  (for receptors and contours)
+;  =====================
+;
+; The user has the choice between a "Linear" or "Log" color scale. The user
+; also can provide one of their own.
+;
+; There must, however, be eleven "levels" or thresholds that will
+; define the ranges for the twelve bins.
+minbin=0.2
+maxbin=data
+binningChoice = Log
+; or binningChoice = Linear
+; or binningChoice = custom
+;
+;
+; These examples could be realistic binning schemes.
+customBinningElevenLevels=1,2,3,4,5,6,7,8,9,10,11
+;customBinningElevenLevels=.0001,.0003,.0005,.0007,.001, .004,.008,.01,.02,.03,.05
+;
+; If custom binning is not used, one may prefer to supply this value, "na",
+; to help indicate that custom binning is not used.
+customBinningElevenLevels=na
+;
+;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;
+;- concentration legend   (for receptors and contours)
+;  ====================
+;
+; The program will insert this line into the HTML used to create the legend.
+;
+; The following will not show up onscreen in the initial dump of variables.
+contourLegendTitleHTML =C&nbsp;O&nbsp;N&nbsp;C&nbsp;E&nbsp;N&nbsp;T&nbsp;R&nbsp;A&nbsp;T&nbsp;I&nbsp;O&nbsp;N&nbsp;S
+;
+;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;
+;- line mappings          (for contours and gradients)
+;  =============
+;
+; To plot any of the lines, an evenly spaced grid needs to be constructed
+; by means of a combination of interpolating the data and extending the
+; data.
+;
+; For particularly large model domains, the "numberOfGridCols" and
+; "numberOfGridRows" may need to be increased beyond the default
+; values of 400.
+;
+numberOfGridCols                   = 400
+numberOfGridRows                   = 400
+;
+;
+; Normally, the 'numberOfTimesToSmoothContourSurface=' parameter
+; should be set to one. One smoothing can make the contours much
+; less chaotic, while a second one can result in moving the
+; contours farther from their proper locations according to the
+; receptor values. However, a setting greater than one may be
+; beneficial when there is greater spacing between receptors.
+;
+numberOfTimesToSmoothContourSurface = 1
+; Note that the smoothing applies to both the contour and the gradient.
+;
+; Note: although these last three parameters are not frequently
+; used, they are required to be present.
+;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;
+;- contour parameters
+;  ==================
+;
+; The parameter 'makeContours' enables ("TRUE") or disables
+; ("FALSE") contours.
+;
+makeContours                        = TRUE
+;
+;
+; When drawing lines, each little bit of a line will only
+; be drawn if both ends of the segment are within
+; this many meters of one of the plot file's receptors.
+;
+; The contour lines seem less sensitive to the edge than the gradient.
+; (If set to 0.0 or less, most lines won't be drawn.)
+; (If set to 9999999, almost the diameter of the Earth, then all lines will be drawn.)
+;
+contourExtension =  9999999
+;
+;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;
+;
+;- gradient parameters
+;  ===================
+;
+; The parameter 'makeGradients' enables ("TRUE") or disables
+; ("FALSE") gradients.
+;
+makeGradients                       = FALSE
+;
+;
+; When drawing lines, each little bit of a line will only
+; be drawn if both ends of the segment are within
+; this many meters of one of the plot file's receptors.
+gradientExtension=  9999999
+; (If set to 0.0 or less, most lines won't be drawn.)
+; (If set to 9999999, almost the diameter of the Earth, then all lines will be drawn.)
+;
+;
+;- gradient binning
+;  ================
+;
+; While contour lines share binning with the receptors, gradient
+; binning is done separately.
+;
+; The user has the choice between a "Linear" or "Log" color scale. The user
+; also can provide one of their own.
+;
+; There must, however, be eleven "levels" or thresholds that will
+; define the ranges for the twelve bins.
+;
+gradientMaxBin=.5e-9
+gradientMinBin=.1e-11
+gradientBinningChoice=Log
+; or gradientBinningChoice = Linear
+; or gradientBinningChoice = custom
+;
+; These examples could be realistic binning schemes.
+customGradBinElevenLevels=1,2,3,4,5,6,7,8,9,10,11
+;customGradBinElevenLevels=.0001,.0003,.0005,.0007,.001, .004,.008,.01,.02,.03,.05
+;
+; If custom binning is not used, one may prefer to supply this value, "na",
+; to help indicate that custom binning is not used.
+;customGradBinElevenLevels=na
+;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;
+;- gradient legend (not generated if gradients are not generated)
+;  ===============
+;
+; The program will insert this line into the HTML used to create the legend.
+;
+; The following will not show up onscreen in the initial dump of variables.
+gradientLegendTitleHTML=Gradient&nbsp;Magnitudes
+;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;
+;- hidden_grid
+;  ===========
+; For display of evenly spaced grid. Debugging purposes only.
+;
+; Warning: This will substantially increase the size of the
+; resulting KMZ file. It is not an extrapolated grid.
+;
+provideEvenlySpacedInterpolatedGrid = false
+;
+; end

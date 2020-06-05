@@ -1,0 +1,318 @@
+        AERMET, A Meteorological Processor for the AERMOD Dispersion Model
+                                   Version  19191
+
+                     Data Processed on 29-MAY-2020 at 13:37:14
+
+                                      Stage 3                          Page   1
+
+              ********************************************************
+              ***        AERMET Setup Finished Successfully        ***
+              ********************************************************
+
+ 1.  Job File Names
+
+     Listing of Messages: MSG\STAGE3.MSG
+     Summary (this file): RPT\STAGE3.RPT
+
+
+ 2.  Upper Air Data  
+
+      Site ID    Latitude(deg.)   Longitude(deg.)   Time Adjustment
+        23062       39.77N           104.88W               6
+
+     AERMET Has Determined That Processing For This Pathway Includes:
+          NONE, NO DATA TO BE PROCESSED ON THIS PATH 
+
+
+
+ 3.  NWS Surface Data
+
+      Site ID    Latitude(deg.)   Longitude(deg.)   Time Adjustment   Elev. (m)
+        24015     40.1744N          103.214W               6           1437.0
+
+     AERMET Has Determined That Processing For This Pathway Includes:
+          NONE, NO DATA TO BE PROCESSED ON THIS PATH 
+
+          1-MIN ASOS    -    USED: ..\AERMINUTE\AKRON.DAT                                                                          
+
+
+ 4.  On-site Data    
+
+     AERMET Has Determined That Processing For This Pathway Includes:
+          NONE, NO DATA TO BE PROCESSED ON THIS PATH 
+
+        AERMET, A Meteorological Processor for the AERMOD Dispersion Model
+                                   Version  19191
+
+                     Data Processed on 29-MAY-2020 at 13:37:14
+
+                                      Stage 3                          Page   2
+
+              ********************************************************
+              ***        AERMET Setup Finished Successfully        ***
+              ********************************************************
+
+    1.  Input/Output Files
+
+        RPT\STAGE3.RPT                                       OPENED SUCCESSFULLY
+        MSG\STAGE3.MSG                                       OPENED SUCCESSFULLY
+        OUT\STAGE2.OUT                                       OPENED SUCCESSFULLY
+        AERMET.SFC                                           OPENED SUCCESSFULLY
+        AERMET.PFL                                           OPENED SUCCESSFULLY
+
+    2.  Dispersion Model for which Data Are Processed
+
+          AERMOD
+
+          The Processed Dates Are:    Starting:  1-MAR-2019
+                                        Ending:  1-AUG-2019
+
+          Based on the MERGE file header records.
+
+    3.  Processing Options
+
+           Process       Scheme         Description
+           -------       ------         -----------
+        WIND DIRECTION   RANDOM      NWS wind directions are RANDOMIZED                          
+        CLOUD COVER      CCVR_Sub    Missing CCVR substitutions ARE included                     
+        TEMPERATURE      TEMP_Sub    Missing TEMP substitutions ARE included                     
+        SBL PROCESSING   UCALST      The default (Holtslag) method is used                       
+        ASOS ADJUSTMENT  ASOS_ADJ    ASOS wind speeds, if present, ARE adjusted for truncation   
+        SDG SELECTION    00Z/12Z     Sounding selection based on 12Z sdg                         
+                                      Selection window:  -1     1
+        REFERENCE LEVEL  SUBNWS      NWS WIND & TEMP data ARE SUBSTITUTED for missing ONSITE data
+                                      Anemometer height(m):   10.00
+
+    4.  Locations of Meteorological Data 
+
+         Data           Site     Longitude   Latitude
+        Pathway          ID      (degrees)   (degrees)
+        -------         ----     ---------   ---------
+        UPPERAIR        23062     104.88W      39.77N
+        SURFACE         24015    103.214W    40.1744N
+
+    5.  Primary Site Surface Characteristics from File: 
+
+        ..\AERSURFACE\SFC_CHARS.OUT                                                                     
+
+          User Inputs Varied by: Month 
+
+                  Wind Sector               Bowen   Roughness
+          Month   Start   End    Albedo     Ratio   Length (m)
+          ----------------------------------------------------
+            1        0.   30.      0.60      0.50     0.0050
+            2        0.   30.      0.60      0.50     0.0050
+            3        0.   30.      0.16      0.36     0.0480
+            4        0.   30.      0.16      0.36     0.0480
+            5        0.   30.      0.16      0.36     0.0480
+            6        0.   30.      0.19      0.64     0.0950
+            7        0.   30.      0.19      0.64     0.0950
+            8        0.   30.      0.19      0.64     0.0950
+            9        0.   30.      0.19      0.85     0.0940
+           10        0.   30.      0.19      0.85     0.0940
+           11        0.   30.      0.19      0.85     0.0940
+           12        0.   30.      0.60      0.50     0.0050
+
+            1       30.   60.      0.60      0.50     0.0060
+            2       30.   60.      0.60      0.50     0.0060
+            3       30.   60.      0.16      0.36     0.0370
+            4       30.   60.      0.16      0.36     0.0370
+            5       30.   60.      0.16      0.36     0.0370
+            6       30.   60.      0.19      0.64     0.0680
+            7       30.   60.      0.19      0.64     0.0680
+            8       30.   60.      0.19      0.64     0.0680
+            9       30.   60.      0.19      0.85     0.0660
+           10       30.   60.      0.19      0.85     0.0660
+           11       30.   60.      0.19      0.85     0.0660
+           12       30.   60.      0.60      0.50     0.0060
+
+            1       60.   90.      0.60      0.50     0.0070
+            2       60.   90.      0.60      0.50     0.0070
+            3       60.   90.      0.16      0.36     0.0330
+            4       60.   90.      0.16      0.36     0.0330
+            5       60.   90.      0.16      0.36     0.0330
+            6       60.   90.      0.19      0.64     0.0570
+            7       60.   90.      0.19      0.64     0.0570
+            8       60.   90.      0.19      0.64     0.0570
+            9       60.   90.      0.19      0.85     0.0560
+           10       60.   90.      0.19      0.85     0.0560
+           11       60.   90.      0.19      0.85     0.0560
+           12       60.   90.      0.60      0.50     0.0070
+
+            1       90.  120.      0.60      0.50     0.0080
+            2       90.  120.      0.60      0.50     0.0080
+            3       90.  120.      0.16      0.36     0.0290
+            4       90.  120.      0.16      0.36     0.0290
+            5       90.  120.      0.16      0.36     0.0290
+            6       90.  120.      0.19      0.64     0.0480
+            7       90.  120.      0.19      0.64     0.0480
+            8       90.  120.      0.19      0.64     0.0480
+            9       90.  120.      0.19      0.85     0.0470
+           10       90.  120.      0.19      0.85     0.0470
+           11       90.  120.      0.19      0.85     0.0470
+           12       90.  120.      0.60      0.50     0.0080
+
+            1      120.  150.      0.60      0.50     0.0080
+            2      120.  150.      0.60      0.50     0.0080
+            3      120.  150.      0.16      0.36     0.0300
+            4      120.  150.      0.16      0.36     0.0300
+            5      120.  150.      0.16      0.36     0.0300
+            6      120.  150.      0.19      0.64     0.0470
+            7      120.  150.      0.19      0.64     0.0470
+            8      120.  150.      0.19      0.64     0.0470
+            9      120.  150.      0.19      0.85     0.0430
+           10      120.  150.      0.19      0.85     0.0430
+           11      120.  150.      0.19      0.85     0.0430
+           12      120.  150.      0.60      0.50     0.0080
+
+            1      150.  180.      0.60      0.50     0.0060
+            2      150.  180.      0.60      0.50     0.0060
+            3      150.  180.      0.16      0.36     0.0340
+            4      150.  180.      0.16      0.36     0.0340
+            5      150.  180.      0.16      0.36     0.0340
+            6      150.  180.      0.19      0.64     0.0570
+            7      150.  180.      0.19      0.64     0.0570
+            8      150.  180.      0.19      0.64     0.0570
+            9      150.  180.      0.19      0.85     0.0520
+           10      150.  180.      0.19      0.85     0.0520
+           11      150.  180.      0.19      0.85     0.0520
+           12      150.  180.      0.60      0.50     0.0060
+
+            1      180.  210.      0.60      0.50     0.0060
+            2      180.  210.      0.60      0.50     0.0060
+            3      180.  210.      0.16      0.36     0.0350
+            4      180.  210.      0.16      0.36     0.0350
+            5      180.  210.      0.16      0.36     0.0350
+            6      180.  210.      0.19      0.64     0.0570
+            7      180.  210.      0.19      0.64     0.0570
+            8      180.  210.      0.19      0.64     0.0570
+            9      180.  210.      0.19      0.85     0.0530
+           10      180.  210.      0.19      0.85     0.0530
+           11      180.  210.      0.19      0.85     0.0530
+           12      180.  210.      0.60      0.50     0.0060
+
+            1      210.  240.      0.60      0.50     0.0060
+            2      210.  240.      0.60      0.50     0.0060
+            3      210.  240.      0.16      0.36     0.0330
+            4      210.  240.      0.16      0.36     0.0330
+            5      210.  240.      0.16      0.36     0.0330
+            6      210.  240.      0.19      0.64     0.0550
+            7      210.  240.      0.19      0.64     0.0550
+            8      210.  240.      0.19      0.64     0.0550
+            9      210.  240.      0.19      0.85     0.0510
+           10      210.  240.      0.19      0.85     0.0510
+           11      210.  240.      0.19      0.85     0.0510
+           12      210.  240.      0.60      0.50     0.0060
+
+            1      240.  270.      0.60      0.50     0.0060
+            2      240.  270.      0.60      0.50     0.0060
+            3      240.  270.      0.16      0.36     0.0370
+            4      240.  270.      0.16      0.36     0.0370
+            5      240.  270.      0.16      0.36     0.0370
+            6      240.  270.      0.19      0.64     0.0640
+            7      240.  270.      0.19      0.64     0.0640
+            8      240.  270.      0.19      0.64     0.0640
+            9      240.  270.      0.19      0.85     0.0600
+           10      240.  270.      0.19      0.85     0.0600
+           11      240.  270.      0.19      0.85     0.0600
+           12      240.  270.      0.60      0.50     0.0060
+
+            1      270.  300.      0.60      0.50     0.0060
+            2      270.  300.      0.60      0.50     0.0060
+            3      270.  300.      0.16      0.36     0.0330
+            4      270.  300.      0.16      0.36     0.0330
+            5      270.  300.      0.16      0.36     0.0330
+            6      270.  300.      0.19      0.64     0.0550
+            7      270.  300.      0.19      0.64     0.0550
+            8      270.  300.      0.19      0.64     0.0550
+            9      270.  300.      0.19      0.85     0.0500
+           10      270.  300.      0.19      0.85     0.0500
+           11      270.  300.      0.19      0.85     0.0500
+           12      270.  300.      0.60      0.50     0.0060
+
+            1      300.  330.      0.60      0.50     0.0050
+            2      300.  330.      0.60      0.50     0.0050
+            3      300.  330.      0.16      0.36     0.0460
+            4      300.  330.      0.16      0.36     0.0460
+            5      300.  330.      0.16      0.36     0.0460
+            6      300.  330.      0.19      0.64     0.0880
+            7      300.  330.      0.19      0.64     0.0880
+            8      300.  330.      0.19      0.64     0.0880
+            9      300.  330.      0.19      0.85     0.0870
+           10      300.  330.      0.19      0.85     0.0870
+           11      300.  330.      0.19      0.85     0.0870
+           12      300.  330.      0.60      0.50     0.0050
+
+            1      330.  360.      0.60      0.50     0.0050
+            2      330.  360.      0.60      0.50     0.0050
+            3      330.  360.      0.16      0.36     0.0440
+            4      330.  360.      0.16      0.36     0.0440
+            5      330.  360.      0.16      0.36     0.0440
+            6      330.  360.      0.19      0.64     0.0850
+            7      330.  360.      0.19      0.64     0.0850
+            8      330.  360.      0.19      0.64     0.0850
+            9      330.  360.      0.19      0.85     0.0840
+           10      330.  360.      0.19      0.85     0.0840
+           11      330.  360.      0.19      0.85     0.0840
+           12      330.  360.      0.60      0.50     0.0050
+
+    6.  Input File(s) for   AERMOD
+
+          Surface Meteorology:  AERMET.SFC
+          Profile Data       :  AERMET.PFL
+        AERMET, A Meteorological Processor for the AERMOD Dispersion Model
+                                   Version  19191
+
+                     Data Processed on 29-MAY-2020 at 13:37:14
+
+                                      Stage 3                          Page   3
+
+              ********************************************************
+              ***   AERMET Data Processing Finished Successfully   ***
+              ********************************************************
+
+               PROCESSING METEOROLOGICAL DATA FOR DISPERSION MODELING
+
+
+                      **** AERMET MESSAGE SUMMARY TABLE ****
+
+          0- 9   10-19   20-29   30-39   40-49   50-59   60-69   70-89   TOTAL
+       ------------------------------------------------------------------------
+
+  JOB       
+    E      0       0       0       0       0       0       0       0       0
+    W      0       0       0       0       0       0       0       0       0
+    I      0       1       0       0       0       0       0       0       1
+
+  METPREP   
+    E      0       0       0       0       0       0       0       0       0
+    W      0       0       0       0       0       0       0       9       9
+    I      0       1       0       0       1       0       0     415     417
+    T      0       0       0       0       0       0       0       0       0
+       ------------------------------------------------------------------------
+           0       2       0       0       1       0       0     424     427
+
+        ****    ERROR MESSAGES    ****
+
+               ---  NONE  ---
+
+
+        ****   WARNING MESSAGES   ****
+  190307 METPREP    W79  MPPBL  : No ZICONV; HFLUX msg on 1st CBL hr JDAY:  66
+  190310 METPREP    W73  MPPBL  : No ZICONV - No UA sounding - Julian day:  69
+  190314 METPREP    W79  MPPBL  : No ZICONV; HFLUX msg on 1st CBL hr JDAY:  73
+  190409 METPREP    W73  MPPBL  : No ZICONV - No UA sounding - Julian day:  99
+  190411 METPREP    W79  MPPBL  : No ZICONV - all HFLUX <=0 on Julian day: 101
+  190530 METPREP    W73  MPPBL  : No ZICONV - No UA sounding - Julian day: 150
+  190617 METPREP    W73  MPPBL  : No ZICONV - No UA sounding - Julian day: 168
+  190731 METPREP    W73  MPPBL  : No ZICONV - No UA sounding - Julian day: 212
+  190801 METPREP    W73  MPPBL  : No ZICONV - No UA sounding - Julian day: 213
+
+    ASOS Commission Date for Surface Station    24015 (YYYYMMDD): 19960206
+
+
+
+ The number of CALM winds  encountered is:      3
+ The number of VARIABLE WD encountered is:      0
+ The number of miss CCVR substitutions is:      5
+ The number of miss TEMP substitutions is:      3

@@ -1,0 +1,20 @@
+** AERMAP - VERSION 18081                                              06/01/20
+**                                                                     12:12:42
+
+ 
+ Processing Source Location Data in SRCCNV:
+   Determining North American Datum (NAD) shift values in arc-seconds.
+   Total shift (meters) includes both datum shift and projection shift
+   for Lat/Lon to UTM coordinates.
+ 
+   No NAD conversions required. All files are consistent with NADA =   3
+
+ Checking Source Locations Relative to the Domain in CHKEXT;
+   Domain and Source Coordinates in Arc-seconds and Degrees:
+
+                  SRC   LAT (sec)   LONG (sec)    LAT (deg)    LONG (deg)
+
+ DOM LAT/LON#:         143956.501 -378093.777    39.9879170  -105.0260490
+ SRC LAT/LON#:      1  143921.572 -378142.504    39.9782145  -105.0395846
+ DOM LAT/LON#:         143886.895 -378190.544    39.9685820  -105.0529290
+  

@@ -1,0 +1,12 @@
+** AERMAP - VERSION 18081                                              06/01/20
+**                                                                     12:12:42
+** Basic Exmaple AERMAP
+** 
+** A total of      1  NED files were used
+** A total of      1  sources were processed
+** DOMAINXY 495479.93 4424271.48 13 497776.07 4426416.45 13
+** ANCHORXY 0496620 4425340 0496620 4425340 13 3
+** TERRHGTS EXTRACT
+  
+SO ELEVUNIT METERS
+SO LOCATION  S1            POINT        496620.00    4425340.00       1621.50

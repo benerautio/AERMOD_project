@@ -1,0 +1,34 @@
+** AERSURFACE Output File, Version 20060                          05/29/20 **
+**                                                                09:22:44 **
+
+CO STARTING
+    TITLEONE Basic Example AERSURFACE control file
+
+    OPTIONS PRIMARY ZORAD
+
+    CENTERLL 40.17444 -103.21444 NAD83
+
+    DATAFILE NLCD2016 "2016_R08_CO-UT\2016_R08_CO-UT_Land_Cover.tif"
+    DATAFILE CNPY2016 "2016_R08_CO-UT\2016_R08_CO-UT_Canopy.tif"
+    DATAFILE MPRV2016 "2016_R08_CO-UT\2016_R08_CO-UT_Impervious.tif"
+
+    ZORADIUS 1.0
+
+    CLIMATE AVERAGE SNOW NONARID
+
+    FREQ_SECT MONTHLY 12 AP
+
+    RUNORNOT RUN
+CO FINISHED
+
+OU STARTING
+OU FINISHED
+
+**********************************************
+*** AERSURFACE SETUP Finished Successfully ***
+**********************************************
+
+
+***************************************************
+*** AERSURFACE Processing Finished Successfully ***
+***************************************************

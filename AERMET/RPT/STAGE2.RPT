@@ -1,0 +1,214 @@
+        AERMET, A Meteorological Processor for the AERMOD Dispersion Model
+                                   Version  19191
+
+                     Data Processed on 29-MAY-2020 at 12:58:46
+
+                                      Stage 2                          Page   1
+
+              ********************************************************
+              ***        AERMET Setup Finished Successfully        ***
+              ********************************************************
+
+ 1.  Job File Names
+
+     Listing of Messages: MSG\STAGE2.MSG
+     Summary (this file): RPT\STAGE2.RPT
+
+
+ 2.  Upper Air Data  
+
+      Site ID    Latitude(deg.)   Longitude(deg.)   Time Adjustment
+        23062       39.77N           104.88W               6
+
+     AERMET Has Determined That Processing For This Pathway Includes:
+          MERGE ONLY                                 
+
+          QA Output     -    OPEN: OUT\STAGE1_UA.OUT
+
+
+ 3.  NWS Surface Data
+
+      Site ID    Latitude(deg.)   Longitude(deg.)   Time Adjustment
+        24015     40.1744N          103.214W               6
+
+     AERMET Has Determined That Processing For This Pathway Includes:
+          MERGE ONLY                                 
+
+          QA Output     -    OPEN: OUT\STAGE1_SURF.OUT
+          1-MIN ASOS    -    OPEN: ..\AERMINUTE\AKRON.DAT                                                                          
+
+
+ 4.  On-site Data    
+
+     AERMET Has Determined That Processing For This Pathway Includes:
+          NONE, NO DATA TO BE PROCESSED ON THIS PATH 
+
+
+
+ 5.  Merged Data
+          Merge Output  -    OPEN: OUT\STAGE2.OUT
+        AERMET, A Meteorological Processor for the AERMOD Dispersion Model
+                                   Version  19191
+
+                     Data Processed on 29-MAY-2020 at 12:58:46
+
+                                      Stage 2                          Page   2
+
+                         Merging the Meteorological Data
+
+
+          The Merged Dates Are:    Starting:  1-MAR-2019
+                                     Ending:  1-AUG-2019
+
+                   ***** Daily Output Statistics *****
+         2019 MO/DY:  3/ 1  3/ 2  3/ 3  3/ 4  3/ 5  3/ 6  3/ 7  3/ 8  3/ 9  3/10
+ NWS  Upper Air  Sdgs   2     4     4     4     4     4     4     4     4     3
+ NWS Sfc Observations  24    24    24    24    24    24    24    24    24    24
+ On-site Observations   0     0     0     0     0     0     0     0     0     0
+ Ave 1-min ASOS Winds  24    24    24    24    24    24    24    24    24    24
+
+         2019 MO/DY:  3/11  3/12  3/13  3/14  3/15  3/16  3/17  3/18  3/19  3/20
+ NWS  Upper Air  Sdgs   3     4     4     4     4     4     4     4     4     4
+ NWS Sfc Observations  24    24    24    24    24    24    24    24    24    23
+ On-site Observations   0     0     0     0     0     0     0     0     0     0
+ Ave 1-min ASOS Winds  24    24    24    24    24    24    24    24    24    24
+
+         2019 MO/DY:  3/21  3/22  3/23  3/24  3/25  3/26  3/27  3/28  3/29  3/30
+ NWS  Upper Air  Sdgs   4     4     4     4     4     4     4     4     4     4
+ NWS Sfc Observations  23    24    24    24    24    24    24    24    24    24
+ On-site Observations   0     0     0     0     0     0     0     0     0     0
+ Ave 1-min ASOS Winds  24    24    24    24    24    24    24    24    24    24
+
+         2019 MO/DY:  3/31  4/ 1  4/ 2  4/ 3  4/ 4  4/ 5  4/ 6  4/ 7  4/ 8  4/ 9
+ NWS  Upper Air  Sdgs   4     4     4     4     4     4     4     4     4     3
+ NWS Sfc Observations  24    24    24    24    24    24    24    24    24    24
+ On-site Observations   0     0     0     0     0     0     0     0     0     0
+ Ave 1-min ASOS Winds  24    24    24    24    24    24    24    24    24    24
+
+         2019 MO/DY:  4/10  4/11  4/12  4/13  4/14  4/15  4/16  4/17  4/18  4/19
+ NWS  Upper Air  Sdgs   3     4     4     4     4     4     4     4     4     4
+ NWS Sfc Observations  24    24    23    24    24    23    24    24    24    24
+ On-site Observations   0     0     0     0     0     0     0     0     0     0
+ Ave 1-min ASOS Winds  24    24    24    24    24    24    24    24    24    24
+
+         2019 MO/DY:  4/20  4/21  4/22  4/23  4/24  4/25  4/26  4/27  4/28  4/29
+ NWS  Upper Air  Sdgs   4     4     4     4     4     4     4     4     3     3
+ NWS Sfc Observations  24    24    24    24    24    24    24    24    24    24
+ On-site Observations   0     0     0     0     0     0     0     0     0     0
+ Ave 1-min ASOS Winds  24    24    24    24    24    24    24    24    24    24
+
+         2019 MO/DY:  4/30  5/ 1  5/ 2  5/ 3  5/ 4  5/ 5  5/ 6  5/ 7  5/ 8  5/ 9
+ NWS  Upper Air  Sdgs   4     4     4     4     4     4     4     4     4     4
+ NWS Sfc Observations  24    24    24    24    24    24    24    24    24    24
+ On-site Observations   0     0     0     0     0     0     0     0     0     0
+ Ave 1-min ASOS Winds  24    24    24    24    24    24    24    24    24    24
+
+         2019 MO/DY:  5/10  5/11  5/12  5/13  5/14  5/15  5/16  5/17  5/18  5/19
+ NWS  Upper Air  Sdgs   4     4     4     4     4     4     4     4     4     4
+ NWS Sfc Observations  24    24    24    24    24    24    24    24    24    24
+ On-site Observations   0     0     0     0     0     0     0     0     0     0
+ Ave 1-min ASOS Winds  24    24    24    24    24    24    24    24    24    24
+
+        AERMET, A Meteorological Processor for the AERMOD Dispersion Model
+                                   Version  19191
+
+                     Data Processed on 29-MAY-2020 at 12:58:46
+
+                                      Stage 2                          Page   3
+
+                   ***** Daily Output Statistics, continued *****
+         2019 MO/DY:  5/20  5/21  5/22  5/23  5/24  5/25  5/26  5/27  5/28  5/29
+ NWS  Upper Air  Sdgs   4     4     4     4     4     4     5     5     4     3
+ NWS Sfc Observations  24    24    24    24    24    24    24    24    24    24
+ On-site Observations   0     0     0     0     0     0     0     0     0     0
+ Ave 1-min ASOS Winds  24    24    24    24    24    24    24    24    24    24
+
+         2019 MO/DY:  5/30  5/31  6/ 1  6/ 2  6/ 3  6/ 4  6/ 5  6/ 6  6/ 7  6/ 8
+ NWS  Upper Air  Sdgs   2     3     4     4     4     4     4     4     4     4
+ NWS Sfc Observations  24    24    24    24    24    24    24    23    24    24
+ On-site Observations   0     0     0     0     0     0     0     0     0     0
+ Ave 1-min ASOS Winds  24    24    24    24    24    24    24    24    24    24
+
+         2019 MO/DY:  6/ 9  6/10  6/11  6/12  6/13  6/14  6/15  6/16  6/17  6/18
+ NWS  Upper Air  Sdgs   4     4     4     4     4     4     4     4     3     3
+ NWS Sfc Observations  24    24    24    24    24    24    24    24    24    24
+ On-site Observations   0     0     0     0     0     0     0     0     0     0
+ Ave 1-min ASOS Winds  24    24    24    24    24    24    24    24    24    24
+
+         2019 MO/DY:  6/19  6/20  6/21  6/22  6/23  6/24  6/25  6/26  6/27  6/28
+ NWS  Upper Air  Sdgs   4     4     4     4     4     4     4     4     4     4
+ NWS Sfc Observations  24    24    24    24    24    24    24    24    24    24
+ On-site Observations   0     0     0     0     0     0     0     0     0     0
+ Ave 1-min ASOS Winds  24    24    24    24    24    24    24    24    24    24
+
+         2019 MO/DY:  6/29  6/30  7/ 1  7/ 2  7/ 3  7/ 4  7/ 5  7/ 6  7/ 7  7/ 8
+ NWS  Upper Air  Sdgs   4     4     4     4     4     4     4     4     4     4
+ NWS Sfc Observations  24    24    24    24    24    24    24    24    24    24
+ On-site Observations   0     0     0     0     0     0     0     0     0     0
+ Ave 1-min ASOS Winds  24    24    24    24    24    24    24    24    24    24
+
+         2019 MO/DY:  7/ 9  7/10  7/11  7/12  7/13  7/14  7/15  7/16  7/17  7/18
+ NWS  Upper Air  Sdgs   4     4     4     4     4     4     4     4     4     4
+ NWS Sfc Observations  24    24    24    24    24    24    24    24    24    24
+ On-site Observations   0     0     0     0     0     0     0     0     0     0
+ Ave 1-min ASOS Winds  24    24    24    24    24    24    24    24    24    24
+
+         2019 MO/DY:  7/19  7/20  7/21  7/22  7/23  7/24  7/25  7/26  7/27  7/28
+ NWS  Upper Air  Sdgs   4     4     4     4     4     4     4     4     4     4
+ NWS Sfc Observations  24    24    24    24    24    24    24    24    24    24
+ On-site Observations   0     0     0     0     0     0     0     0     0     0
+ Ave 1-min ASOS Winds  24    24    24    24    24    24    24    24    24    24
+
+         2019 MO/DY:  7/29  7/30  7/31  8/ 1
+ NWS  Upper Air  Sdgs   4     3     1     1
+ NWS Sfc Observations  24    24    24    18
+ On-site Observations   0     0     0     0
+ Ave 1-min ASOS Winds  24    24    24    24
+
+
+ TOTAL OBSERVATIONS READ:
+    Upper Air Soundings :    299
+    NWS Sfc Observations:   3691
+    On-site Observations:      0
+    1-min ASOS Wind Data:   5113
+
+                   ***** MERGE PROCESS COMPLETED *****
+        AERMET, A Meteorological Processor for the AERMOD Dispersion Model
+                                   Version  19191
+
+                     Data Processed on 29-MAY-2020 at 12:58:46
+
+                                      Stage 2                          Page   4
+
+              ********************************************************
+              ***   AERMET Data Processing Finished Successfully   ***
+              ********************************************************
+
+
+                      **** AERMET MESSAGE SUMMARY TABLE ****
+
+          0- 9   10-19   20-29   30-39   40-49   50-59   60-69   70-89   TOTAL
+       ------------------------------------------------------------------------
+
+  JOB       
+    E      0       0       0       0       0       0       0       0       0
+    W      0       0       0       0       0       0       0       0       0
+    I      0       1       5       0       0       0       0       0       6
+
+  MERGE     
+    E      0       0       0       0       0       0       0       0       0
+    W      0       0       0       0       0       0       1       0       1
+    I      0       0       0       0       1       0       1       0       2
+       ------------------------------------------------------------------------
+           0       1       5       0       1       0       2       0       9
+
+        ****    ERROR MESSAGES    ****
+
+               ---  NONE  ---
+
+
+        ****   WARNING MESSAGES   ****
+         MERGE      W66 MERGE   : 1-MIN ASOS winds from AERMINUTE Version 15272  used for WBAN: 24015; Call_ID: KAKO
+
+    ASOS Commission Date for 1-min ASOS Station    24015 (YYYYMMDD): 19960206
+

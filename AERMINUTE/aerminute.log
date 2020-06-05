@@ -1,0 +1,265 @@
+ AERMINUTE VERSION 15272 
+ Program start date & time: May 22, 2020  14:13:56 PM
+
+ ################################ INPUTS ################################
+
+ Control input file: aerminute.inp
+ Summary of dates
+ Start date:  1  1 2019
+ End Date: 12 31 2019
+
+ Station is not part of the IFW group for data period
+
+ 5-minute files will be read
+
+
+ ########################################################################
+
+ ######################## 1 -MINUTE DATA FILES CHECK ######################
+
+ Checking for duplicate filenames
+
+ No duplicate filenames found
+
+ All files found...
+ Number of files to process:  16
+
+ ########################################################################
+
+ ######################## 5 -MINUTE DATA FILES CHECK ######################
+
+ Checking for duplicate filenames
+
+ No duplicate filenames found
+
+ All files found...
+ Number of files to process:  16
+
+ ########################################################################
+
+ ######################### SURFACE FILES CHECK ##########################
+
+ Obtaining surface data filenames
+
+ Checking for duplicate surface filenames
+
+ No duplicate filenames found
+
+ Reading surface files
+ Reading surface file 724698-24015-2019
+
+ ########################################################################
+
+ ######################## 1-MIN FILE PROCESSING #########################
+
+ Reading 1_min\64050KAKO201901.dat
+
+ Reading 1_min\64050KAKO201902.dat
+
+ Reading 1_min\64050KAKO201903.dat
+
+ Reading 1_min\64050KAKO201904.dat
+
+ Reading 1_min\64050KAKO201905.dat
+
+ Reading 1_min\64050KAKO201906.dat
+
+ Reading 1_min\64050KAKO201907.dat
+
+ Reading 1_min\64050KAKO201908.dat
+
+ Reading 1_min\64050KAKO201909.dat
+
+ Reading 1_min\64050KAKO201910.dat
+
+ Reading 1_min\64050KAKO201911.dat
+
+ Reading 1_min\64050KAKO201912.dat
+
+ Reading 1_min\64050KAKO202001.dat
+
+ Reading 1_min\64050KAKO202002.dat
+
+ Reading 1_min\64050KAKO202003.dat
+
+ Reading 1_min\64050KAKO202004.dat
+
+ All files read...
+
+ RECORD FORMAT QA
+
+ Total number of records read from files:           628575
+ Number of processed records:                       604204
+ Number of records outside data period:             157459
+ Number of records inside data period:              446745
+ Number of non-processed records:                    24371
+ Number of records for minute 1:                     10468
+ Number of bad records:                              13903
+ Number of check records:                                0
+ Number of bad minute records:                           0
+ NOTE: Number of non-processed records includes records outside data period
+
+ QA FLAG SUMMARY COUNT
+ FLAG                      DESCRIPTION                                      RECORDS
+  1    Non-numeric characters in columns 68 through 90                        13525
+  2    Text string with leading zero in columns 66 through 90                     0
+  3    4-character numeric string found in columns 30 through 113                 1
+  4    Column 30 is non-blank                                                     0
+  5    No number in columns 70-74 for 2-minute wind direction                 13535
+  6    No number in columns 76-79 for 2-minute wind speed                     11138
+  7    No number in columns 82-84 for 5-second gust wind direction             9715
+  8    No number in columns 87-89 for 5-second gust wind speed                 9722
+  9    Number in column 90                                                     4335
+ 10    Wind speeds and directions outside allowable ranges                      213
+ 11    Other flags switched on, but winds may be okay                             0
+ 11    Other flags switched on, but record is bad                             13903
+
+ ########################################################################
+
+ ######################### 5-MIN FILE PROCESSING ########################
+
+ Reading 5_min\64010KAKO201901.dat
+
+ Reading 5_min\64010KAKO201902.dat
+
+ Reading 5_min\64010KAKO201903.dat
+
+ Reading 5_min\64010KAKO201904.dat
+
+ Reading 5_min\64010KAKO201905.dat
+
+ Reading 5_min\64010KAKO201906.dat
+
+ Reading 5_min\64010KAKO201907.dat
+
+ Reading 5_min\64010KAKO201908.dat
+
+ Reading 5_min\64010KAKO201909.dat
+
+ Reading 5_min\64010KAKO201910.dat
+
+ Reading 5_min\64010KAKO201911.dat
+
+ Reading 5_min\64010KAKO201912.dat
+
+ Reading 5_min\64010KAKO202001.dat
+
+ Reading 5_min\64010KAKO202002.dat
+
+ Reading 5_min\64010KAKO202003.dat
+
+ Reading 5_min\64010KAKO202004.dat
+
+ All files read...
+
+ ############################ DATA QC SUMMARY ############################
+
+ STANDARD CALMS
+   Number of standard observation calms:     144
+   Number of missing 1-minute winds:          12
+   Number of 1-minute winds < 3 knots:       132
+   Number of 1-minute winds >= 3 knots:        0
+
+ STANDARD MISSING WINDS
+   Number of standard observation missing winds:    178
+   Number of missing 1-minute winds:                 19
+   Number of non-missing 1-minute winds:            159
+
+ STANDARD VARIABLE WINDS
+   Number of standard observation variable winds:     91
+   Number of missing 1-minute winds:                   5
+   Number of non-missing 1-minute winds:              86
+
+ VARIABLE WINDS:  SPEED DIFFERENCES (M/S)
+ Speed difference     Number of minutes
+         0                  65
+    <= 0.2                  21
+ 0.3 - 0.5                   0
+ 0.5 - 1.0                   0
+ 1.0 - 3.0                   0
+ 3.0 - 5.0                   0
+     > 5.0                   0
+
+ STANDARD VALID WINDS   Number of standard observation valid winds:   5652
+   Number of missing 1-minute winds:              734
+   Number of non-missing 1-minute winds:         4918
+
+ VALID WINDS:  SPEED DIFFERENCES (M/S)
+ Speed difference     Number of minutes
+         0                2763
+    <= 0.2                2142
+ 0.3 - 0.5                  12
+ 0.5 - 1.0                   0
+ 1.0 - 3.0                   1
+ 3.0 - 5.0                   0
+     > 5.0                   0
+
+ VALID WINDS:  DIRECTION DIFFERENCES (DEG)
+  Direction difference   Number of minutes
+      0                      4917
+ <=  10                         0
+ <=  20                         0
+ <=  30                         0
+ <=  40                         0
+ <=  50                         0
+ <=  60                         0
+ <=  70                         1
+ <=  80                         0
+ <=  90                         0
+ <= 100                         0
+ <= 110                         0
+ <= 120                         0
+ <= 130                         0
+ <= 140                         0
+ <= 150                         0
+ <= 160                         0
+ <= 170                         0
+ <= 180                         0
+  > 180                         0
+
+ ########################################################################
+
+ ################################ SUMMARY ###############################
+
+
+ Minimum 2-minute wind speed (knots), direction and original date (YYYYMMDDHHmm)
+   0.00  30 201901060614   *1-minute data
+ Maximum 2-minute wind speed (knots), direction and original date (YYYYMMDDHHmm)
+  46.00 351 201903131535   *5-minute data
+
+
+ Minimum hourly wind speed (m/s), direction and date (YYYYMMDDHH)
+   0.77 313.0 2019121521
+ Maximum hourly wind speed (m/s), direction and date (YYYYMMDDHH)
+  21.08 346.0 2019031316
+
+
+
+ Number of total hours in data period:   8760
+ Number of processed hours:              8356 ( 95.39%)
+ Number of valid hours:                  8340 ( 95.21%)
+ Number of processed non-valid hours:       1 (  0.01%)
+ Number of calm hours:                     15 (  0.17%)
+
+
+                     TOTAL   VALID   INVALID    CALM    MISSING    5-MIN
+ YEAR      MONTH     HOURS   HOURS    HOURS     HOURS    HOURS    MINUTES
+ ------------------------------------------------------------------------
+ 2019    January      744      716        0        4       24          1
+ 2019   February      672      671        0        1        0          1
+ 2019      March      744      701        0        0       43       7665
+ 2019      April      720      645        0        3       72        144
+ 2019        May      744      739        0        0        5          0
+ 2019       June      720      699        0        0       21          1
+ 2019       July      744      730        0        1       13        221
+ 2019     August      744      743        0        0        1        118
+ 2019  September      720      602        0        1      117          1
+ 2019    October      744      711        1        2       30          5
+ 2019   November      720      682        0        1       37         98
+ 2019   December      744      701        0        2       41         67
+
+ ########################################################################
+
+ Normal termination
+
+ Program end date & time: May 22, 2020  14:14:17 PM

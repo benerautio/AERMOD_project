@@ -1,0 +1,1839 @@
+** AERMAP - VERSION 18081                                              06/01/20
+**                                                                     12:12:42
+
+LOOKING AT NEDs FOR REC:       1
+REC#:      1    RLAT/LON:         39.98046699       -105.03958586
+             SHIFTL/L(S):          0.00000000          0.00000000
+            UTM(E/N/Zon):          496620.000         4425590.000   13
+             SHIFTX/Y(M):          0.00000000          0.00000000   REC NAD:  3
+
+   NED No.:    1 NED Name: NED:gdal_uncompress.tif                  NED NAD:  4
+        NED Max. LAT/LON(D.D):       40.00051     -104.99949
+             Rec LAT/LON(D.D):       39.98047     -105.03959
+        NED Min. LAT/LON(D.D):       38.99949     -106.00051
+
+        NED Max. LAT/LON(Sec):   144001.83333  -377998.16667
+             Rec LAT/LON(Sec):   143929.68118  -378142.50911
+        NED Min. LAT/LON(Sec):   140398.16667  -381601.83333
+
+NED No.:    1 Contains Rec No.:      1
+
+LOOKING AT NEDs FOR REC:       2
+REC#:      2    RLAT/LON:         39.98271945       -105.03958716
+             SHIFTL/L(S):          0.00000000          0.00000000
+            UTM(E/N/Zon):          496620.000         4425840.000   13
+             SHIFTX/Y(M):          0.00000000          0.00000000   REC NAD:  3
+
+   NED No.:    1 NED Name: NED:gdal_uncompress.tif                  NED NAD:  4
+        NED Max. LAT/LON(D.D):       40.00051     -104.99949
+             Rec LAT/LON(D.D):       39.98272     -105.03959
+        NED Min. LAT/LON(D.D):       38.99949     -106.00051
+
+        NED Max. LAT/LON(Sec):   144001.83333  -377998.16667
+             Rec LAT/LON(Sec):   143937.79003  -378142.51379
+        NED Min. LAT/LON(Sec):   140398.16667  -381601.83333
+
+NED No.:    1 Contains Rec No.:      2
+
+LOOKING AT NEDs FOR REC:       3
+REC#:      3    RLAT/LON:         39.98497191       -105.03958846
+             SHIFTL/L(S):          0.00000000          0.00000000
+            UTM(E/N/Zon):          496620.000         4426090.000   13
+             SHIFTX/Y(M):          0.00000000          0.00000000   REC NAD:  3
+
+   NED No.:    1 NED Name: NED:gdal_uncompress.tif                  NED NAD:  4
+        NED Max. LAT/LON(D.D):       40.00051     -104.99949
+             Rec LAT/LON(D.D):       39.98497     -105.03959
+        NED Min. LAT/LON(D.D):       38.99949     -106.00051
+
+        NED Max. LAT/LON(Sec):   144001.83333  -377998.16667
+             Rec LAT/LON(Sec):   143945.89887  -378142.51847
+        NED Min. LAT/LON(Sec):   140398.16667  -381601.83333
+
+NED No.:    1 Contains Rec No.:      3
+
+LOOKING AT NEDs FOR REC:       4
+REC#:      4    RLAT/LON:         39.98043295       -105.03907741
+             SHIFTL/L(S):          0.00000000          0.00000000
+            UTM(E/N/Zon):          496663.412         4425586.202   13
+             SHIFTX/Y(M):          0.00000000          0.00000000   REC NAD:  3
+
+   NED No.:    1 NED Name: NED:gdal_uncompress.tif                  NED NAD:  4
+        NED Max. LAT/LON(D.D):       40.00051     -104.99949
+             Rec LAT/LON(D.D):       39.98043     -105.03908
+        NED Min. LAT/LON(D.D):       38.99949     -106.00051
+
+        NED Max. LAT/LON(Sec):   144001.83333  -377998.16667
+             Rec LAT/LON(Sec):   143929.55861  -378140.67868
+        NED Min. LAT/LON(Sec):   140398.16667  -381601.83333
+
+NED No.:    1 Contains Rec No.:      4
+
+LOOKING AT NEDs FOR REC:       5
+REC#:      5    RLAT/LON:         39.98265136       -105.03857023
+             SHIFTL/L(S):          0.00000000          0.00000000
+            UTM(E/N/Zon):          496706.824         4425832.404   13
+             SHIFTX/Y(M):          0.00000000          0.00000000   REC NAD:  3
+
+   NED No.:    1 NED Name: NED:gdal_uncompress.tif                  NED NAD:  4
+        NED Max. LAT/LON(D.D):       40.00051     -104.99949
+             Rec LAT/LON(D.D):       39.98265     -105.03857
+        NED Min. LAT/LON(D.D):       38.99949     -106.00051
+
+        NED Max. LAT/LON(Sec):   144001.83333  -377998.16667
+             Rec LAT/LON(Sec):   143937.54488  -378138.85281
+        NED Min. LAT/LON(Sec):   140398.16667  -381601.83333
+
+NED No.:    1 Contains Rec No.:      5
+
+LOOKING AT NEDs FOR REC:       6
+REC#:      6    RLAT/LON:         39.98486976       -105.03806301
+             SHIFTL/L(S):          0.00000000          0.00000000
+            UTM(E/N/Zon):          496750.236         4426078.606   13
+             SHIFTX/Y(M):          0.00000000          0.00000000   REC NAD:  3
+
+   NED No.:    1 NED Name: NED:gdal_uncompress.tif                  NED NAD:  4
+        NED Max. LAT/LON(D.D):       40.00051     -104.99949
+             Rec LAT/LON(D.D):       39.98487     -105.03806
+        NED Min. LAT/LON(D.D):       38.99949     -106.00051
+
+        NED Max. LAT/LON(Sec):   144001.83333  -377998.16667
+             Rec LAT/LON(Sec):   143945.53114  -378137.02683
+        NED Min. LAT/LON(Sec):   140398.16667  -381601.83333
+
+NED No.:    1 Contains Rec No.:      6
+
+LOOKING AT NEDs FOR REC:       7
+REC#:      7    RLAT/LON:         39.98033149       -105.03858437
+             SHIFTL/L(S):          0.00000000          0.00000000
+            UTM(E/N/Zon):          496705.505         4425574.923   13
+             SHIFTX/Y(M):          0.00000000          0.00000000   REC NAD:  3
+
+   NED No.:    1 NED Name: NED:gdal_uncompress.tif                  NED NAD:  4
+        NED Max. LAT/LON(D.D):       40.00051     -104.99949
+             Rec LAT/LON(D.D):       39.98033     -105.03858
+        NED Min. LAT/LON(D.D):       38.99949     -106.00051
+
+        NED Max. LAT/LON(Sec):   144001.83333  -377998.16667
+             Rec LAT/LON(Sec):   143929.19337  -378138.90373
+        NED Min. LAT/LON(Sec):   140398.16667  -381601.83333
+
+NED No.:    1 Contains Rec No.:      7
+
+LOOKING AT NEDs FOR REC:       8
+REC#:      8    RLAT/LON:         39.98244844       -105.03758411
+             SHIFTL/L(S):          0.00000000          0.00000000
+            UTM(E/N/Zon):          496791.010         4425809.846   13
+             SHIFTX/Y(M):          0.00000000          0.00000000   REC NAD:  3
+
+   NED No.:    1 NED Name: NED:gdal_uncompress.tif                  NED NAD:  4
+        NED Max. LAT/LON(D.D):       40.00051     -104.99949
+             Rec LAT/LON(D.D):       39.98245     -105.03758
+        NED Min. LAT/LON(D.D):       38.99949     -106.00051
+
+        NED Max. LAT/LON(Sec):   144001.83333  -377998.16667
+             Rec LAT/LON(Sec):   143936.81438  -378135.30281
+        NED Min. LAT/LON(Sec):   140398.16667  -381601.83333
+
+NED No.:    1 Contains Rec No.:      8
+
+LOOKING AT NEDs FOR REC:       9
+REC#:      9    RLAT/LON:         39.98456538       -105.03658380
+             SHIFTL/L(S):          0.00000000          0.00000000
+            UTM(E/N/Zon):          496876.515         4426044.769   13
+             SHIFTX/Y(M):          0.00000000          0.00000000   REC NAD:  3
+
+   NED No.:    1 NED Name: NED:gdal_uncompress.tif                  NED NAD:  4
+        NED Max. LAT/LON(D.D):       40.00051     -104.99949
+             Rec LAT/LON(D.D):       39.98457     -105.03658
+        NED Min. LAT/LON(D.D):       38.99949     -106.00051
+
+        NED Max. LAT/LON(Sec):   144001.83333  -377998.16667
+             Rec LAT/LON(Sec):   143944.43536  -378131.70167
+        NED Min. LAT/LON(Sec):   140398.16667  -381601.83333
+
+NED No.:    1 Contains Rec No.:      9
+
+LOOKING AT NEDs FOR REC:      10
+REC#:     10    RLAT/LON:         39.98016571       -105.03812172
+             SHIFTL/L(S):          0.00000000          0.00000000
+            UTM(E/N/Zon):          496745.000         4425556.506   13
+             SHIFTX/Y(M):          0.00000000          0.00000000   REC NAD:  3
+
+   NED No.:    1 NED Name: NED:gdal_uncompress.tif                  NED NAD:  4
+        NED Max. LAT/LON(D.D):       40.00051     -104.99949
+             Rec LAT/LON(D.D):       39.98017     -105.03812
+        NED Min. LAT/LON(D.D):       38.99949     -106.00051
+
+        NED Max. LAT/LON(Sec):   144001.83333  -377998.16667
+             Rec LAT/LON(Sec):   143928.59657  -378137.23820
+        NED Min. LAT/LON(Sec):   140398.16667  -381601.83333
+
+NED No.:    1 Contains Rec No.:     10
+
+LOOKING AT NEDs FOR REC:      11
+REC#:     11    RLAT/LON:         39.98211687       -105.03665880
+             SHIFTL/L(S):          0.00000000          0.00000000
+            UTM(E/N/Zon):          496870.000         4425773.013   13
+             SHIFTX/Y(M):          0.00000000          0.00000000   REC NAD:  3
+
+   NED No.:    1 NED Name: NED:gdal_uncompress.tif                  NED NAD:  4
+        NED Max. LAT/LON(D.D):       40.00051     -104.99949
+             Rec LAT/LON(D.D):       39.98212     -105.03666
+        NED Min. LAT/LON(D.D):       38.99949     -106.00051
+
+        NED Max. LAT/LON(Sec):   144001.83333  -377998.16667
+             Rec LAT/LON(Sec):   143935.62074  -378131.97167
+        NED Min. LAT/LON(Sec):   140398.16667  -381601.83333
+
+NED No.:    1 Contains Rec No.:     11
+
+LOOKING AT NEDs FOR REC:      12
+REC#:     12    RLAT/LON:         39.98406801       -105.03519579
+             SHIFTL/L(S):          0.00000000          0.00000000
+            UTM(E/N/Zon):          496995.000         4425989.519   13
+             SHIFTX/Y(M):          0.00000000          0.00000000   REC NAD:  3
+
+   NED No.:    1 NED Name: NED:gdal_uncompress.tif                  NED NAD:  4
+        NED Max. LAT/LON(D.D):       40.00051     -104.99949
+             Rec LAT/LON(D.D):       39.98407     -105.03520
+        NED Min. LAT/LON(D.D):       38.99949     -106.00051
+
+        NED Max. LAT/LON(Sec):   144001.83333  -377998.16667
+             Rec LAT/LON(Sec):   143942.64483  -378126.70484
+        NED Min. LAT/LON(Sec):   140398.16667  -381601.83333
+
+NED No.:    1 Contains Rec No.:     12
+
+LOOKING AT NEDs FOR REC:      13
+REC#:     13    RLAT/LON:         39.97994065       -105.03770352
+             SHIFTL/L(S):          0.00000000          0.00000000
+            UTM(E/N/Zon):          496780.697         4425531.511   13
+             SHIFTX/Y(M):          0.00000000          0.00000000   REC NAD:  3
+
+   NED No.:    1 NED Name: NED:gdal_uncompress.tif                  NED NAD:  4
+        NED Max. LAT/LON(D.D):       40.00051     -104.99949
+             Rec LAT/LON(D.D):       39.97994     -105.03770
+        NED Min. LAT/LON(D.D):       38.99949     -106.00051
+
+        NED Max. LAT/LON(Sec):   144001.83333  -377998.16667
+             Rec LAT/LON(Sec):   143927.78633  -378135.73269
+        NED Min. LAT/LON(Sec):   140398.16667  -381601.83333
+
+NED No.:    1 Contains Rec No.:     13
+
+LOOKING AT NEDs FOR REC:      14
+REC#:     14    RLAT/LON:         39.98166673       -105.03582239
+             SHIFTL/L(S):          0.00000000          0.00000000
+            UTM(E/N/Zon):          496941.394         4425723.022   13
+             SHIFTX/Y(M):          0.00000000          0.00000000   REC NAD:  3
+
+   NED No.:    1 NED Name: NED:gdal_uncompress.tif                  NED NAD:  4
+        NED Max. LAT/LON(D.D):       40.00051     -104.99949
+             Rec LAT/LON(D.D):       39.98167     -105.03582
+        NED Min. LAT/LON(D.D):       38.99949     -106.00051
+
+        NED Max. LAT/LON(Sec):   144001.83333  -377998.16667
+             Rec LAT/LON(Sec):   143934.00022  -378128.96061
+        NED Min. LAT/LON(Sec):   140398.16667  -381601.83333
+
+NED No.:    1 Contains Rec No.:     14
+
+LOOKING AT NEDs FOR REC:      15
+REC#:     15    RLAT/LON:         39.98339278       -105.03394116
+             SHIFTL/L(S):          0.00000000          0.00000000
+            UTM(E/N/Zon):          497102.091         4425914.533   13
+             SHIFTX/Y(M):          0.00000000          0.00000000   REC NAD:  3
+
+   NED No.:    1 NED Name: NED:gdal_uncompress.tif                  NED NAD:  4
+        NED Max. LAT/LON(D.D):       40.00051     -104.99949
+             Rec LAT/LON(D.D):       39.98339     -105.03394
+        NED Min. LAT/LON(D.D):       38.99949     -106.00051
+
+        NED Max. LAT/LON(Sec):   144001.83333  -377998.16667
+             Rec LAT/LON(Sec):   143940.21399  -378122.18819
+        NED Min. LAT/LON(Sec):   140398.16667  -381601.83333
+
+NED No.:    1 Contains Rec No.:     15
+
+LOOKING AT NEDs FOR REC:      16
+REC#:     16    RLAT/LON:         39.97966313       -105.03734249
+             SHIFTL/L(S):          0.00000000          0.00000000
+            UTM(E/N/Zon):          496811.511         4425500.697   13
+             SHIFTX/Y(M):          0.00000000          0.00000000   REC NAD:  3
+
+   NED No.:    1 NED Name: NED:gdal_uncompress.tif                  NED NAD:  4
+        NED Max. LAT/LON(D.D):       40.00051     -104.99949
+             Rec LAT/LON(D.D):       39.97966     -105.03734
+        NED Min. LAT/LON(D.D):       38.99949     -106.00051
+
+        NED Max. LAT/LON(Sec):   144001.83333  -377998.16667
+             Rec LAT/LON(Sec):   143926.78728  -378134.43295
+        NED Min. LAT/LON(Sec):   140398.16667  -381601.83333
+
+NED No.:    1 Contains Rec No.:     16
+
+LOOKING AT NEDs FOR REC:      17
+REC#:     17    RLAT/LON:         39.98111169       -105.03510032
+             SHIFTL/L(S):          0.00000000          0.00000000
+            UTM(E/N/Zon):          497003.022         4425661.394   13
+             SHIFTX/Y(M):          0.00000000          0.00000000   REC NAD:  3
+
+   NED No.:    1 NED Name: NED:gdal_uncompress.tif                  NED NAD:  4
+        NED Max. LAT/LON(D.D):       40.00051     -104.99949
+             Rec LAT/LON(D.D):       39.98111     -105.03510
+        NED Min. LAT/LON(D.D):       38.99949     -106.00051
+
+        NED Max. LAT/LON(Sec):   144001.83333  -377998.16667
+             Rec LAT/LON(Sec):   143932.00207  -378126.36114
+        NED Min. LAT/LON(Sec):   140398.16667  -381601.83333
+
+NED No.:    1 Contains Rec No.:     17
+
+LOOKING AT NEDs FOR REC:      18
+REC#:     18    RLAT/LON:         39.98256020       -105.03285805
+             SHIFTL/L(S):          0.00000000          0.00000000
+            UTM(E/N/Zon):          497194.533         4425822.091   13
+             SHIFTX/Y(M):          0.00000000          0.00000000   REC NAD:  3
+
+   NED No.:    1 NED Name: NED:gdal_uncompress.tif                  NED NAD:  4
+        NED Max. LAT/LON(D.D):       40.00051     -104.99949
+             Rec LAT/LON(D.D):       39.98256     -105.03286
+        NED Min. LAT/LON(D.D):       38.99949     -106.00051
+
+        NED Max. LAT/LON(Sec):   144001.83333  -377998.16667
+             Rec LAT/LON(Sec):   143937.21670  -378118.28898
+        NED Min. LAT/LON(Sec):   140398.16667  -381601.83333
+
+NED No.:    1 Contains Rec No.:     18
+
+LOOKING AT NEDs FOR REC:      19
+REC#:     19    RLAT/LON:         39.97934160       -105.03704958
+             SHIFTL/L(S):          0.00000000          0.00000000
+            UTM(E/N/Zon):          496836.506         4425465.000   13
+             SHIFTX/Y(M):          0.00000000          0.00000000   REC NAD:  3
+
+   NED No.:    1 NED Name: NED:gdal_uncompress.tif                  NED NAD:  4
+        NED Max. LAT/LON(D.D):       40.00051     -104.99949
+             Rec LAT/LON(D.D):       39.97934     -105.03705
+        NED Min. LAT/LON(D.D):       38.99949     -106.00051
+
+        NED Max. LAT/LON(Sec):   144001.83333  -377998.16667
+             Rec LAT/LON(Sec):   143925.62977  -378133.37848
+        NED Min. LAT/LON(Sec):   140398.16667  -381601.83333
+
+NED No.:    1 Contains Rec No.:     19
+
+LOOKING AT NEDs FOR REC:      20
+REC#:     20    RLAT/LON:         39.98046862       -105.03451451
+             SHIFTL/L(S):          0.00000000          0.00000000
+            UTM(E/N/Zon):          497053.013         4425590.000   13
+             SHIFTX/Y(M):          0.00000000          0.00000000   REC NAD:  3
+
+   NED No.:    1 NED Name: NED:gdal_uncompress.tif                  NED NAD:  4
+        NED Max. LAT/LON(D.D):       40.00051     -104.99949
+             Rec LAT/LON(D.D):       39.98047     -105.03451
+        NED Min. LAT/LON(D.D):       38.99949     -106.00051
+
+        NED Max. LAT/LON(Sec):   144001.83333  -377998.16667
+             Rec LAT/LON(Sec):   143929.68702  -378124.25223
+        NED Min. LAT/LON(Sec):   140398.16667  -381601.83333
+
+NED No.:    1 Contains Rec No.:     20
+
+LOOKING AT NEDs FOR REC:      21
+REC#:     21    RLAT/LON:         39.98159557       -105.03197936
+             SHIFTL/L(S):          0.00000000          0.00000000
+            UTM(E/N/Zon):          497269.519         4425715.000   13
+             SHIFTX/Y(M):          0.00000000          0.00000000   REC NAD:  3
+
+   NED No.:    1 NED Name: NED:gdal_uncompress.tif                  NED NAD:  4
+        NED Max. LAT/LON(D.D):       40.00051     -104.99949
+             Rec LAT/LON(D.D):       39.98160     -105.03198
+        NED Min. LAT/LON(D.D):       38.99949     -106.00051
+
+        NED Max. LAT/LON(Sec):   144001.83333  -377998.16667
+             Rec LAT/LON(Sec):   143933.74406  -378115.12568
+        NED Min. LAT/LON(Sec):   140398.16667  -381601.83333
+
+NED No.:    1 Contains Rec No.:     21
+
+LOOKING AT NEDs FOR REC:      22
+REC#:     22    RLAT/LON:         39.97898583       -105.03683370
+             SHIFTL/L(S):          0.00000000          0.00000000
+            UTM(E/N/Zon):          496854.923         4425425.505   13
+             SHIFTX/Y(M):          0.00000000          0.00000000   REC NAD:  3
+
+   NED No.:    1 NED Name: NED:gdal_uncompress.tif                  NED NAD:  4
+        NED Max. LAT/LON(D.D):       40.00051     -104.99949
+             Rec LAT/LON(D.D):       39.97899     -105.03683
+        NED Min. LAT/LON(D.D):       38.99949     -106.00051
+
+        NED Max. LAT/LON(Sec):   144001.83333  -377998.16667
+             Rec LAT/LON(Sec):   143924.34899  -378132.60131
+        NED Min. LAT/LON(Sec):   140398.16667  -381601.83333
+
+NED No.:    1 Contains Rec No.:     22
+
+LOOKING AT NEDs FOR REC:      23
+REC#:     23    RLAT/LON:         39.97975706       -105.03408277
+             SHIFTL/L(S):          0.00000000          0.00000000
+            UTM(E/N/Zon):          497089.846         4425511.010   13
+             SHIFTX/Y(M):          0.00000000          0.00000000   REC NAD:  3
+
+   NED No.:    1 NED Name: NED:gdal_uncompress.tif                  NED NAD:  4
+        NED Max. LAT/LON(D.D):       40.00051     -104.99949
+             Rec LAT/LON(D.D):       39.97976     -105.03408
+        NED Min. LAT/LON(D.D):       38.99949     -106.00051
+
+        NED Max. LAT/LON(Sec):   144001.83333  -377998.16667
+             Rec LAT/LON(Sec):   143927.12541  -378122.69796
+        NED Min. LAT/LON(Sec):   140398.16667  -381601.83333
+
+NED No.:    1 Contains Rec No.:     23
+
+LOOKING AT NEDs FOR REC:      24
+REC#:     24    RLAT/LON:         39.98052822       -105.03133178
+             SHIFTL/L(S):          0.00000000          0.00000000
+            UTM(E/N/Zon):          497324.769         4425596.515   13
+             SHIFTX/Y(M):          0.00000000          0.00000000   REC NAD:  3
+
+   NED No.:    1 NED Name: NED:gdal_uncompress.tif                  NED NAD:  4
+        NED Max. LAT/LON(D.D):       40.00051     -104.99949
+             Rec LAT/LON(D.D):       39.98053     -105.03133
+        NED Min. LAT/LON(D.D):       38.99949     -106.00051
+
+        NED Max. LAT/LON(Sec):   144001.83333  -377998.16667
+             Rec LAT/LON(Sec):   143929.90159  -378112.79439
+        NED Min. LAT/LON(Sec):   140398.16667  -381601.83333
+
+NED No.:    1 Contains Rec No.:     24
+
+LOOKING AT NEDs FOR REC:      25
+REC#:     25    RLAT/LON:         39.97860662       -105.03670140
+             SHIFTL/L(S):          0.00000000          0.00000000
+            UTM(E/N/Zon):          496866.202         4425383.412   13
+             SHIFTX/Y(M):          0.00000000          0.00000000   REC NAD:  3
+
+   NED No.:    1 NED Name: NED:gdal_uncompress.tif                  NED NAD:  4
+        NED Max. LAT/LON(D.D):       40.00051     -104.99949
+             Rec LAT/LON(D.D):       39.97861     -105.03670
+        NED Min. LAT/LON(D.D):       38.99949     -106.00051
+
+        NED Max. LAT/LON(Sec):   144001.83333  -377998.16667
+             Rec LAT/LON(Sec):   143922.98383  -378132.12504
+        NED Min. LAT/LON(Sec):   140398.16667  -381601.83333
+
+NED No.:    1 Contains Rec No.:     25
+
+LOOKING AT NEDs FOR REC:      26
+REC#:     26    RLAT/LON:         39.97899863       -105.03381821
+             SHIFTL/L(S):          0.00000000          0.00000000
+            UTM(E/N/Zon):          497112.404         4425426.824   13
+             SHIFTX/Y(M):          0.00000000          0.00000000   REC NAD:  3
+
+   NED No.:    1 NED Name: NED:gdal_uncompress.tif                  NED NAD:  4
+        NED Max. LAT/LON(D.D):       40.00051     -104.99949
+             Rec LAT/LON(D.D):       39.97900     -105.03382
+        NED Min. LAT/LON(D.D):       38.99949     -106.00051
+
+        NED Max. LAT/LON(Sec):   144001.83333  -377998.16667
+             Rec LAT/LON(Sec):   143924.39508  -378121.74554
+        NED Min. LAT/LON(Sec):   140398.16667  -381601.83333
+
+NED No.:    1 Contains Rec No.:     26
+
+LOOKING AT NEDs FOR REC:      27
+REC#:     27    RLAT/LON:         39.97939057       -105.03093498
+             SHIFTL/L(S):          0.00000000          0.00000000
+            UTM(E/N/Zon):          497358.606         4425470.236   13
+             SHIFTX/Y(M):          0.00000000          0.00000000   REC NAD:  3
+
+   NED No.:    1 NED Name: NED:gdal_uncompress.tif                  NED NAD:  4
+        NED Max. LAT/LON(D.D):       40.00051     -104.99949
+             Rec LAT/LON(D.D):       39.97939     -105.03093
+        NED Min. LAT/LON(D.D):       38.99949     -106.00051
+
+        NED Max. LAT/LON(Sec):   144001.83333  -377998.16667
+             Rec LAT/LON(Sec):   143925.80607  -378111.36592
+        NED Min. LAT/LON(Sec):   140398.16667  -381601.83333
+
+NED No.:    1 Contains Rec No.:     27
+
+LOOKING AT NEDs FOR REC:      28
+REC#:     28    RLAT/LON:         39.97821550       -105.03665671
+             SHIFTL/L(S):          0.00000000          0.00000000
+            UTM(E/N/Zon):          496870.000         4425340.000   13
+             SHIFTX/Y(M):          0.00000000          0.00000000   REC NAD:  3
+
+   NED No.:    1 NED Name: NED:gdal_uncompress.tif                  NED NAD:  4
+        NED Max. LAT/LON(D.D):       40.00051     -104.99949
+             Rec LAT/LON(D.D):       39.97822     -105.03666
+        NED Min. LAT/LON(D.D):       38.99949     -106.00051
+
+        NED Max. LAT/LON(Sec):   144001.83333  -377998.16667
+             Rec LAT/LON(Sec):   143921.57580  -378131.96416
+        NED Min. LAT/LON(Sec):   140398.16667  -381601.83333
+
+NED No.:    1 Contains Rec No.:     28
+
+LOOKING AT NEDs FOR REC:      29
+REC#:     29    RLAT/LON:         39.97821639       -105.03372886
+             SHIFTL/L(S):          0.00000000          0.00000000
+            UTM(E/N/Zon):          497120.000         4425340.000   13
+             SHIFTX/Y(M):          0.00000000          0.00000000   REC NAD:  3
+
+   NED No.:    1 NED Name: NED:gdal_uncompress.tif                  NED NAD:  4
+        NED Max. LAT/LON(D.D):       40.00051     -104.99949
+             Rec LAT/LON(D.D):       39.97822     -105.03373
+        NED Min. LAT/LON(D.D):       38.99949     -106.00051
+
+        NED Max. LAT/LON(Sec):   144001.83333  -377998.16667
+             Rec LAT/LON(Sec):   143921.57900  -378121.42389
+        NED Min. LAT/LON(Sec):   140398.16667  -381601.83333
+
+NED No.:    1 Contains Rec No.:     29
+
+LOOKING AT NEDs FOR REC:      30
+REC#:     30    RLAT/LON:         39.97821720       -105.03080101
+             SHIFTL/L(S):          0.00000000          0.00000000
+            UTM(E/N/Zon):          497370.000         4425340.000   13
+             SHIFTX/Y(M):          0.00000000          0.00000000   REC NAD:  3
+
+   NED No.:    1 NED Name: NED:gdal_uncompress.tif                  NED NAD:  4
+        NED Max. LAT/LON(D.D):       40.00051     -104.99949
+             Rec LAT/LON(D.D):       39.97822     -105.03080
+        NED Min. LAT/LON(D.D):       38.99949     -106.00051
+
+        NED Max. LAT/LON(Sec):   144001.83333  -377998.16667
+             Rec LAT/LON(Sec):   143921.58193  -378110.88363
+        NED Min. LAT/LON(Sec):   140398.16667  -381601.83333
+
+NED No.:    1 Contains Rec No.:     30
+
+LOOKING AT NEDs FOR REC:      31
+REC#:     31    RLAT/LON:         39.97782435       -105.03670098
+             SHIFTL/L(S):          0.00000000          0.00000000
+            UTM(E/N/Zon):          496866.202         4425296.588   13
+             SHIFTX/Y(M):          0.00000000          0.00000000   REC NAD:  3
+
+   NED No.:    1 NED Name: NED:gdal_uncompress.tif                  NED NAD:  4
+        NED Max. LAT/LON(D.D):       40.00051     -104.99949
+             Rec LAT/LON(D.D):       39.97782     -105.03670
+        NED Min. LAT/LON(D.D):       38.99949     -106.00051
+
+        NED Max. LAT/LON(Sec):   144001.83333  -377998.16667
+             Rec LAT/LON(Sec):   143920.16766  -378132.12354
+        NED Min. LAT/LON(Sec):   140398.16667  -381601.83333
+
+NED No.:    1 Contains Rec No.:     31
+
+LOOKING AT NEDs FOR REC:      32
+REC#:     32    RLAT/LON:         39.97743409       -105.03381744
+             SHIFTL/L(S):          0.00000000          0.00000000
+            UTM(E/N/Zon):          497112.404         4425253.176   13
+             SHIFTX/Y(M):          0.00000000          0.00000000   REC NAD:  3
+
+   NED No.:    1 NED Name: NED:gdal_uncompress.tif                  NED NAD:  4
+        NED Max. LAT/LON(D.D):       40.00051     -104.99949
+             Rec LAT/LON(D.D):       39.97743     -105.03382
+        NED Min. LAT/LON(D.D):       38.99949     -106.00051
+
+        NED Max. LAT/LON(Sec):   144001.83333  -377998.16667
+             Rec LAT/LON(Sec):   143918.76273  -378121.74277
+        NED Min. LAT/LON(Sec):   140398.16667  -381601.83333
+
+NED No.:    1 Contains Rec No.:     32
+
+LOOKING AT NEDs FOR REC:      33
+REC#:     33    RLAT/LON:         39.97704376       -105.03093392
+             SHIFTL/L(S):          0.00000000          0.00000000
+            UTM(E/N/Zon):          497358.606         4425209.764   13
+             SHIFTX/Y(M):          0.00000000          0.00000000   REC NAD:  3
+
+   NED No.:    1 NED Name: NED:gdal_uncompress.tif                  NED NAD:  4
+        NED Max. LAT/LON(D.D):       40.00051     -104.99949
+             Rec LAT/LON(D.D):       39.97704     -105.03093
+        NED Min. LAT/LON(D.D):       38.99949     -106.00051
+
+        NED Max. LAT/LON(Sec):   144001.83333  -377998.16667
+             Rec LAT/LON(Sec):   143917.35754  -378111.36211
+        NED Min. LAT/LON(Sec):   140398.16667  -381601.83333
+
+NED No.:    1 Contains Rec No.:     33
+
+LOOKING AT NEDs FOR REC:      34
+REC#:     34    RLAT/LON:         39.97744506       -105.03683287
+             SHIFTL/L(S):          0.00000000          0.00000000
+            UTM(E/N/Zon):          496854.923         4425254.495   13
+             SHIFTX/Y(M):          0.00000000          0.00000000   REC NAD:  3
+
+   NED No.:    1 NED Name: NED:gdal_uncompress.tif                  NED NAD:  4
+        NED Max. LAT/LON(D.D):       40.00051     -104.99949
+             Rec LAT/LON(D.D):       39.97745     -105.03683
+        NED Min. LAT/LON(D.D):       38.99949     -106.00051
+
+        NED Max. LAT/LON(Sec):   144001.83333  -377998.16667
+             Rec LAT/LON(Sec):   143918.80221  -378132.59833
+        NED Min. LAT/LON(Sec):   140398.16667  -381601.83333
+
+NED No.:    1 Contains Rec No.:     34
+
+LOOKING AT NEDs FOR REC:      35
+REC#:     35    RLAT/LON:         39.97667551       -105.03408124
+             SHIFTL/L(S):          0.00000000          0.00000000
+            UTM(E/N/Zon):          497089.846         4425168.990   13
+             SHIFTX/Y(M):          0.00000000          0.00000000   REC NAD:  3
+
+   NED No.:    1 NED Name: NED:gdal_uncompress.tif                  NED NAD:  4
+        NED Max. LAT/LON(D.D):       40.00051     -104.99949
+             Rec LAT/LON(D.D):       39.97668     -105.03408
+        NED Min. LAT/LON(D.D):       38.99949     -106.00051
+
+        NED Max. LAT/LON(Sec):   144001.83333  -377998.16667
+             Rec LAT/LON(Sec):   143916.03184  -378122.69245
+        NED Min. LAT/LON(Sec):   140398.16667  -381601.83333
+
+NED No.:    1 Contains Rec No.:     35
+
+LOOKING AT NEDs FOR REC:      36
+REC#:     36    RLAT/LON:         39.97590590       -105.03132967
+             SHIFTL/L(S):          0.00000000          0.00000000
+            UTM(E/N/Zon):          497324.769         4425083.485   13
+             SHIFTX/Y(M):          0.00000000          0.00000000   REC NAD:  3
+
+   NED No.:    1 NED Name: NED:gdal_uncompress.tif                  NED NAD:  4
+        NED Max. LAT/LON(D.D):       40.00051     -104.99949
+             Rec LAT/LON(D.D):       39.97591     -105.03133
+        NED Min. LAT/LON(D.D):       38.99949     -106.00051
+
+        NED Max. LAT/LON(Sec):   144001.83333  -377998.16667
+             Rec LAT/LON(Sec):   143913.26125  -378112.78680
+        NED Min. LAT/LON(Sec):   140398.16667  -381601.83333
+
+NED No.:    1 Contains Rec No.:     36
+
+LOOKING AT NEDs FOR REC:      37
+REC#:     37    RLAT/LON:         39.97708915       -105.03704836
+             SHIFTL/L(S):          0.00000000          0.00000000
+            UTM(E/N/Zon):          496836.506         4425215.000   13
+             SHIFTX/Y(M):          0.00000000          0.00000000   REC NAD:  3
+
+   NED No.:    1 NED Name: NED:gdal_uncompress.tif                  NED NAD:  4
+        NED Max. LAT/LON(D.D):       40.00051     -104.99949
+             Rec LAT/LON(D.D):       39.97709     -105.03705
+        NED Min. LAT/LON(D.D):       38.99949     -106.00051
+
+        NED Max. LAT/LON(Sec):   144001.83333  -377998.16667
+             Rec LAT/LON(Sec):   143917.52092  -378133.37410
+        NED Min. LAT/LON(Sec):   140398.16667  -381601.83333
+
+NED No.:    1 Contains Rec No.:     37
+
+LOOKING AT NEDs FOR REC:      38
+REC#:     38    RLAT/LON:         39.97596370       -105.03451224
+             SHIFTL/L(S):          0.00000000          0.00000000
+            UTM(E/N/Zon):          497053.013         4425090.000   13
+             SHIFTX/Y(M):          0.00000000          0.00000000   REC NAD:  3
+
+   NED No.:    1 NED Name: NED:gdal_uncompress.tif                  NED NAD:  4
+        NED Max. LAT/LON(D.D):       40.00051     -104.99949
+             Rec LAT/LON(D.D):       39.97596     -105.03451
+        NED Min. LAT/LON(D.D):       38.99949     -106.00051
+
+        NED Max. LAT/LON(Sec):   144001.83333  -377998.16667
+             Rec LAT/LON(Sec):   143913.46931  -378124.24407
+        NED Min. LAT/LON(Sec):   140398.16667  -381601.83333
+
+NED No.:    1 Contains Rec No.:     38
+
+LOOKING AT NEDs FOR REC:      39
+REC#:     39    RLAT/LON:         39.97483820       -105.03197621
+             SHIFTL/L(S):          0.00000000          0.00000000
+            UTM(E/N/Zon):          497269.519         4424965.000   13
+             SHIFTX/Y(M):          0.00000000          0.00000000   REC NAD:  3
+
+   NED No.:    1 NED Name: NED:gdal_uncompress.tif                  NED NAD:  4
+        NED Max. LAT/LON(D.D):       40.00051     -104.99949
+             Rec LAT/LON(D.D):       39.97484     -105.03198
+        NED Min. LAT/LON(D.D):       38.99949     -106.00051
+
+        NED Max. LAT/LON(Sec):   144001.83333  -377998.16667
+             Rec LAT/LON(Sec):   143909.41750  -378115.11434
+        NED Min. LAT/LON(Sec):   140398.16667  -381601.83333
+
+NED No.:    1 Contains Rec No.:     39
+
+LOOKING AT NEDs FOR REC:      40
+REC#:     40    RLAT/LON:         39.97676743       -105.03734091
+             SHIFTL/L(S):          0.00000000          0.00000000
+            UTM(E/N/Zon):          496811.511         4425179.303   13
+             SHIFTX/Y(M):          0.00000000          0.00000000   REC NAD:  3
+
+   NED No.:    1 NED Name: NED:gdal_uncompress.tif                  NED NAD:  4
+        NED Max. LAT/LON(D.D):       40.00051     -104.99949
+             Rec LAT/LON(D.D):       39.97677     -105.03734
+        NED Min. LAT/LON(D.D):       38.99949     -106.00051
+
+        NED Max. LAT/LON(Sec):   144001.83333  -377998.16667
+             Rec LAT/LON(Sec):   143916.36274  -378134.42728
+        NED Min. LAT/LON(Sec):   140398.16667  -381601.83333
+
+NED No.:    1 Contains Rec No.:     40
+
+LOOKING AT NEDs FOR REC:      41
+REC#:     41    RLAT/LON:         39.97532028       -105.03509735
+             SHIFTL/L(S):          0.00000000          0.00000000
+            UTM(E/N/Zon):          497003.022         4425018.606   13
+             SHIFTX/Y(M):          0.00000000          0.00000000   REC NAD:  3
+
+   NED No.:    1 NED Name: NED:gdal_uncompress.tif                  NED NAD:  4
+        NED Max. LAT/LON(D.D):       40.00051     -104.99949
+             Rec LAT/LON(D.D):       39.97532     -105.03510
+        NED Min. LAT/LON(D.D):       38.99949     -106.00051
+
+        NED Max. LAT/LON(Sec):   144001.83333  -377998.16667
+             Rec LAT/LON(Sec):   143911.15299  -378126.35047
+        NED Min. LAT/LON(Sec):   140398.16667  -381601.83333
+
+NED No.:    1 Contains Rec No.:     41
+
+LOOKING AT NEDs FOR REC:      42
+REC#:     42    RLAT/LON:         39.97387308       -105.03285389
+             SHIFTL/L(S):          0.00000000          0.00000000
+            UTM(E/N/Zon):          497194.533         4424857.909   13
+             SHIFTX/Y(M):          0.00000000          0.00000000   REC NAD:  3
+
+   NED No.:    1 NED Name: NED:gdal_uncompress.tif                  NED NAD:  4
+        NED Max. LAT/LON(D.D):       40.00051     -104.99949
+             Rec LAT/LON(D.D):       39.97387     -105.03285
+        NED Min. LAT/LON(D.D):       38.99949     -106.00051
+
+        NED Max. LAT/LON(Sec):   144001.83333  -377998.16667
+             Rec LAT/LON(Sec):   143905.94309  -378118.27400
+        NED Min. LAT/LON(Sec):   140398.16667  -381601.83333
+
+NED No.:    1 Contains Rec No.:     42
+
+LOOKING AT NEDs FOR REC:      43
+REC#:     43    RLAT/LON:         39.97648968       -105.03770163
+             SHIFTL/L(S):          0.00000000          0.00000000
+            UTM(E/N/Zon):          496780.697         4425148.489   13
+             SHIFTX/Y(M):          0.00000000          0.00000000   REC NAD:  3
+
+   NED No.:    1 NED Name: NED:gdal_uncompress.tif                  NED NAD:  4
+        NED Max. LAT/LON(D.D):       40.00051     -104.99949
+             Rec LAT/LON(D.D):       39.97649     -105.03770
+        NED Min. LAT/LON(D.D):       38.99949     -106.00051
+
+        NED Max. LAT/LON(Sec):   144001.83333  -377998.16667
+             Rec LAT/LON(Sec):   143915.36285  -378135.72586
+        NED Min. LAT/LON(Sec):   140398.16667  -381601.83333
+
+NED No.:    1 Contains Rec No.:     43
+
+LOOKING AT NEDs FOR REC:      44
+REC#:     44    RLAT/LON:         39.97476479       -105.03581879
+             SHIFTL/L(S):          0.00000000          0.00000000
+            UTM(E/N/Zon):          496941.394         4424956.978   13
+             SHIFTX/Y(M):          0.00000000          0.00000000   REC NAD:  3
+
+   NED No.:    1 NED Name: NED:gdal_uncompress.tif                  NED NAD:  4
+        NED Max. LAT/LON(D.D):       40.00051     -104.99949
+             Rec LAT/LON(D.D):       39.97476     -105.03582
+        NED Min. LAT/LON(D.D):       38.99949     -106.00051
+
+        NED Max. LAT/LON(Sec):   144001.83333  -377998.16667
+             Rec LAT/LON(Sec):   143909.15325  -378128.94764
+        NED Min. LAT/LON(Sec):   140398.16667  -381601.83333
+
+NED No.:    1 Contains Rec No.:     44
+
+LOOKING AT NEDs FOR REC:      45
+REC#:     45    RLAT/LON:         39.97303987       -105.03393604
+             SHIFTL/L(S):          0.00000000          0.00000000
+            UTM(E/N/Zon):          497102.091         4424765.467   13
+             SHIFTX/Y(M):          0.00000000          0.00000000   REC NAD:  3
+
+   NED No.:    1 NED Name: NED:gdal_uncompress.tif                  NED NAD:  4
+        NED Max. LAT/LON(D.D):       40.00051     -104.99949
+             Rec LAT/LON(D.D):       39.97304     -105.03394
+        NED Min. LAT/LON(D.D):       38.99949     -106.00051
+
+        NED Max. LAT/LON(Sec):   144001.83333  -377998.16667
+             Rec LAT/LON(Sec):   143902.94355  -378122.16975
+        NED Min. LAT/LON(Sec):   140398.16667  -381601.83333
+
+NED No.:    1 Contains Rec No.:     45
+
+LOOKING AT NEDs FOR REC:      46
+REC#:     46    RLAT/LON:         39.97626434       -105.03811955
+             SHIFTL/L(S):          0.00000000          0.00000000
+            UTM(E/N/Zon):          496745.000         4425123.494   13
+             SHIFTX/Y(M):          0.00000000          0.00000000   REC NAD:  3
+
+   NED No.:    1 NED Name: NED:gdal_uncompress.tif                  NED NAD:  4
+        NED Max. LAT/LON(D.D):       40.00051     -104.99949
+             Rec LAT/LON(D.D):       39.97626     -105.03812
+        NED Min. LAT/LON(D.D):       38.99949     -106.00051
+
+        NED Max. LAT/LON(Sec):   144001.83333  -377998.16667
+             Rec LAT/LON(Sec):   143914.55163  -378137.23039
+        NED Min. LAT/LON(Sec):   140398.16667  -381601.83333
+
+NED No.:    1 Contains Rec No.:     46
+
+LOOKING AT NEDs FOR REC:      47
+REC#:     47    RLAT/LON:         39.97431412       -105.03665463
+             SHIFTL/L(S):          0.00000000          0.00000000
+            UTM(E/N/Zon):          496870.000         4424906.987   13
+             SHIFTX/Y(M):          0.00000000          0.00000000   REC NAD:  3
+
+   NED No.:    1 NED Name: NED:gdal_uncompress.tif                  NED NAD:  4
+        NED Max. LAT/LON(D.D):       40.00051     -104.99949
+             Rec LAT/LON(D.D):       39.97431     -105.03665
+        NED Min. LAT/LON(D.D):       38.99949     -106.00051
+
+        NED Max. LAT/LON(Sec):   144001.83333  -377998.16667
+             Rec LAT/LON(Sec):   143907.53085  -378131.95666
+        NED Min. LAT/LON(Sec):   140398.16667  -381601.83333
+
+NED No.:    1 Contains Rec No.:     47
+
+LOOKING AT NEDs FOR REC:      48
+REC#:     48    RLAT/LON:         39.97236389       -105.03518978
+             SHIFTL/L(S):          0.00000000          0.00000000
+            UTM(E/N/Zon):          496995.000         4424690.481   13
+             SHIFTX/Y(M):          0.00000000          0.00000000   REC NAD:  3
+
+   NED No.:    1 NED Name: NED:gdal_uncompress.tif                  NED NAD:  4
+        NED Max. LAT/LON(D.D):       40.00051     -104.99949
+             Rec LAT/LON(D.D):       39.97236     -105.03519
+        NED Min. LAT/LON(D.D):       38.99949     -106.00051
+
+        NED Max. LAT/LON(Sec):   144001.83333  -377998.16667
+             Rec LAT/LON(Sec):   143900.51001  -378126.68322
+        NED Min. LAT/LON(Sec):   140398.16667  -381601.83333
+
+NED No.:    1 Contains Rec No.:     48
+
+LOOKING AT NEDs FOR REC:      49
+REC#:     49    RLAT/LON:         39.97609825       -105.03858199
+             SHIFTL/L(S):          0.00000000          0.00000000
+            UTM(E/N/Zon):          496705.505         4425105.077   13
+             SHIFTX/Y(M):          0.00000000          0.00000000   REC NAD:  3
+
+   NED No.:    1 NED Name: NED:gdal_uncompress.tif                  NED NAD:  4
+        NED Max. LAT/LON(D.D):       40.00051     -104.99949
+             Rec LAT/LON(D.D):       39.97610     -105.03858
+        NED Min. LAT/LON(D.D):       38.99949     -106.00051
+
+        NED Max. LAT/LON(Sec):   144001.83333  -377998.16667
+             Rec LAT/LON(Sec):   143913.95372  -378138.89516
+        NED Min. LAT/LON(Sec):   140398.16667  -381601.83333
+
+NED No.:    1 Contains Rec No.:     49
+
+LOOKING AT NEDs FOR REC:      50
+REC#:     50    RLAT/LON:         39.97398196       -105.03757948
+             SHIFTL/L(S):          0.00000000          0.00000000
+            UTM(E/N/Zon):          496791.010         4424870.154   13
+             SHIFTX/Y(M):          0.00000000          0.00000000   REC NAD:  3
+
+   NED No.:    1 NED Name: NED:gdal_uncompress.tif                  NED NAD:  4
+        NED Max. LAT/LON(D.D):       40.00051     -104.99949
+             Rec LAT/LON(D.D):       39.97398     -105.03758
+        NED Min. LAT/LON(D.D):       38.99949     -106.00051
+
+        NED Max. LAT/LON(Sec):   144001.83333  -377998.16667
+             Rec LAT/LON(Sec):   143906.33507  -378135.28611
+        NED Min. LAT/LON(Sec):   140398.16667  -381601.83333
+
+NED No.:    1 Contains Rec No.:     50
+
+LOOKING AT NEDs FOR REC:      51
+REC#:     51    RLAT/LON:         39.97186566       -105.03657703
+             SHIFTL/L(S):          0.00000000          0.00000000
+            UTM(E/N/Zon):          496876.515         4424635.231   13
+             SHIFTX/Y(M):          0.00000000          0.00000000   REC NAD:  3
+
+   NED No.:    1 NED Name: NED:gdal_uncompress.tif                  NED NAD:  4
+        NED Max. LAT/LON(D.D):       40.00051     -104.99949
+             Rec LAT/LON(D.D):       39.97187     -105.03658
+        NED Min. LAT/LON(D.D):       38.99949     -106.00051
+
+        NED Max. LAT/LON(Sec):   144001.83333  -377998.16667
+             Rec LAT/LON(Sec):   143898.71639  -378131.67729
+        NED Min. LAT/LON(Sec):   140398.16667  -381601.83333
+
+NED No.:    1 Contains Rec No.:     51
+
+LOOKING AT NEDs FOR REC:      52
+REC#:     52    RLAT/LON:         39.97599647       -105.03907488
+             SHIFTL/L(S):          0.00000000          0.00000000
+            UTM(E/N/Zon):          496663.412         4425093.798   13
+             SHIFTX/Y(M):          0.00000000          0.00000000   REC NAD:  3
+
+   NED No.:    1 NED Name: NED:gdal_uncompress.tif                  NED NAD:  4
+        NED Max. LAT/LON(D.D):       40.00051     -104.99949
+             Rec LAT/LON(D.D):       39.97600     -105.03907
+        NED Min. LAT/LON(D.D):       38.99949     -106.00051
+
+        NED Max. LAT/LON(Sec):   144001.83333  -377998.16667
+             Rec LAT/LON(Sec):   143913.58729  -378140.66958
+        NED Min. LAT/LON(Sec):   140398.16667  -381601.83333
+
+NED No.:    1 Contains Rec No.:     52
+
+LOOKING AT NEDs FOR REC:      53
+REC#:     53    RLAT/LON:         39.97377840       -105.03856524
+             SHIFTL/L(S):          0.00000000          0.00000000
+            UTM(E/N/Zon):          496706.824         4424847.596   13
+             SHIFTX/Y(M):          0.00000000          0.00000000   REC NAD:  3
+
+   NED No.:    1 NED Name: NED:gdal_uncompress.tif                  NED NAD:  4
+        NED Max. LAT/LON(D.D):       40.00051     -104.99949
+             Rec LAT/LON(D.D):       39.97378     -105.03857
+        NED Min. LAT/LON(D.D):       38.99949     -106.00051
+
+        NED Max. LAT/LON(Sec):   144001.83333  -377998.16667
+             Rec LAT/LON(Sec):   143905.60224  -378138.83485
+        NED Min. LAT/LON(Sec):   140398.16667  -381601.83333
+
+NED No.:    1 Contains Rec No.:     53
+
+LOOKING AT NEDs FOR REC:      54
+REC#:     54    RLAT/LON:         39.97156033       -105.03805562
+             SHIFTL/L(S):          0.00000000          0.00000000
+            UTM(E/N/Zon):          496750.236         4424601.394   13
+             SHIFTX/Y(M):          0.00000000          0.00000000   REC NAD:  3
+
+   NED No.:    1 NED Name: NED:gdal_uncompress.tif                  NED NAD:  4
+        NED Max. LAT/LON(D.D):       40.00051     -104.99949
+             Rec LAT/LON(D.D):       39.97156     -105.03806
+        NED Min. LAT/LON(D.D):       38.99949     -106.00051
+
+        NED Max. LAT/LON(Sec):   144001.83333  -377998.16667
+             Rec LAT/LON(Sec):   143897.61718  -378137.00024
+        NED Min. LAT/LON(Sec):   140398.16667  -381601.83333
+
+NED No.:    1 Contains Rec No.:     54
+
+LOOKING AT NEDs FOR REC:      55
+REC#:     55    RLAT/LON:         39.97596208       -105.03958326
+             SHIFTL/L(S):          0.00000000          0.00000000
+            UTM(E/N/Zon):          496620.000         4425090.000   13
+             SHIFTX/Y(M):          0.00000000          0.00000000   REC NAD:  3
+
+   NED No.:    1 NED Name: NED:gdal_uncompress.tif                  NED NAD:  4
+        NED Max. LAT/LON(D.D):       40.00051     -104.99949
+             Rec LAT/LON(D.D):       39.97596     -105.03958
+        NED Min. LAT/LON(D.D):       38.99949     -106.00051
+
+        NED Max. LAT/LON(Sec):   144001.83333  -377998.16667
+             Rec LAT/LON(Sec):   143913.46348  -378142.49975
+        NED Min. LAT/LON(Sec):   140398.16667  -381601.83333
+
+NED No.:    1 Contains Rec No.:     55
+
+LOOKING AT NEDs FOR REC:      56
+REC#:     56    RLAT/LON:         39.97370962       -105.03958196
+             SHIFTL/L(S):          0.00000000          0.00000000
+            UTM(E/N/Zon):          496620.000         4424840.000   13
+             SHIFTX/Y(M):          0.00000000          0.00000000   REC NAD:  3
+
+   NED No.:    1 NED Name: NED:gdal_uncompress.tif                  NED NAD:  4
+        NED Max. LAT/LON(D.D):       40.00051     -104.99949
+             Rec LAT/LON(D.D):       39.97371     -105.03958
+        NED Min. LAT/LON(D.D):       38.99949     -106.00051
+
+        NED Max. LAT/LON(Sec):   144001.83333  -377998.16667
+             Rec LAT/LON(Sec):   143905.35462  -378142.49507
+        NED Min. LAT/LON(Sec):   140398.16667  -381601.83333
+
+NED No.:    1 Contains Rec No.:     56
+
+LOOKING AT NEDs FOR REC:      57
+REC#:     57    RLAT/LON:         39.97145716       -105.03958066
+             SHIFTL/L(S):          0.00000000          0.00000000
+            UTM(E/N/Zon):          496620.000         4424590.000   13
+             SHIFTX/Y(M):          0.00000000          0.00000000   REC NAD:  3
+
+   NED No.:    1 NED Name: NED:gdal_uncompress.tif                  NED NAD:  4
+        NED Max. LAT/LON(D.D):       40.00051     -104.99949
+             Rec LAT/LON(D.D):       39.97146     -105.03958
+        NED Min. LAT/LON(D.D):       38.99949     -106.00051
+
+        NED Max. LAT/LON(Sec):   144001.83333  -377998.16667
+             Rec LAT/LON(Sec):   143897.24576  -378142.49039
+        NED Min. LAT/LON(Sec):   140398.16667  -381601.83333
+
+NED No.:    1 Contains Rec No.:     57
+
+LOOKING AT NEDs FOR REC:      58
+REC#:     58    RLAT/LON:         39.97599612       -105.04009168
+             SHIFTL/L(S):          0.00000000          0.00000000
+            UTM(E/N/Zon):          496576.588         4425093.798   13
+             SHIFTX/Y(M):          0.00000000          0.00000000   REC NAD:  3
+
+   NED No.:    1 NED Name: NED:gdal_uncompress.tif                  NED NAD:  4
+        NED Max. LAT/LON(D.D):       40.00051     -104.99949
+             Rec LAT/LON(D.D):       39.97600     -105.04009
+        NED Min. LAT/LON(D.D):       38.99949     -106.00051
+
+        NED Max. LAT/LON(Sec):   144001.83333  -377998.16667
+             Rec LAT/LON(Sec):   143913.58604  -378144.33006
+        NED Min. LAT/LON(Sec):   140398.16667  -381601.83333
+
+NED No.:    1 Contains Rec No.:     58
+
+LOOKING AT NEDs FOR REC:      59
+REC#:     59    RLAT/LON:         39.97377771       -105.04059877
+             SHIFTL/L(S):          0.00000000          0.00000000
+            UTM(E/N/Zon):          496533.176         4424847.596   13
+             SHIFTX/Y(M):          0.00000000          0.00000000   REC NAD:  3
+
+   NED No.:    1 NED Name: NED:gdal_uncompress.tif                  NED NAD:  4
+        NED Max. LAT/LON(D.D):       40.00051     -104.99949
+             Rec LAT/LON(D.D):       39.97378     -105.04060
+        NED Min. LAT/LON(D.D):       38.99949     -106.00051
+
+        NED Max. LAT/LON(Sec):   144001.83333  -377998.16667
+             Rec LAT/LON(Sec):   143905.59974  -378146.15557
+        NED Min. LAT/LON(Sec):   140398.16667  -381601.83333
+
+NED No.:    1 Contains Rec No.:     59
+
+LOOKING AT NEDs FOR REC:      60
+REC#:     60    RLAT/LON:         39.97155929       -105.04110582
+             SHIFTL/L(S):          0.00000000          0.00000000
+            UTM(E/N/Zon):          496489.764         4424601.394   13
+             SHIFTX/Y(M):          0.00000000          0.00000000   REC NAD:  3
+
+   NED No.:    1 NED Name: NED:gdal_uncompress.tif                  NED NAD:  4
+        NED Max. LAT/LON(D.D):       40.00051     -104.99949
+             Rec LAT/LON(D.D):       39.97156     -105.04111
+        NED Min. LAT/LON(D.D):       38.99949     -106.00051
+
+        NED Max. LAT/LON(Sec):   144001.83333  -377998.16667
+             Rec LAT/LON(Sec):   143897.61343  -378147.98097
+        NED Min. LAT/LON(Sec):   140398.16667  -381601.83333
+
+NED No.:    1 Contains Rec No.:     60
+
+LOOKING AT NEDs FOR REC:      61
+REC#:     61    RLAT/LON:         39.97609757       -105.04058470
+             SHIFTL/L(S):          0.00000000          0.00000000
+            UTM(E/N/Zon):          496534.495         4425105.077   13
+             SHIFTX/Y(M):          0.00000000          0.00000000   REC NAD:  3
+
+   NED No.:    1 NED Name: NED:gdal_uncompress.tif                  NED NAD:  4
+        NED Max. LAT/LON(D.D):       40.00051     -104.99949
+             Rec LAT/LON(D.D):       39.97610     -105.04058
+        NED Min. LAT/LON(D.D):       38.99949     -106.00051
+
+        NED Max. LAT/LON(Sec):   144001.83333  -377998.16667
+             Rec LAT/LON(Sec):   143913.95126  -378146.10490
+        NED Min. LAT/LON(Sec):   140398.16667  -381601.83333
+
+NED No.:    1 Contains Rec No.:     61
+
+LOOKING AT NEDs FOR REC:      62
+REC#:     62    RLAT/LON:         39.97398060       -105.04158477
+             SHIFTL/L(S):          0.00000000          0.00000000
+            UTM(E/N/Zon):          496448.990         4424870.154   13
+             SHIFTX/Y(M):          0.00000000          0.00000000   REC NAD:  3
+
+   NED No.:    1 NED Name: NED:gdal_uncompress.tif                  NED NAD:  4
+        NED Max. LAT/LON(D.D):       40.00051     -104.99949
+             Rec LAT/LON(D.D):       39.97398     -105.04158
+        NED Min. LAT/LON(D.D):       38.99949     -106.00051
+
+        NED Max. LAT/LON(Sec):   144001.83333  -377998.16667
+             Rec LAT/LON(Sec):   143906.33015  -378149.70516
+        NED Min. LAT/LON(Sec):   140398.16667  -381601.83333
+
+NED No.:    1 Contains Rec No.:     62
+
+LOOKING AT NEDs FOR REC:      63
+REC#:     63    RLAT/LON:         39.97186361       -105.04258477
+             SHIFTL/L(S):          0.00000000          0.00000000
+            UTM(E/N/Zon):          496363.485         4424635.231   13
+             SHIFTX/Y(M):          0.00000000          0.00000000   REC NAD:  3
+
+   NED No.:    1 NED Name: NED:gdal_uncompress.tif                  NED NAD:  4
+        NED Max. LAT/LON(D.D):       40.00051     -104.99949
+             Rec LAT/LON(D.D):       39.97186     -105.04258
+        NED Min. LAT/LON(D.D):       38.99949     -106.00051
+
+        NED Max. LAT/LON(Sec):   144001.83333  -377998.16667
+             Rec LAT/LON(Sec):   143898.70900  -378153.30519
+        NED Min. LAT/LON(Sec):   140398.16667  -381601.83333
+
+NED No.:    1 Contains Rec No.:     63
+
+LOOKING AT NEDs FOR REC:      64
+REC#:     64    RLAT/LON:         39.97626334       -105.04104732
+             SHIFTL/L(S):          0.00000000          0.00000000
+            UTM(E/N/Zon):          496495.000         4425123.494   13
+             SHIFTX/Y(M):          0.00000000          0.00000000   REC NAD:  3
+
+   NED No.:    1 NED Name: NED:gdal_uncompress.tif                  NED NAD:  4
+        NED Max. LAT/LON(D.D):       40.00051     -104.99949
+             Rec LAT/LON(D.D):       39.97626     -105.04105
+        NED Min. LAT/LON(D.D):       38.99949     -106.00051
+
+        NED Max. LAT/LON(Sec):   144001.83333  -377998.16667
+             Rec LAT/LON(Sec):   143914.54803  -378147.77036
+        NED Min. LAT/LON(Sec):   140398.16667  -381601.83333
+
+NED No.:    1 Contains Rec No.:     64
+
+LOOKING AT NEDs FOR REC:      65
+REC#:     65    RLAT/LON:         39.97431213       -105.04251000
+             SHIFTL/L(S):          0.00000000          0.00000000
+            UTM(E/N/Zon):          496370.000         4424906.987   13
+             SHIFTX/Y(M):          0.00000000          0.00000000   REC NAD:  3
+
+   NED No.:    1 NED Name: NED:gdal_uncompress.tif                  NED NAD:  4
+        NED Max. LAT/LON(D.D):       40.00051     -104.99949
+             Rec LAT/LON(D.D):       39.97431     -105.04251
+        NED Min. LAT/LON(D.D):       38.99949     -106.00051
+
+        NED Max. LAT/LON(Sec):   144001.83333  -377998.16667
+             Rec LAT/LON(Sec):   143907.52365  -378153.03599
+        NED Min. LAT/LON(Sec):   140398.16667  -381601.83333
+
+NED No.:    1 Contains Rec No.:     65
+
+LOOKING AT NEDs FOR REC:      66
+REC#:     66    RLAT/LON:         39.97236089       -105.04397259
+             SHIFTL/L(S):          0.00000000          0.00000000
+            UTM(E/N/Zon):          496245.000         4424690.481   13
+             SHIFTX/Y(M):          0.00000000          0.00000000   REC NAD:  3
+
+   NED No.:    1 NED Name: NED:gdal_uncompress.tif                  NED NAD:  4
+        NED Max. LAT/LON(D.D):       40.00051     -104.99949
+             Rec LAT/LON(D.D):       39.97236     -105.04397
+        NED Min. LAT/LON(D.D):       38.99949     -106.00051
+
+        NED Max. LAT/LON(Sec):   144001.83333  -377998.16667
+             Rec LAT/LON(Sec):   143900.49921  -378158.30132
+        NED Min. LAT/LON(Sec):   140398.16667  -381601.83333
+
+NED No.:    1 Contains Rec No.:     66
+
+LOOKING AT NEDs FOR REC:      67
+REC#:     67    RLAT/LON:         39.97648839       -105.04146551
+             SHIFTL/L(S):          0.00000000          0.00000000
+            UTM(E/N/Zon):          496459.303         4425148.489   13
+             SHIFTX/Y(M):          0.00000000          0.00000000   REC NAD:  3
+
+   NED No.:    1 NED Name: NED:gdal_uncompress.tif                  NED NAD:  4
+        NED Max. LAT/LON(D.D):       40.00051     -104.99949
+             Rec LAT/LON(D.D):       39.97649     -105.04147
+        NED Min. LAT/LON(D.D):       38.99949     -106.00051
+
+        NED Max. LAT/LON(Sec):   144001.83333  -377998.16667
+             Rec LAT/LON(Sec):   143915.35822  -378149.27582
+        NED Min. LAT/LON(Sec):   140398.16667  -381601.83333
+
+NED No.:    1 Contains Rec No.:     67
+
+LOOKING AT NEDs FOR REC:      68
+REC#:     68    RLAT/LON:         39.97476222       -105.04334636
+             SHIFTL/L(S):          0.00000000          0.00000000
+            UTM(E/N/Zon):          496298.606         4424956.978   13
+             SHIFTX/Y(M):          0.00000000          0.00000000   REC NAD:  3
+
+   NED No.:    1 NED Name: NED:gdal_uncompress.tif                  NED NAD:  4
+        NED Max. LAT/LON(D.D):       40.00051     -104.99949
+             Rec LAT/LON(D.D):       39.97476     -105.04335
+        NED Min. LAT/LON(D.D):       38.99949     -106.00051
+
+        NED Max. LAT/LON(Sec):   144001.83333  -377998.16667
+             Rec LAT/LON(Sec):   143909.14400  -378156.04688
+        NED Min. LAT/LON(Sec):   140398.16667  -381601.83333
+
+NED No.:    1 Contains Rec No.:     68
+
+LOOKING AT NEDs FOR REC:      69
+REC#:     69    RLAT/LON:         39.97303602       -105.04522711
+             SHIFTL/L(S):          0.00000000          0.00000000
+            UTM(E/N/Zon):          496137.909         4424765.467   13
+             SHIFTX/Y(M):          0.00000000          0.00000000   REC NAD:  3
+
+   NED No.:    1 NED Name: NED:gdal_uncompress.tif                  NED NAD:  4
+        NED Max. LAT/LON(D.D):       40.00051     -104.99949
+             Rec LAT/LON(D.D):       39.97304     -105.04523
+        NED Min. LAT/LON(D.D):       38.99949     -106.00051
+
+        NED Max. LAT/LON(Sec):   144001.83333  -377998.16667
+             Rec LAT/LON(Sec):   143902.92967  -378162.81760
+        NED Min. LAT/LON(Sec):   140398.16667  -381601.83333
+
+NED No.:    1 Contains Rec No.:     69
+
+LOOKING AT NEDs FOR REC:      70
+REC#:     70    RLAT/LON:         39.97676590       -105.04182654
+             SHIFTL/L(S):          0.00000000          0.00000000
+            UTM(E/N/Zon):          496428.489         4425179.303   13
+             SHIFTX/Y(M):          0.00000000          0.00000000   REC NAD:  3
+
+   NED No.:    1 NED Name: NED:gdal_uncompress.tif                  NED NAD:  4
+        NED Max. LAT/LON(D.D):       40.00051     -104.99949
+             Rec LAT/LON(D.D):       39.97677     -105.04183
+        NED Min. LAT/LON(D.D):       38.99949     -106.00051
+
+        NED Max. LAT/LON(Sec):   144001.83333  -377998.16667
+             Rec LAT/LON(Sec):   143916.35723  -378150.57556
+        NED Min. LAT/LON(Sec):   140398.16667  -381601.83333
+
+NED No.:    1 Contains Rec No.:     70
+
+LOOKING AT NEDs FOR REC:      71
+REC#:     71    RLAT/LON:         39.97531721       -105.04406843
+             SHIFTL/L(S):          0.00000000          0.00000000
+            UTM(E/N/Zon):          496236.978         4425018.606   13
+             SHIFTX/Y(M):          0.00000000          0.00000000   REC NAD:  3
+
+   NED No.:    1 NED Name: NED:gdal_uncompress.tif                  NED NAD:  4
+        NED Max. LAT/LON(D.D):       40.00051     -104.99949
+             Rec LAT/LON(D.D):       39.97532     -105.04407
+        NED Min. LAT/LON(D.D):       38.99949     -106.00051
+
+        NED Max. LAT/LON(Sec):   144001.83333  -377998.16667
+             Rec LAT/LON(Sec):   143911.14196  -378158.64635
+        NED Min. LAT/LON(Sec):   140398.16667  -381601.83333
+
+NED No.:    1 Contains Rec No.:     71
+
+LOOKING AT NEDs FOR REC:      72
+REC#:     72    RLAT/LON:         39.97386848       -105.04631022
+             SHIFTL/L(S):          0.00000000          0.00000000
+            UTM(E/N/Zon):          496045.467         4424857.909   13
+             SHIFTX/Y(M):          0.00000000          0.00000000   REC NAD:  3
+
+   NED No.:    1 NED Name: NED:gdal_uncompress.tif                  NED NAD:  4
+        NED Max. LAT/LON(D.D):       40.00051     -104.99949
+             Rec LAT/LON(D.D):       39.97387     -105.04631
+        NED Min. LAT/LON(D.D):       38.99949     -106.00051
+
+        NED Max. LAT/LON(Sec):   144001.83333  -377998.16667
+             Rec LAT/LON(Sec):   143905.92654  -378166.71681
+        NED Min. LAT/LON(Sec):   140398.16667  -381601.83333
+
+NED No.:    1 Contains Rec No.:     72
+
+LOOKING AT NEDs FOR REC:      73
+REC#:     73    RLAT/LON:         39.97708741       -105.04211947
+             SHIFTL/L(S):          0.00000000          0.00000000
+            UTM(E/N/Zon):          496403.494         4425215.000   13
+             SHIFTX/Y(M):          0.00000000          0.00000000   REC NAD:  3
+
+   NED No.:    1 NED Name: NED:gdal_uncompress.tif                  NED NAD:  4
+        NED Max. LAT/LON(D.D):       40.00051     -104.99949
+             Rec LAT/LON(D.D):       39.97709     -105.04212
+        NED Min. LAT/LON(D.D):       38.99949     -106.00051
+
+        NED Max. LAT/LON(Sec):   144001.83333  -377998.16667
+             Rec LAT/LON(Sec):   143917.51469  -378151.63008
+        NED Min. LAT/LON(Sec):   140398.16667  -381601.83333
+
+NED No.:    1 Contains Rec No.:     73
+
+LOOKING AT NEDs FOR REC:      74
+REC#:     74    RLAT/LON:         39.97596023       -105.04465428
+             SHIFTL/L(S):          0.00000000          0.00000000
+            UTM(E/N/Zon):          496186.987         4425090.000   13
+             SHIFTX/Y(M):          0.00000000          0.00000000   REC NAD:  3
+
+   NED No.:    1 NED Name: NED:gdal_uncompress.tif                  NED NAD:  4
+        NED Max. LAT/LON(D.D):       40.00051     -104.99949
+             Rec LAT/LON(D.D):       39.97596     -105.04465
+        NED Min. LAT/LON(D.D):       38.99949     -106.00051
+
+        NED Max. LAT/LON(Sec):   144001.83333  -377998.16667
+             Rec LAT/LON(Sec):   143913.45685  -378160.75542
+        NED Min. LAT/LON(Sec):   140398.16667  -381601.83333
+
+NED No.:    1 Contains Rec No.:     74
+
+LOOKING AT NEDs FOR REC:      75
+REC#:     75    RLAT/LON:         39.97483300       -105.04718902
+             SHIFTL/L(S):          0.00000000          0.00000000
+            UTM(E/N/Zon):          495970.481         4424965.000   13
+             SHIFTX/Y(M):          0.00000000          0.00000000   REC NAD:  3
+
+   NED No.:    1 NED Name: NED:gdal_uncompress.tif                  NED NAD:  4
+        NED Max. LAT/LON(D.D):       40.00051     -104.99949
+             Rec LAT/LON(D.D):       39.97483     -105.04719
+        NED Min. LAT/LON(D.D):       38.99949     -106.00051
+
+        NED Max. LAT/LON(Sec):   144001.83333  -377998.16667
+             Rec LAT/LON(Sec):   143909.39880  -378169.88047
+        NED Min. LAT/LON(Sec):   140398.16667  -381601.83333
+
+NED No.:    1 Contains Rec No.:     75
+
+LOOKING AT NEDs FOR REC:      76
+REC#:     76    RLAT/LON:         39.97744318       -105.04233537
+             SHIFTL/L(S):          0.00000000          0.00000000
+            UTM(E/N/Zon):          496385.077         4425254.495   13
+             SHIFTX/Y(M):          0.00000000          0.00000000   REC NAD:  3
+
+   NED No.:    1 NED Name: NED:gdal_uncompress.tif                  NED NAD:  4
+        NED Max. LAT/LON(D.D):       40.00051     -104.99949
+             Rec LAT/LON(D.D):       39.97744     -105.04234
+        NED Min. LAT/LON(D.D):       38.99949     -106.00051
+
+        NED Max. LAT/LON(Sec):   144001.83333  -377998.16667
+             Rec LAT/LON(Sec):   143918.79544  -378152.40733
+        NED Min. LAT/LON(Sec):   140398.16667  -381601.83333
+
+NED No.:    1 Contains Rec No.:     76
+
+LOOKING AT NEDs FOR REC:      77
+REC#:     77    RLAT/LON:         39.97667175       -105.04508611
+             SHIFTL/L(S):          0.00000000          0.00000000
+            UTM(E/N/Zon):          496150.154         4425168.990   13
+             SHIFTX/Y(M):          0.00000000          0.00000000   REC NAD:  3
+
+   NED No.:    1 NED Name: NED:gdal_uncompress.tif                  NED NAD:  4
+        NED Max. LAT/LON(D.D):       40.00051     -104.99949
+             Rec LAT/LON(D.D):       39.97667     -105.04509
+        NED Min. LAT/LON(D.D):       38.99949     -106.00051
+
+        NED Max. LAT/LON(Sec):   144001.83333  -377998.16667
+             Rec LAT/LON(Sec):   143916.01832  -378162.31000
+        NED Min. LAT/LON(Sec):   140398.16667  -381601.83333
+
+NED No.:    1 Contains Rec No.:     77
+
+LOOKING AT NEDs FOR REC:      78
+REC#:     78    RLAT/LON:         39.97590027       -105.04783679
+             SHIFTL/L(S):          0.00000000          0.00000000
+            UTM(E/N/Zon):          495915.231         4425083.485   13
+             SHIFTX/Y(M):          0.00000000          0.00000000   REC NAD:  3
+
+   NED No.:    1 NED Name: NED:gdal_uncompress.tif                  NED NAD:  4
+        NED Max. LAT/LON(D.D):       40.00051     -104.99949
+             Rec LAT/LON(D.D):       39.97590     -105.04784
+        NED Min. LAT/LON(D.D):       38.99949     -106.00051
+
+        NED Max. LAT/LON(Sec):   144001.83333  -377998.16667
+             Rec LAT/LON(Sec):   143913.24095  -378172.21245
+        NED Min. LAT/LON(Sec):   140398.16667  -381601.83333
+
+NED No.:    1 Contains Rec No.:     78
+
+LOOKING AT NEDs FOR REC:      79
+REC#:     79    RLAT/LON:         39.97782238       -105.04246769
+             SHIFTL/L(S):          0.00000000          0.00000000
+            UTM(E/N/Zon):          496373.798         4425296.588   13
+             SHIFTX/Y(M):          0.00000000          0.00000000   REC NAD:  3
+
+   NED No.:    1 NED Name: NED:gdal_uncompress.tif                  NED NAD:  4
+        NED Max. LAT/LON(D.D):       40.00051     -104.99949
+             Rec LAT/LON(D.D):       39.97782     -105.04247
+        NED Min. LAT/LON(D.D):       38.99949     -106.00051
+
+        NED Max. LAT/LON(Sec):   144001.83333  -377998.16667
+             Rec LAT/LON(Sec):   143920.16057  -378152.88369
+        NED Min. LAT/LON(Sec):   140398.16667  -381601.83333
+
+NED No.:    1 Contains Rec No.:     79
+
+LOOKING AT NEDs FOR REC:      80
+REC#:     80    RLAT/LON:         39.97743015       -105.04535079
+             SHIFTL/L(S):          0.00000000          0.00000000
+            UTM(E/N/Zon):          496127.596         4425253.176   13
+             SHIFTX/Y(M):          0.00000000          0.00000000   REC NAD:  3
+
+   NED No.:    1 NED Name: NED:gdal_uncompress.tif                  NED NAD:  4
+        NED Max. LAT/LON(D.D):       40.00051     -104.99949
+             Rec LAT/LON(D.D):       39.97743     -105.04535
+        NED Min. LAT/LON(D.D):       38.99949     -106.00051
+
+        NED Max. LAT/LON(Sec):   144001.83333  -377998.16667
+             Rec LAT/LON(Sec):   143918.74855  -378163.26284
+        NED Min. LAT/LON(Sec):   140398.16667  -381601.83333
+
+NED No.:    1 Contains Rec No.:     80
+
+LOOKING AT NEDs FOR REC:      81
+REC#:     81    RLAT/LON:         39.97703785       -105.04823385
+             SHIFTL/L(S):          0.00000000          0.00000000
+            UTM(E/N/Zon):          495881.394         4425209.764   13
+             SHIFTX/Y(M):          0.00000000          0.00000000   REC NAD:  3
+
+   NED No.:    1 NED Name: NED:gdal_uncompress.tif                  NED NAD:  4
+        NED Max. LAT/LON(D.D):       40.00051     -104.99949
+             Rec LAT/LON(D.D):       39.97704     -105.04823
+        NED Min. LAT/LON(D.D):       38.99949     -106.00051
+
+        NED Max. LAT/LON(Sec):   144001.83333  -377998.16667
+             Rec LAT/LON(Sec):   143917.33627  -378173.64186
+        NED Min. LAT/LON(Sec):   140398.16667  -381601.83333
+
+NED No.:    1 Contains Rec No.:     81
+
+LOOKING AT NEDs FOR REC:      82
+REC#:     82    RLAT/LON:         39.97821350       -105.04251241
+             SHIFTL/L(S):          0.00000000          0.00000000
+            UTM(E/N/Zon):          496370.000         4425340.000   13
+             SHIFTX/Y(M):          0.00000000          0.00000000   REC NAD:  3
+
+   NED No.:    1 NED Name: NED:gdal_uncompress.tif                  NED NAD:  4
+        NED Max. LAT/LON(D.D):       40.00051     -104.99949
+             Rec LAT/LON(D.D):       39.97821     -105.04251
+        NED Min. LAT/LON(D.D):       38.99949     -106.00051
+
+        NED Max. LAT/LON(Sec):   144001.83333  -377998.16667
+             Rec LAT/LON(Sec):   143921.56860  -378153.04469
+        NED Min. LAT/LON(Sec):   140398.16667  -381601.83333
+
+NED No.:    1 Contains Rec No.:     82
+
+LOOKING AT NEDs FOR REC:      83
+REC#:     83    RLAT/LON:         39.97821239       -105.04544027
+             SHIFTL/L(S):          0.00000000          0.00000000
+            UTM(E/N/Zon):          496120.000         4425340.000   13
+             SHIFTX/Y(M):          0.00000000          0.00000000   REC NAD:  3
+
+   NED No.:    1 NED Name: NED:gdal_uncompress.tif                  NED NAD:  4
+        NED Max. LAT/LON(D.D):       40.00051     -104.99949
+             Rec LAT/LON(D.D):       39.97821     -105.04544
+        NED Min. LAT/LON(D.D):       38.99949     -106.00051
+
+        NED Max. LAT/LON(Sec):   144001.83333  -377998.16667
+             Rec LAT/LON(Sec):   143921.56460  -378163.58496
+        NED Min. LAT/LON(Sec):   140398.16667  -381601.83333
+
+NED No.:    1 Contains Rec No.:     83
+
+LOOKING AT NEDs FOR REC:      84
+REC#:     84    RLAT/LON:         39.97821120       -105.04836812
+             SHIFTL/L(S):          0.00000000          0.00000000
+            UTM(E/N/Zon):          495870.000         4425340.000   13
+             SHIFTX/Y(M):          0.00000000          0.00000000   REC NAD:  3
+
+   NED No.:    1 NED Name: NED:gdal_uncompress.tif                  NED NAD:  4
+        NED Max. LAT/LON(D.D):       40.00051     -104.99949
+             Rec LAT/LON(D.D):       39.97821     -105.04837
+        NED Min. LAT/LON(D.D):       38.99949     -106.00051
+
+        NED Max. LAT/LON(Sec):   144001.83333  -377998.16667
+             Rec LAT/LON(Sec):   143921.56033  -378174.12522
+        NED Min. LAT/LON(Sec):   140398.16667  -381601.83333
+
+NED No.:    1 Contains Rec No.:     84
+
+LOOKING AT NEDs FOR REC:      85
+REC#:     85    RLAT/LON:         39.97860465       -105.04246818
+             SHIFTL/L(S):          0.00000000          0.00000000
+            UTM(E/N/Zon):          496373.798         4425383.412   13
+             SHIFTX/Y(M):          0.00000000          0.00000000   REC NAD:  3
+
+   NED No.:    1 NED Name: NED:gdal_uncompress.tif                  NED NAD:  4
+        NED Max. LAT/LON(D.D):       40.00051     -104.99949
+             Rec LAT/LON(D.D):       39.97860     -105.04247
+        NED Min. LAT/LON(D.D):       38.99949     -106.00051
+
+        NED Max. LAT/LON(Sec):   144001.83333  -377998.16667
+             Rec LAT/LON(Sec):   143922.97674  -378152.88543
+        NED Min. LAT/LON(Sec):   140398.16667  -381601.83333
+
+NED No.:    1 Contains Rec No.:     85
+
+LOOKING AT NEDs FOR REC:      86
+REC#:     86    RLAT/LON:         39.97899469       -105.04535182
+             SHIFTL/L(S):          0.00000000          0.00000000
+            UTM(E/N/Zon):          496127.596         4425426.824   13
+             SHIFTX/Y(M):          0.00000000          0.00000000   REC NAD:  3
+
+   NED No.:    1 NED Name: NED:gdal_uncompress.tif                  NED NAD:  4
+        NED Max. LAT/LON(D.D):       40.00051     -104.99949
+             Rec LAT/LON(D.D):       39.97899     -105.04535
+        NED Min. LAT/LON(D.D):       38.99949     -106.00051
+
+        NED Max. LAT/LON(Sec):   144001.83333  -377998.16667
+             Rec LAT/LON(Sec):   143924.38090  -378163.26656
+        NED Min. LAT/LON(Sec):   140398.16667  -381601.83333
+
+NED No.:    1 Contains Rec No.:     86
+
+LOOKING AT NEDs FOR REC:      87
+REC#:     87    RLAT/LON:         39.97938467       -105.04823550
+             SHIFTL/L(S):          0.00000000          0.00000000
+            UTM(E/N/Zon):          495881.394         4425470.236   13
+             SHIFTX/Y(M):          0.00000000          0.00000000   REC NAD:  3
+
+   NED No.:    1 NED Name: NED:gdal_uncompress.tif                  NED NAD:  4
+        NED Max. LAT/LON(D.D):       40.00051     -104.99949
+             Rec LAT/LON(D.D):       39.97938     -105.04824
+        NED Min. LAT/LON(D.D):       38.99949     -106.00051
+
+        NED Max. LAT/LON(Sec):   144001.83333  -377998.16667
+             Rec LAT/LON(Sec):   143925.78480  -378173.64780
+        NED Min. LAT/LON(Sec):   140398.16667  -381601.83333
+
+NED No.:    1 Contains Rec No.:     87
+
+LOOKING AT NEDs FOR REC:      88
+REC#:     88    RLAT/LON:         39.97898395       -105.04233632
+             SHIFTL/L(S):          0.00000000          0.00000000
+            UTM(E/N/Zon):          496385.077         4425425.505   13
+             SHIFTX/Y(M):          0.00000000          0.00000000   REC NAD:  3
+
+   NED No.:    1 NED Name: NED:gdal_uncompress.tif                  NED NAD:  4
+        NED Max. LAT/LON(D.D):       40.00051     -104.99949
+             Rec LAT/LON(D.D):       39.97898     -105.04234
+        NED Min. LAT/LON(D.D):       38.99949     -106.00051
+
+        NED Max. LAT/LON(Sec):   144001.83333  -377998.16667
+             Rec LAT/LON(Sec):   143924.34222  -378152.41075
+        NED Min. LAT/LON(Sec):   140398.16667  -381601.83333
+
+NED No.:    1 Contains Rec No.:     88
+
+LOOKING AT NEDs FOR REC:      89
+REC#:     89    RLAT/LON:         39.97975330       -105.04508814
+             SHIFTL/L(S):          0.00000000          0.00000000
+            UTM(E/N/Zon):          496150.154         4425511.010   13
+             SHIFTX/Y(M):          0.00000000          0.00000000   REC NAD:  3
+
+   NED No.:    1 NED Name: NED:gdal_uncompress.tif                  NED NAD:  4
+        NED Max. LAT/LON(D.D):       40.00051     -104.99949
+             Rec LAT/LON(D.D):       39.97975     -105.04509
+        NED Min. LAT/LON(D.D):       38.99949     -106.00051
+
+        NED Max. LAT/LON(Sec):   144001.83333  -377998.16667
+             Rec LAT/LON(Sec):   143927.11188  -378162.31729
+        NED Min. LAT/LON(Sec):   140398.16667  -381601.83333
+
+NED No.:    1 Contains Rec No.:     89
+
+LOOKING AT NEDs FOR REC:      90
+REC#:     90    RLAT/LON:         39.98052258       -105.04784002
+             SHIFTL/L(S):          0.00000000          0.00000000
+            UTM(E/N/Zon):          495915.231         4425596.515   13
+             SHIFTX/Y(M):          0.00000000          0.00000000   REC NAD:  3
+
+   NED No.:    1 NED Name: NED:gdal_uncompress.tif                  NED NAD:  4
+        NED Max. LAT/LON(D.D):       40.00051     -104.99949
+             Rec LAT/LON(D.D):       39.98052     -105.04784
+        NED Min. LAT/LON(D.D):       38.99949     -106.00051
+
+        NED Max. LAT/LON(Sec):   144001.83333  -377998.16667
+             Rec LAT/LON(Sec):   143929.88130  -378172.22406
+        NED Min. LAT/LON(Sec):   140398.16667  -381601.83333
+
+NED No.:    1 Contains Rec No.:     90
+
+LOOKING AT NEDs FOR REC:      91
+REC#:     91    RLAT/LON:         39.97933987       -105.04212085
+             SHIFTL/L(S):          0.00000000          0.00000000
+            UTM(E/N/Zon):          496403.494         4425465.000   13
+             SHIFTX/Y(M):          0.00000000          0.00000000   REC NAD:  3
+
+   NED No.:    1 NED Name: NED:gdal_uncompress.tif                  NED NAD:  4
+        NED Max. LAT/LON(D.D):       40.00051     -104.99949
+             Rec LAT/LON(D.D):       39.97934     -105.04212
+        NED Min. LAT/LON(D.D):       38.99949     -106.00051
+
+        NED Max. LAT/LON(Sec):   144001.83333  -377998.16667
+             Rec LAT/LON(Sec):   143925.62354  -378151.63505
+        NED Min. LAT/LON(Sec):   140398.16667  -381601.83333
+
+NED No.:    1 Contains Rec No.:     91
+
+LOOKING AT NEDs FOR REC:      92
+REC#:     92    RLAT/LON:         39.98046515       -105.04465722
+             SHIFTL/L(S):          0.00000000          0.00000000
+            UTM(E/N/Zon):          496186.987         4425590.000   13
+             SHIFTX/Y(M):          0.00000000          0.00000000   REC NAD:  3
+
+   NED No.:    1 NED Name: NED:gdal_uncompress.tif                  NED NAD:  4
+        NED Max. LAT/LON(D.D):       40.00051     -104.99949
+             Rec LAT/LON(D.D):       39.98047     -105.04466
+        NED Min. LAT/LON(D.D):       38.99949     -106.00051
+
+        NED Max. LAT/LON(Sec):   144001.83333  -377998.16667
+             Rec LAT/LON(Sec):   143929.67455  -378160.76598
+        NED Min. LAT/LON(Sec):   140398.16667  -381601.83333
+
+NED No.:    1 Contains Rec No.:     92
+
+LOOKING AT NEDs FOR REC:      93
+REC#:     93    RLAT/LON:         39.98159038       -105.04719367
+             SHIFTL/L(S):          0.00000000          0.00000000
+            UTM(E/N/Zon):          495970.481         4425715.000   13
+             SHIFTX/Y(M):          0.00000000          0.00000000   REC NAD:  3
+
+   NED No.:    1 NED Name: NED:gdal_uncompress.tif                  NED NAD:  4
+        NED Max. LAT/LON(D.D):       40.00051     -104.99949
+             Rec LAT/LON(D.D):       39.98159     -105.04719
+        NED Min. LAT/LON(D.D):       38.99949     -106.00051
+
+        NED Max. LAT/LON(Sec):   144001.83333  -377998.16667
+             Rec LAT/LON(Sec):   143933.72535  -378169.89721
+        NED Min. LAT/LON(Sec):   140398.16667  -381601.83333
+
+NED No.:    1 Contains Rec No.:     93
+
+LOOKING AT NEDs FOR REC:      94
+REC#:     94    RLAT/LON:         39.97966160       -105.04182831
+             SHIFTL/L(S):          0.00000000          0.00000000
+            UTM(E/N/Zon):          496428.489         4425500.697   13
+             SHIFTX/Y(M):          0.00000000          0.00000000   REC NAD:  3
+
+   NED No.:    1 NED Name: NED:gdal_uncompress.tif                  NED NAD:  4
+        NED Max. LAT/LON(D.D):       40.00051     -104.99949
+             Rec LAT/LON(D.D):       39.97966     -105.04183
+        NED Min. LAT/LON(D.D):       38.99949     -106.00051
+
+        NED Max. LAT/LON(Sec):   144001.83333  -377998.16667
+             Rec LAT/LON(Sec):   143926.78176  -378150.58192
+        NED Min. LAT/LON(Sec):   140398.16667  -381601.83333
+
+NED No.:    1 Contains Rec No.:     94
+
+LOOKING AT NEDs FOR REC:      95
+REC#:     95    RLAT/LON:         39.98110862       -105.04407215
+             SHIFTL/L(S):          0.00000000          0.00000000
+            UTM(E/N/Zon):          496236.978         4425661.394   13
+             SHIFTX/Y(M):          0.00000000          0.00000000   REC NAD:  3
+
+   NED No.:    1 NED Name: NED:gdal_uncompress.tif                  NED NAD:  4
+        NED Max. LAT/LON(D.D):       40.00051     -104.99949
+             Rec LAT/LON(D.D):       39.98111     -105.04407
+        NED Min. LAT/LON(D.D):       38.99949     -106.00051
+
+        NED Max. LAT/LON(Sec):   144001.83333  -377998.16667
+             Rec LAT/LON(Sec):   143931.99104  -378158.65975
+        NED Min. LAT/LON(Sec):   140398.16667  -381601.83333
+
+NED No.:    1 Contains Rec No.:     95
+
+LOOKING AT NEDs FOR REC:      96
+REC#:     96    RLAT/LON:         39.98255560       -105.04631609
+             SHIFTL/L(S):          0.00000000          0.00000000
+            UTM(E/N/Zon):          496045.467         4425822.091   13
+             SHIFTX/Y(M):          0.00000000          0.00000000   REC NAD:  3
+
+   NED No.:    1 NED Name: NED:gdal_uncompress.tif                  NED NAD:  4
+        NED Max. LAT/LON(D.D):       40.00051     -104.99949
+             Rec LAT/LON(D.D):       39.98256     -105.04632
+        NED Min. LAT/LON(D.D):       38.99949     -106.00051
+
+        NED Max. LAT/LON(Sec):   144001.83333  -377998.16667
+             Rec LAT/LON(Sec):   143937.20016  -378166.73792
+        NED Min. LAT/LON(Sec):   140398.16667  -381601.83333
+
+NED No.:    1 Contains Rec No.:     96
+
+LOOKING AT NEDs FOR REC:      97
+REC#:     97    RLAT/LON:         39.97993936       -105.04146759
+             SHIFTL/L(S):          0.00000000          0.00000000
+            UTM(E/N/Zon):          496459.303         4425531.511   13
+             SHIFTX/Y(M):          0.00000000          0.00000000   REC NAD:  3
+
+   NED No.:    1 NED Name: NED:gdal_uncompress.tif                  NED NAD:  4
+        NED Max. LAT/LON(D.D):       40.00051     -104.99949
+             Rec LAT/LON(D.D):       39.97994     -105.04147
+        NED Min. LAT/LON(D.D):       38.99949     -106.00051
+
+        NED Max. LAT/LON(Sec):   144001.83333  -377998.16667
+             Rec LAT/LON(Sec):   143927.78170  -378149.28333
+        NED Min. LAT/LON(Sec):   140398.16667  -381601.83333
+
+NED No.:    1 Contains Rec No.:     97
+
+LOOKING AT NEDs FOR REC:      98
+REC#:     98    RLAT/LON:         39.98166416       -105.04335072
+             SHIFTL/L(S):          0.00000000          0.00000000
+            UTM(E/N/Zon):          496298.606         4425723.022   13
+             SHIFTX/Y(M):          0.00000000          0.00000000   REC NAD:  3
+
+   NED No.:    1 NED Name: NED:gdal_uncompress.tif                  NED NAD:  4
+        NED Max. LAT/LON(D.D):       40.00051     -104.99949
+             Rec LAT/LON(D.D):       39.98166     -105.04335
+        NED Min. LAT/LON(D.D):       38.99949     -106.00051
+
+        NED Max. LAT/LON(Sec):   144001.83333  -377998.16667
+             Rec LAT/LON(Sec):   143933.99096  -378156.06258
+        NED Min. LAT/LON(Sec):   140398.16667  -381601.83333
+
+NED No.:    1 Contains Rec No.:     98
+
+LOOKING AT NEDs FOR REC:      99
+REC#:     99    RLAT/LON:         39.98338892       -105.04523394
+             SHIFTL/L(S):          0.00000000          0.00000000
+            UTM(E/N/Zon):          496137.909         4425914.533   13
+             SHIFTX/Y(M):          0.00000000          0.00000000   REC NAD:  3
+
+   NED No.:    1 NED Name: NED:gdal_uncompress.tif                  NED NAD:  4
+        NED Max. LAT/LON(D.D):       40.00051     -104.99949
+             Rec LAT/LON(D.D):       39.98339     -105.04523
+        NED Min. LAT/LON(D.D):       38.99949     -106.00051
+
+        NED Max. LAT/LON(Sec):   144001.83333  -377998.16667
+             Rec LAT/LON(Sec):   143940.20011  -378162.84217
+        NED Min. LAT/LON(Sec):   140398.16667  -381601.83333
+
+NED No.:    1 Contains Rec No.:     99
+
+LOOKING AT NEDs FOR REC:     100
+REC#:    100    RLAT/LON:         39.98016471       -105.04104966
+             SHIFTL/L(S):          0.00000000          0.00000000
+            UTM(E/N/Zon):          496495.000         4425556.506   13
+             SHIFTX/Y(M):          0.00000000          0.00000000   REC NAD:  3
+
+   NED No.:    1 NED Name: NED:gdal_uncompress.tif                  NED NAD:  4
+        NED Max. LAT/LON(D.D):       40.00051     -104.99949
+             Rec LAT/LON(D.D):       39.98016     -105.04105
+        NED Min. LAT/LON(D.D):       38.99949     -106.00051
+
+        NED Max. LAT/LON(Sec):   144001.83333  -377998.16667
+             Rec LAT/LON(Sec):   143928.59297  -378147.77876
+        NED Min. LAT/LON(Sec):   140398.16667  -381601.83333
+
+NED No.:    1 Contains Rec No.:    100
+
+LOOKING AT NEDs FOR REC:     101
+REC#:    101    RLAT/LON:         39.98211487       -105.04251483
+             SHIFTL/L(S):          0.00000000          0.00000000
+            UTM(E/N/Zon):          496370.000         4425773.013   13
+             SHIFTX/Y(M):          0.00000000          0.00000000   REC NAD:  3
+
+   NED No.:    1 NED Name: NED:gdal_uncompress.tif                  NED NAD:  4
+        NED Max. LAT/LON(D.D):       40.00051     -104.99949
+             Rec LAT/LON(D.D):       39.98211     -105.04251
+        NED Min. LAT/LON(D.D):       38.99949     -106.00051
+
+        NED Max. LAT/LON(Sec):   144001.83333  -377998.16667
+             Rec LAT/LON(Sec):   143935.61354  -378153.05340
+        NED Min. LAT/LON(Sec):   140398.16667  -381601.83333
+
+NED No.:    1 Contains Rec No.:    101
+
+LOOKING AT NEDs FOR REC:     102
+REC#:    102    RLAT/LON:         39.98406501       -105.04398009
+             SHIFTL/L(S):          0.00000000          0.00000000
+            UTM(E/N/Zon):          496245.000         4425989.519   13
+             SHIFTX/Y(M):          0.00000000          0.00000000   REC NAD:  3
+
+   NED No.:    1 NED Name: NED:gdal_uncompress.tif                  NED NAD:  4
+        NED Max. LAT/LON(D.D):       40.00051     -104.99949
+             Rec LAT/LON(D.D):       39.98407     -105.04398
+        NED Min. LAT/LON(D.D):       38.99949     -106.00051
+
+        NED Max. LAT/LON(Sec):   144001.83333  -377998.16667
+             Rec LAT/LON(Sec):   143942.63403  -378158.32833
+        NED Min. LAT/LON(Sec):   140398.16667  -381601.83333
+
+NED No.:    1 Contains Rec No.:    102
+
+LOOKING AT NEDs FOR REC:     103
+REC#:    103    RLAT/LON:         39.98033081       -105.04058720
+             SHIFTL/L(S):          0.00000000          0.00000000
+            UTM(E/N/Zon):          496534.495         4425574.923   13
+             SHIFTX/Y(M):          0.00000000          0.00000000   REC NAD:  3
+
+   NED No.:    1 NED Name: NED:gdal_uncompress.tif                  NED NAD:  4
+        NED Max. LAT/LON(D.D):       40.00051     -104.99949
+             Rec LAT/LON(D.D):       39.98033     -105.04059
+        NED Min. LAT/LON(D.D):       38.99949     -106.00051
+
+        NED Max. LAT/LON(Sec):   144001.83333  -377998.16667
+             Rec LAT/LON(Sec):   143929.19091  -378146.11392
+        NED Min. LAT/LON(Sec):   140398.16667  -381601.83333
+
+NED No.:    1 Contains Rec No.:    103
+
+LOOKING AT NEDs FOR REC:     104
+REC#:    104    RLAT/LON:         39.98244707       -105.04158990
+             SHIFTL/L(S):          0.00000000          0.00000000
+            UTM(E/N/Zon):          496448.990         4425809.846   13
+             SHIFTX/Y(M):          0.00000000          0.00000000   REC NAD:  3
+
+   NED No.:    1 NED Name: NED:gdal_uncompress.tif                  NED NAD:  4
+        NED Max. LAT/LON(D.D):       40.00051     -104.99949
+             Rec LAT/LON(D.D):       39.98245     -105.04159
+        NED Min. LAT/LON(D.D):       38.99949     -106.00051
+
+        NED Max. LAT/LON(Sec):   144001.83333  -377998.16667
+             Rec LAT/LON(Sec):   143936.80946  -378149.72363
+        NED Min. LAT/LON(Sec):   140398.16667  -381601.83333
+
+NED No.:    1 Contains Rec No.:    104
+
+LOOKING AT NEDs FOR REC:     105
+REC#:    105    RLAT/LON:         39.98456332       -105.04259266
+             SHIFTL/L(S):          0.00000000          0.00000000
+            UTM(E/N/Zon):          496363.485         4426044.769   13
+             SHIFTX/Y(M):          0.00000000          0.00000000   REC NAD:  3
+
+   NED No.:    1 NED Name: NED:gdal_uncompress.tif                  NED NAD:  4
+        NED Max. LAT/LON(D.D):       40.00051     -104.99949
+             Rec LAT/LON(D.D):       39.98456     -105.04259
+        NED Min. LAT/LON(D.D):       38.99949     -106.00051
+
+        NED Max. LAT/LON(Sec):   144001.83333  -377998.16667
+             Rec LAT/LON(Sec):   143944.42797  -378153.33357
+        NED Min. LAT/LON(Sec):   140398.16667  -381601.83333
+
+NED No.:    1 Contains Rec No.:    105
+
+LOOKING AT NEDs FOR REC:     106
+REC#:    106    RLAT/LON:         39.98043260       -105.04009428
+             SHIFTL/L(S):          0.00000000          0.00000000
+            UTM(E/N/Zon):          496576.588         4425586.202   13
+             SHIFTX/Y(M):          0.00000000          0.00000000   REC NAD:  3
+
+   NED No.:    1 NED Name: NED:gdal_uncompress.tif                  NED NAD:  4
+        NED Max. LAT/LON(D.D):       40.00051     -104.99949
+             Rec LAT/LON(D.D):       39.98043     -105.04009
+        NED Min. LAT/LON(D.D):       38.99949     -106.00051
+
+        NED Max. LAT/LON(Sec):   144001.83333  -377998.16667
+             Rec LAT/LON(Sec):   143929.55736  -378144.33939
+        NED Min. LAT/LON(Sec):   140398.16667  -381601.83333
+
+NED No.:    1 Contains Rec No.:    106
+
+LOOKING AT NEDs FOR REC:     107
+REC#:    107    RLAT/LON:         39.98265066       -105.04060402
+             SHIFTL/L(S):          0.00000000          0.00000000
+            UTM(E/N/Zon):          496533.176         4425832.404   13
+             SHIFTX/Y(M):          0.00000000          0.00000000   REC NAD:  3
+
+   NED No.:    1 NED Name: NED:gdal_uncompress.tif                  NED NAD:  4
+        NED Max. LAT/LON(D.D):       40.00051     -104.99949
+             Rec LAT/LON(D.D):       39.98265     -105.04060
+        NED Min. LAT/LON(D.D):       38.99949     -106.00051
+
+        NED Max. LAT/LON(Sec):   144001.83333  -377998.16667
+             Rec LAT/LON(Sec):   143937.54238  -378146.17448
+        NED Min. LAT/LON(Sec):   140398.16667  -381601.83333
+
+NED No.:    1 Contains Rec No.:    107
+
+LOOKING AT NEDs FOR REC:     108
+REC#:    108    RLAT/LON:         39.98486872       -105.04111380
+             SHIFTL/L(S):          0.00000000          0.00000000
+            UTM(E/N/Zon):          496489.764         4426078.606   13
+             SHIFTX/Y(M):          0.00000000          0.00000000   REC NAD:  3
+
+   NED No.:    1 NED Name: NED:gdal_uncompress.tif                  NED NAD:  4
+        NED Max. LAT/LON(D.D):       40.00051     -104.99949
+             Rec LAT/LON(D.D):       39.98487     -105.04111
+        NED Min. LAT/LON(D.D):       38.99949     -106.00051
+
+        NED Max. LAT/LON(Sec):   144001.83333  -377998.16667
+             Rec LAT/LON(Sec):   143945.52738  -378148.00968
+        NED Min. LAT/LON(Sec):   140398.16667  -381601.83333
+
+NED No.:    1 Contains Rec No.:    108
+

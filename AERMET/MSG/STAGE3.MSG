@@ -1,0 +1,435 @@
+         METPREP    I88 AERSURF : AERSURF file opened successfully:  ..\AERSURFACE\SFC_CHARS.OUT
+         METPREP    I19 AERSURF : "END OF FILE" on unit   5 after AERSURF file record # 186
+         JOB        I19  SETUP  : "END OF FILE" ON UNIT  5 AFTER RECORD # 208
+         METPREP    I41 FNDCOMDT: ASOS commission date FOUND for WBAN =  24015; CALL4 = KAKO; CALL3 = AKO; CommDate = 19960206
+         METPREP    I83  MPMET  : Anem height found in ASOS list for station    24015: Height from ASOS list (m) is:   10.05
+  190301 METPREP    I84  MPPBL  : Upper air sounding selected for this day: 12 Z
+  190301 METPREP    I84  MPPBL  : UAID =   1 for HR:   6 LST
+  190302 METPREP    I84  MPPBL  : Upper air sounding selected for this day: 12 Z
+  190302 METPREP    I84  MPPBL  : UAID =   3 for HR:   6 LST
+  190303 METPREP    I84  MPPBL  : Upper air sounding selected for this day: 12 Z
+  190303 METPREP    I84  MPPBL  : UAID =   3 for HR:   6 LST
+  190304 METPREP    I84  MPPBL  : Upper air sounding selected for this day: 12 Z
+  190304 METPREP    I84  MPPBL  : UAID =   3 for HR:   6 LST
+  190305 METPREP    I84  MPPBL  : Upper air sounding selected for this day: 12 Z
+  190305 METPREP    I84  MPPBL  : UAID =   3 for HR:   6 LST
+  190306 METPREP    I84  MPPBL  : Upper air sounding selected for this day: 12 Z
+  190306 METPREP    I84  MPPBL  : UAID =   3 for HR:   6 LST
+  190307 METPREP    I71  MPPBL  : No estimate for insolation due to missing sky cover for hour:  09
+  190307 METPREP    I71  MPPBL  : Missing temperature for hour:  10
+  190307 METPREP    I71  MPPBL  : Missing temperature for hour:  11
+  190307 METPREP    I71  MPPBL  : Missing temperature for hour:  12
+  190307 METPREP    I71  MPPBL  : No estimate for insolation due to missing sky cover for hour:  13
+  190307 METPREP    I84  MPPBL  : Upper air sounding selected for this day: 12 Z
+  190307 METPREP    I84  MPPBL  : UAID =   3 for HR:   6 LST
+  190307 METPREP    W79  MPPBL  : No ZICONV; HFLUX msg on 1st CBL hr JDAY:  66
+  190308 METPREP    I84  MPPBL  : Upper air sounding selected for this day: 12 Z
+  190308 METPREP    I84  MPPBL  : UAID =   3 for HR:   6 LST
+  190309 METPREP    I84  MPPBL  : Upper air sounding selected for this day: 12 Z
+  190309 METPREP    I84  MPPBL  : UAID =   3 for HR:   6 LST
+  190310 METPREP    W73  MPPBL  : No ZICONV - No UA sounding - Julian day:  69
+  190311 METPREP    I84  MPPBL  : Upper air sounding selected for this day: 12 Z
+  190311 METPREP    I84  MPPBL  : UAID =   2 for HR:   6 LST
+  190312 METPREP    I84  MPPBL  : Upper air sounding selected for this day: 12 Z
+  190312 METPREP    I84  MPPBL  : UAID =   3 for HR:   6 LST
+  190313 METPREP    I90  MPPBL  : Missing CCVR substitution made for hour:  24
+  190313 METPREP    I84  MPPBL  : Upper air sounding selected for this day: 12 Z
+  190313 METPREP    I84  MPPBL  : UAID =   3 for HR:   6 LST
+  190314 METPREP    I78  MPPBL  : CCVR missing; no SBL estimates for hour:  03
+  190314 METPREP    I78  MPPBL  : CCVR missing; no SBL estimates for hour:  04
+  190314 METPREP    I78  MPPBL  : CCVR missing; no SBL estimates for hour:  05
+  190314 METPREP    I78  MPPBL  : CCVR missing; no SBL estimates for hour:  06
+  190314 METPREP    I78  MPPBL  : CCVR missing; no SBL estimates for hour:  07
+  190314 METPREP    I78  MPPBL  : CCVR missing; no SBL estimates for hour:  08
+  190314 METPREP    I71  MPPBL  : No estimate for insolation due to missing sky cover for hour:  09
+  190314 METPREP    I84  MPPBL  : Upper air sounding selected for this day: 12 Z
+  190314 METPREP    I84  MPPBL  : UAID =   3 for HR:   6 LST
+  190314 METPREP    W79  MPPBL  : No ZICONV; HFLUX msg on 1st CBL hr JDAY:  73
+  190315 METPREP    I84  MPPBL  : Upper air sounding selected for this day: 12 Z
+  190315 METPREP    I84  MPPBL  : UAID =   3 for HR:   6 LST
+  190316 METPREP    I84  MPPBL  : Upper air sounding selected for this day: 12 Z
+  190316 METPREP    I84  MPPBL  : UAID =   3 for HR:   6 LST
+  190317 METPREP    I84  MPPBL  : Upper air sounding selected for this day: 12 Z
+  190317 METPREP    I84  MPPBL  : UAID =   3 for HR:   6 LST
+  190318 METPREP    I84  MPPBL  : Upper air sounding selected for this day: 12 Z
+  190318 METPREP    I84  MPPBL  : UAID =   3 for HR:   6 LST
+  190319 METPREP    I84  MPPBL  : Upper air sounding selected for this day: 12 Z
+  190319 METPREP    I84  MPPBL  : UAID =   3 for HR:   6 LST
+  190320 METPREP    I90  MPPBL  : Missing CCVR substitution made for hour:  06
+  190320 METPREP    I90  MPPBL  : Missing TEMP substitution made for hour:  06
+  190320 METPREP    I71  MPPBL  : Calm wind - No BL calculations for hour:  24
+  190320 METPREP    I84  MPPBL  : Upper air sounding selected for this day: 12 Z
+  190320 METPREP    I84  MPPBL  : UAID =   3 for HR:   6 LST
+  190321 METPREP    I71  MPPBL  : Missing temperature for hour:  01
+  190321 METPREP    I71  MPPBL  : Missing temperature for hour:  02
+  190321 METPREP    I71  MPPBL  : Missing temperature for hour:  03
+  190321 METPREP    I71  MPPBL  : Missing temperature for hour:  04
+  190321 METPREP    I71  MPPBL  : Missing temperature for hour:  05
+  190321 METPREP    I71  MPPBL  : Missing temperature for hour:  06
+  190321 METPREP    I71  MPPBL  : Missing temperature for hour:  07
+  190321 METPREP    I71  MPPBL  : Missing temperature for hour:  08
+  190321 METPREP    I71  MPPBL  : Missing temperature for hour:  09
+  190321 METPREP    I71  MPPBL  : Missing temperature for hour:  10
+  190321 METPREP    I78  MPPBL  : CCVR missing; no SBL estimates for hour:  11
+  190321 METPREP    I84  MPPBL  : Upper air sounding selected for this day: 12 Z
+  190321 METPREP    I84  MPPBL  : UAID =   3 for HR:   6 LST
+  190322 METPREP    I84  MPPBL  : Upper air sounding selected for this day: 12 Z
+  190322 METPREP    I84  MPPBL  : UAID =   3 for HR:   6 LST
+  190323 METPREP    I84  MPPBL  : Upper air sounding selected for this day: 12 Z
+  190323 METPREP    I84  MPPBL  : UAID =   3 for HR:   6 LST
+  190324 METPREP    I84  MPPBL  : Upper air sounding selected for this day: 12 Z
+  190324 METPREP    I84  MPPBL  : UAID =   3 for HR:   6 LST
+  190325 METPREP    I84  MPPBL  : Upper air sounding selected for this day: 12 Z
+  190325 METPREP    I84  MPPBL  : UAID =   3 for HR:   6 LST
+  190326 METPREP    I84  MPPBL  : Upper air sounding selected for this day: 12 Z
+  190326 METPREP    I84  MPPBL  : UAID =   3 for HR:   6 LST
+  190327 METPREP    I84  MPPBL  : Upper air sounding selected for this day: 12 Z
+  190327 METPREP    I84  MPPBL  : UAID =   3 for HR:   6 LST
+  190328 METPREP    I84  MPPBL  : Upper air sounding selected for this day: 12 Z
+  190328 METPREP    I84  MPPBL  : UAID =   3 for HR:   6 LST
+  190329 METPREP    I84  MPPBL  : Upper air sounding selected for this day: 12 Z
+  190329 METPREP    I84  MPPBL  : UAID =   3 for HR:   6 LST
+  190330 METPREP    I84  MPPBL  : Upper air sounding selected for this day: 12 Z
+  190330 METPREP    I84  MPPBL  : UAID =   3 for HR:   6 LST
+  190331 METPREP    I84  MPPBL  : Upper air sounding selected for this day: 12 Z
+  190331 METPREP    I84  MPPBL  : UAID =   3 for HR:   6 LST
+  190401 METPREP    I84  MPPBL  : Upper air sounding selected for this day: 12 Z
+  190401 METPREP    I84  MPPBL  : UAID =   3 for HR:   6 LST
+  190402 METPREP    I71  MPPBL  : Calm wind - No BL calculations for hour:  06
+  190402 METPREP    I71  MPPBL  : Calm wind - No BL calculations for hour:  07
+  190402 METPREP    I84  MPPBL  : Upper air sounding selected for this day: 12 Z
+  190402 METPREP    I84  MPPBL  : UAID =   3 for HR:   6 LST
+  190403 METPREP    I84  MPPBL  : Upper air sounding selected for this day: 12 Z
+  190403 METPREP    I84  MPPBL  : UAID =   3 for HR:   6 LST
+  190404 METPREP    I84  MPPBL  : Upper air sounding selected for this day: 12 Z
+  190404 METPREP    I84  MPPBL  : UAID =   3 for HR:   6 LST
+  190405 METPREP    I84  MPPBL  : Upper air sounding selected for this day: 12 Z
+  190405 METPREP    I84  MPPBL  : UAID =   3 for HR:   6 LST
+  190406 METPREP    I84  MPPBL  : Upper air sounding selected for this day: 12 Z
+  190406 METPREP    I84  MPPBL  : UAID =   3 for HR:   6 LST
+  190407 METPREP    I84  MPPBL  : Upper air sounding selected for this day: 12 Z
+  190407 METPREP    I84  MPPBL  : UAID =   3 for HR:   6 LST
+  190408 METPREP    I84  MPPBL  : Upper air sounding selected for this day: 12 Z
+  190408 METPREP    I84  MPPBL  : UAID =   3 for HR:   6 LST
+  190409 METPREP    W73  MPPBL  : No ZICONV - No UA sounding - Julian day:  99
+  190410 METPREP    I84  MPPBL  : Upper air sounding selected for this day: 12 Z
+  190410 METPREP    I84  MPPBL  : UAID =   2 for HR:   6 LST
+  190411 METPREP    I71  MPPBL  : Calm wind - No BL calculations for hour:  03
+  190411 METPREP    I71  MPPBL  : Missing temperature for hour:  04
+  190411 METPREP    I71  MPPBL  : Missing temperature for hour:  05
+  190411 METPREP    I71  MPPBL  : Missing temperature for hour:  06
+  190411 METPREP    I71  MPPBL  : Missing temperature for hour:  07
+  190411 METPREP    I71  MPPBL  : Missing temperature for hour:  08
+  190411 METPREP    I71  MPPBL  : Missing temperature for hour:  09
+  190411 METPREP    I71  MPPBL  : Missing temperature for hour:  10
+  190411 METPREP    I71  MPPBL  : Missing temperature for hour:  11
+  190411 METPREP    I71  MPPBL  : Missing temperature for hour:  12
+  190411 METPREP    I71  MPPBL  : Missing temperature for hour:  13
+  190411 METPREP    I71  MPPBL  : Missing temperature for hour:  14
+  190411 METPREP    I71  MPPBL  : Missing temperature for hour:  15
+  190411 METPREP    I71  MPPBL  : Missing temperature for hour:  16
+  190411 METPREP    I71  MPPBL  : Missing temperature for hour:  17
+  190411 METPREP    I71  MPPBL  : Missing temperature for hour:  18
+  190411 METPREP    I71  MPPBL  : Missing temperature for hour:  19
+  190411 METPREP    I71  MPPBL  : Missing temperature for hour:  20
+  190411 METPREP    I71  MPPBL  : Missing temperature for hour:  21
+  190411 METPREP    I71  MPPBL  : Missing temperature for hour:  22
+  190411 METPREP    I71  MPPBL  : Missing temperature for hour:  23
+  190411 METPREP    I71  MPPBL  : Missing temperature for hour:  24
+  190411 METPREP    I84  MPPBL  : Upper air sounding selected for this day: 12 Z
+  190411 METPREP    I84  MPPBL  : UAID =   3 for HR:   6 LST
+  190411 METPREP    W79  MPPBL  : No ZICONV - all HFLUX <=0 on Julian day: 101
+  190412 METPREP    I71  MPPBL  : Missing temperature for hour:  01
+  190412 METPREP    I71  MPPBL  : Missing temperature for hour:  02
+  190412 METPREP    I71  MPPBL  : Missing temperature for hour:  03
+  190412 METPREP    I71  MPPBL  : Missing temperature for hour:  04
+  190412 METPREP    I71  MPPBL  : Missing temperature for hour:  05
+  190412 METPREP    I71  MPPBL  : Missing temperature for hour:  06
+  190412 METPREP    I71  MPPBL  : Missing temperature for hour:  07
+  190412 METPREP    I71  MPPBL  : Missing temperature for hour:  08
+  190412 METPREP    I71  MPPBL  : Missing temperature for hour:  09
+  190412 METPREP    I71  MPPBL  : Missing temperature for hour:  10
+  190412 METPREP    I71  MPPBL  : Missing temperature for hour:  11
+  190412 METPREP    I71  MPPBL  : Missing temperature for hour:  12
+  190412 METPREP    I84  MPPBL  : Upper air sounding selected for this day: 12 Z
+  190412 METPREP    I84  MPPBL  : UAID =   3 for HR:   6 LST
+  190413 METPREP    I71  MPPBL  : No estimate for insolation due to missing sky cover for hour:  12
+  190413 METPREP    I71  MPPBL  : Missing temperature for hour:  13
+  190413 METPREP    I71  MPPBL  : Missing temperature for hour:  14
+  190413 METPREP    I71  MPPBL  : Missing temperature for hour:  15
+  190413 METPREP    I71  MPPBL  : Missing temperature for hour:  16
+  190413 METPREP    I71  MPPBL  : Missing temperature for hour:  17
+  190413 METPREP    I71  MPPBL  : Missing temperature for hour:  18
+  190413 METPREP    I71  MPPBL  : Missing temperature for hour:  19
+  190413 METPREP    I71  MPPBL  : Missing temperature for hour:  20
+  190413 METPREP    I71  MPPBL  : Missing temperature for hour:  21
+  190413 METPREP    I71  MPPBL  : Missing temperature for hour:  22
+  190413 METPREP    I71  MPPBL  : Missing temperature for hour:  23
+  190413 METPREP    I71  MPPBL  : Missing temperature for hour:  24
+  190413 METPREP    I84  MPPBL  : Upper air sounding selected for this day: 12 Z
+  190413 METPREP    I84  MPPBL  : UAID =   3 for HR:   6 LST
+  190414 METPREP    I71  MPPBL  : Missing temperature for hour:  01
+  190414 METPREP    I71  MPPBL  : Missing temperature for hour:  02
+  190414 METPREP    I71  MPPBL  : Missing temperature for hour:  03
+  190414 METPREP    I71  MPPBL  : Missing temperature for hour:  04
+  190414 METPREP    I71  MPPBL  : Missing temperature for hour:  05
+  190414 METPREP    I71  MPPBL  : Missing temperature for hour:  06
+  190414 METPREP    I71  MPPBL  : Missing temperature for hour:  07
+  190414 METPREP    I71  MPPBL  : Missing temperature for hour:  08
+  190414 METPREP    I71  MPPBL  : Missing temperature for hour:  09
+  190414 METPREP    I78  MPPBL  : CCVR missing; no SBL estimates for hour:  10
+  190414 METPREP    I90  MPPBL  : Missing CCVR substitution made for hour:  12
+  190414 METPREP    I71  MPPBL  : Calm wind - No BL calculations for hour:  12
+  190414 METPREP    I90  MPPBL  : Missing CCVR substitution made for hour:  13
+  190414 METPREP    I90  MPPBL  : Missing TEMP substitution made for hour:  13
+  190414 METPREP    I71  MPPBL  : No estimate for insolation due to missing sky cover for hour:  17
+  190414 METPREP    I71  MPPBL  : Missing temperature for hour:  18
+  190414 METPREP    I71  MPPBL  : Missing temperature for hour:  19
+  190414 METPREP    I71  MPPBL  : Missing temperature for hour:  20
+  190414 METPREP    I71  MPPBL  : Missing temperature for hour:  21
+  190414 METPREP    I78  MPPBL  : CCVR missing; no SBL estimates for hour:  22
+  190414 METPREP    I84  MPPBL  : Upper air sounding selected for this day: 12 Z
+  190414 METPREP    I84  MPPBL  : UAID =   3 for HR:   6 LST
+  190415 METPREP    I71  MPPBL  : Calm wind - No BL calculations for hour:  09
+  190415 METPREP    I71  MPPBL  : Missing temperature for hour:  10
+  190415 METPREP    I71  MPPBL  : Missing temperature for hour:  11
+  190415 METPREP    I71  MPPBL  : Missing temperature for hour:  12
+  190415 METPREP    I71  MPPBL  : Missing temperature for hour:  13
+  190415 METPREP    I84  MPPBL  : Upper air sounding selected for this day: 12 Z
+  190415 METPREP    I84  MPPBL  : UAID =   3 for HR:   6 LST
+  190416 METPREP    I84  MPPBL  : Upper air sounding selected for this day: 12 Z
+  190416 METPREP    I84  MPPBL  : UAID =   3 for HR:   6 LST
+  190417 METPREP    I90  MPPBL  : Missing CCVR substitution made for hour:  11
+  190417 METPREP    I84  MPPBL  : Upper air sounding selected for this day: 12 Z
+  190417 METPREP    I84  MPPBL  : UAID =   3 for HR:   6 LST
+  190418 METPREP    I84  MPPBL  : Upper air sounding selected for this day: 12 Z
+  190418 METPREP    I84  MPPBL  : UAID =   3 for HR:   6 LST
+  190419 METPREP    I84  MPPBL  : Upper air sounding selected for this day: 12 Z
+  190419 METPREP    I84  MPPBL  : UAID =   3 for HR:   6 LST
+  190420 METPREP    I84  MPPBL  : Upper air sounding selected for this day: 12 Z
+  190420 METPREP    I84  MPPBL  : UAID =   3 for HR:   6 LST
+  190421 METPREP    I84  MPPBL  : Upper air sounding selected for this day: 12 Z
+  190421 METPREP    I84  MPPBL  : UAID =   3 for HR:   6 LST
+  190422 METPREP    I84  MPPBL  : Upper air sounding selected for this day: 12 Z
+  190422 METPREP    I84  MPPBL  : UAID =   3 for HR:   6 LST
+  190423 METPREP    I84  MPPBL  : Upper air sounding selected for this day: 12 Z
+  190423 METPREP    I84  MPPBL  : UAID =   3 for HR:   6 LST
+  190424 METPREP    I84  MPPBL  : Upper air sounding selected for this day: 12 Z
+  190424 METPREP    I84  MPPBL  : UAID =   3 for HR:   6 LST
+  190425 METPREP    I84  MPPBL  : Upper air sounding selected for this day: 12 Z
+  190425 METPREP    I84  MPPBL  : UAID =   3 for HR:   6 LST
+  190426 METPREP    I84  MPPBL  : Upper air sounding selected for this day: 12 Z
+  190426 METPREP    I84  MPPBL  : UAID =   3 for HR:   6 LST
+  190427 METPREP    I84  MPPBL  : Upper air sounding selected for this day: 12 Z
+  190427 METPREP    I84  MPPBL  : UAID =   3 for HR:   6 LST
+  190428 METPREP    I84  MPPBL  : Upper air sounding selected for this day: 12 Z
+  190428 METPREP    I84  MPPBL  : UAID =   3 for HR:   6 LST
+  190429 METPREP    I84  MPPBL  : Upper air sounding selected for this day: 12 Z
+  190429 METPREP    I84  MPPBL  : UAID =   2 for HR:   6 LST
+  190430 METPREP    I84  MPPBL  : Upper air sounding selected for this day: 12 Z
+  190430 METPREP    I84  MPPBL  : UAID =   3 for HR:   6 LST
+  190501 METPREP    I84  MPPBL  : Upper air sounding selected for this day: 12 Z
+  190501 METPREP    I84  MPPBL  : UAID =   3 for HR:   6 LST
+  190502 METPREP    I84  MPPBL  : Upper air sounding selected for this day: 12 Z
+  190502 METPREP    I84  MPPBL  : UAID =   3 for HR:   6 LST
+  190503 METPREP    I84  MPPBL  : Upper air sounding selected for this day: 12 Z
+  190503 METPREP    I84  MPPBL  : UAID =   3 for HR:   6 LST
+  190504 METPREP    I84  MPPBL  : Upper air sounding selected for this day: 12 Z
+  190504 METPREP    I84  MPPBL  : UAID =   3 for HR:   6 LST
+  190505 METPREP    I84  MPPBL  : Upper air sounding selected for this day: 12 Z
+  190505 METPREP    I84  MPPBL  : UAID =   3 for HR:   6 LST
+  190506 METPREP    I84  MPPBL  : Upper air sounding selected for this day: 12 Z
+  190506 METPREP    I84  MPPBL  : UAID =   3 for HR:   6 LST
+  190507 METPREP    I84  MPPBL  : Upper air sounding selected for this day: 12 Z
+  190507 METPREP    I84  MPPBL  : UAID =   3 for HR:   6 LST
+  190508 METPREP    I84  MPPBL  : Upper air sounding selected for this day: 12 Z
+  190508 METPREP    I84  MPPBL  : UAID =   3 for HR:   6 LST
+  190509 METPREP    I84  MPPBL  : Upper air sounding selected for this day: 12 Z
+  190509 METPREP    I84  MPPBL  : UAID =   3 for HR:   6 LST
+  190510 METPREP    I84  MPPBL  : Upper air sounding selected for this day: 12 Z
+  190510 METPREP    I84  MPPBL  : UAID =   3 for HR:   6 LST
+  190511 METPREP    I84  MPPBL  : Upper air sounding selected for this day: 12 Z
+  190511 METPREP    I84  MPPBL  : UAID =   3 for HR:   6 LST
+  190512 METPREP    I84  MPPBL  : Upper air sounding selected for this day: 12 Z
+  190512 METPREP    I84  MPPBL  : UAID =   3 for HR:   6 LST
+  190513 METPREP    I84  MPPBL  : Upper air sounding selected for this day: 12 Z
+  190513 METPREP    I84  MPPBL  : UAID =   3 for HR:   6 LST
+  190514 METPREP    I84  MPPBL  : Upper air sounding selected for this day: 12 Z
+  190514 METPREP    I84  MPPBL  : UAID =   3 for HR:   6 LST
+  190515 METPREP    I84  MPPBL  : Upper air sounding selected for this day: 12 Z
+  190515 METPREP    I84  MPPBL  : UAID =   3 for HR:   6 LST
+  190516 METPREP    I84  MPPBL  : Upper air sounding selected for this day: 12 Z
+  190516 METPREP    I84  MPPBL  : UAID =   3 for HR:   6 LST
+  190517 METPREP    I84  MPPBL  : Upper air sounding selected for this day: 12 Z
+  190517 METPREP    I84  MPPBL  : UAID =   3 for HR:   6 LST
+  190518 METPREP    I84  MPPBL  : Upper air sounding selected for this day: 12 Z
+  190518 METPREP    I84  MPPBL  : UAID =   3 for HR:   6 LST
+  190519 METPREP    I84  MPPBL  : Upper air sounding selected for this day: 12 Z
+  190519 METPREP    I84  MPPBL  : UAID =   3 for HR:   6 LST
+  190520 METPREP    I84  MPPBL  : Upper air sounding selected for this day: 12 Z
+  190520 METPREP    I84  MPPBL  : UAID =   3 for HR:   6 LST
+  190521 METPREP    I84  MPPBL  : Upper air sounding selected for this day: 12 Z
+  190521 METPREP    I84  MPPBL  : UAID =   3 for HR:   6 LST
+  190522 METPREP    I84  MPPBL  : Upper air sounding selected for this day: 12 Z
+  190522 METPREP    I84  MPPBL  : UAID =   3 for HR:   6 LST
+  190523 METPREP    I84  MPPBL  : Upper air sounding selected for this day: 12 Z
+  190523 METPREP    I84  MPPBL  : UAID =   3 for HR:   6 LST
+  190524 METPREP    I84  MPPBL  : Upper air sounding selected for this day: 12 Z
+  190524 METPREP    I84  MPPBL  : UAID =   3 for HR:   6 LST
+  190525 METPREP    I84  MPPBL  : Upper air sounding selected for this day: 12 Z
+  190525 METPREP    I84  MPPBL  : UAID =   3 for HR:   6 LST
+  190526 METPREP    I84  MPPBL  : Upper air sounding selected for this day: 12 Z
+  190526 METPREP    I84  MPPBL  : UAID =   3 for HR:   6 LST
+  190527 METPREP    I84  MPPBL  : Upper air sounding selected for this day: 12 Z
+  190527 METPREP    I84  MPPBL  : UAID =   4 for HR:   6 LST
+  190528 METPREP    I84  MPPBL  : Upper air sounding selected for this day: 12 Z
+  190528 METPREP    I84  MPPBL  : UAID =   3 for HR:   6 LST
+  190529 METPREP    I84  MPPBL  : Upper air sounding selected for this day: 12 Z
+  190529 METPREP    I84  MPPBL  : UAID =   3 for HR:   6 LST
+  190530 METPREP    W73  MPPBL  : No ZICONV - No UA sounding - Julian day: 150
+  190531 METPREP    I84  MPPBL  : Upper air sounding selected for this day: 12 Z
+  190531 METPREP    I84  MPPBL  : UAID =   2 for HR:   6 LST
+  190601 METPREP    I84  MPPBL  : Upper air sounding selected for this day: 12 Z
+  190601 METPREP    I84  MPPBL  : UAID =   3 for HR:   6 LST
+  190602 METPREP    I84  MPPBL  : Upper air sounding selected for this day: 12 Z
+  190602 METPREP    I84  MPPBL  : UAID =   3 for HR:   6 LST
+  190603 METPREP    I84  MPPBL  : Upper air sounding selected for this day: 12 Z
+  190603 METPREP    I84  MPPBL  : UAID =   3 for HR:   6 LST
+  190604 METPREP    I84  MPPBL  : Upper air sounding selected for this day: 12 Z
+  190604 METPREP    I84  MPPBL  : UAID =   3 for HR:   6 LST
+  190605 METPREP    I84  MPPBL  : Upper air sounding selected for this day: 12 Z
+  190605 METPREP    I84  MPPBL  : UAID =   3 for HR:   6 LST
+  190606 METPREP    I71  MPPBL  : Missing temperature for hour:  15
+  190606 METPREP    I71  MPPBL  : Missing temperature for hour:  16
+  190606 METPREP    I71  MPPBL  : Missing temperature for hour:  17
+  190606 METPREP    I71  MPPBL  : Missing temperature for hour:  18
+  190606 METPREP    I71  MPPBL  : Missing temperature for hour:  19
+  190606 METPREP    I71  MPPBL  : Missing temperature for hour:  20
+  190606 METPREP    I71  MPPBL  : Missing temperature for hour:  21
+  190606 METPREP    I71  MPPBL  : Missing temperature for hour:  22
+  190606 METPREP    I71  MPPBL  : Calm wind - No BL calculations for hour:  23
+  190606 METPREP    I84  MPPBL  : Upper air sounding selected for this day: 12 Z
+  190606 METPREP    I84  MPPBL  : UAID =   3 for HR:   6 LST
+  190607 METPREP    I71  MPPBL  : Calm wind - No BL calculations for hour:  08
+  190607 METPREP    I71  MPPBL  : Missing temperature for hour:  09
+  190607 METPREP    I71  MPPBL  : Missing temperature for hour:  10
+  190607 METPREP    I71  MPPBL  : Missing temperature for hour:  11
+  190607 METPREP    I71  MPPBL  : No estimate for insolation due to missing sky cover for hour:  12
+  190607 METPREP    I84  MPPBL  : Upper air sounding selected for this day: 12 Z
+  190607 METPREP    I84  MPPBL  : UAID =   3 for HR:   6 LST
+  190608 METPREP    I84  MPPBL  : Upper air sounding selected for this day: 12 Z
+  190608 METPREP    I84  MPPBL  : UAID =   3 for HR:   6 LST
+  190609 METPREP    I84  MPPBL  : Upper air sounding selected for this day: 12 Z
+  190609 METPREP    I84  MPPBL  : UAID =   3 for HR:   6 LST
+  190610 METPREP    I84  MPPBL  : Upper air sounding selected for this day: 12 Z
+  190610 METPREP    I84  MPPBL  : UAID =   3 for HR:   6 LST
+  190611 METPREP    I84  MPPBL  : Upper air sounding selected for this day: 12 Z
+  190611 METPREP    I84  MPPBL  : UAID =   3 for HR:   6 LST
+  190612 METPREP    I84  MPPBL  : Upper air sounding selected for this day: 12 Z
+  190612 METPREP    I84  MPPBL  : UAID =   3 for HR:   6 LST
+  190613 METPREP    I84  MPPBL  : Upper air sounding selected for this day: 12 Z
+  190613 METPREP    I84  MPPBL  : UAID =   3 for HR:   6 LST
+  190614 METPREP    I84  MPPBL  : Upper air sounding selected for this day: 12 Z
+  190614 METPREP    I84  MPPBL  : UAID =   3 for HR:   6 LST
+  190615 METPREP    I84  MPPBL  : Upper air sounding selected for this day: 12 Z
+  190615 METPREP    I84  MPPBL  : UAID =   3 for HR:   6 LST
+  190616 METPREP    I84  MPPBL  : Upper air sounding selected for this day: 12 Z
+  190616 METPREP    I84  MPPBL  : UAID =   3 for HR:   6 LST
+  190617 METPREP    W73  MPPBL  : No ZICONV - No UA sounding - Julian day: 168
+  190618 METPREP    I84  MPPBL  : Upper air sounding selected for this day: 12 Z
+  190618 METPREP    I84  MPPBL  : UAID =   2 for HR:   6 LST
+  190619 METPREP    I84  MPPBL  : Upper air sounding selected for this day: 12 Z
+  190619 METPREP    I84  MPPBL  : UAID =   3 for HR:   6 LST
+  190620 METPREP    I84  MPPBL  : Upper air sounding selected for this day: 12 Z
+  190620 METPREP    I84  MPPBL  : UAID =   3 for HR:   6 LST
+  190621 METPREP    I84  MPPBL  : Upper air sounding selected for this day: 12 Z
+  190621 METPREP    I84  MPPBL  : UAID =   3 for HR:   6 LST
+  190622 METPREP    I84  MPPBL  : Upper air sounding selected for this day: 12 Z
+  190622 METPREP    I84  MPPBL  : UAID =   3 for HR:   6 LST
+  190623 METPREP    I84  MPPBL  : Upper air sounding selected for this day: 12 Z
+  190623 METPREP    I84  MPPBL  : UAID =   3 for HR:   6 LST
+  190624 METPREP    I84  MPPBL  : Upper air sounding selected for this day: 12 Z
+  190624 METPREP    I84  MPPBL  : UAID =   3 for HR:   6 LST
+  190625 METPREP    I84  MPPBL  : Upper air sounding selected for this day: 12 Z
+  190625 METPREP    I84  MPPBL  : UAID =   3 for HR:   6 LST
+  190626 METPREP    I90  MPPBL  : Missing TEMP substitution made for hour:  11
+  190626 METPREP    I84  MPPBL  : Upper air sounding selected for this day: 12 Z
+  190626 METPREP    I84  MPPBL  : UAID =   3 for HR:   6 LST
+  190627 METPREP    I84  MPPBL  : Upper air sounding selected for this day: 12 Z
+  190627 METPREP    I84  MPPBL  : UAID =   3 for HR:   6 LST
+  190628 METPREP    I84  MPPBL  : Upper air sounding selected for this day: 12 Z
+  190628 METPREP    I84  MPPBL  : UAID =   3 for HR:   6 LST
+  190629 METPREP    I84  MPPBL  : Upper air sounding selected for this day: 12 Z
+  190629 METPREP    I84  MPPBL  : UAID =   3 for HR:   6 LST
+  190630 METPREP    I84  MPPBL  : Upper air sounding selected for this day: 12 Z
+  190630 METPREP    I84  MPPBL  : UAID =   3 for HR:   6 LST
+  190701 METPREP    I84  MPPBL  : Upper air sounding selected for this day: 12 Z
+  190701 METPREP    I84  MPPBL  : UAID =   3 for HR:   6 LST
+  190702 METPREP    I84  MPPBL  : Upper air sounding selected for this day: 12 Z
+  190702 METPREP    I84  MPPBL  : UAID =   3 for HR:   6 LST
+  190703 METPREP    I84  MPPBL  : Upper air sounding selected for this day: 12 Z
+  190703 METPREP    I84  MPPBL  : UAID =   3 for HR:   6 LST
+  190704 METPREP    I84  MPPBL  : Upper air sounding selected for this day: 12 Z
+  190704 METPREP    I84  MPPBL  : UAID =   3 for HR:   6 LST
+  190705 METPREP    I84  MPPBL  : Upper air sounding selected for this day: 12 Z
+  190705 METPREP    I84  MPPBL  : UAID =   3 for HR:   6 LST
+  190706 METPREP    I84  MPPBL  : Upper air sounding selected for this day: 12 Z
+  190706 METPREP    I84  MPPBL  : UAID =   3 for HR:   6 LST
+  190707 METPREP    I84  MPPBL  : Upper air sounding selected for this day: 12 Z
+  190707 METPREP    I84  MPPBL  : UAID =   3 for HR:   6 LST
+  190708 METPREP    I84  MPPBL  : Upper air sounding selected for this day: 12 Z
+  190708 METPREP    I84  MPPBL  : UAID =   3 for HR:   6 LST
+  190709 METPREP    I84  MPPBL  : Upper air sounding selected for this day: 12 Z
+  190709 METPREP    I84  MPPBL  : UAID =   3 for HR:   6 LST
+  190710 METPREP    I84  MPPBL  : Upper air sounding selected for this day: 12 Z
+  190710 METPREP    I84  MPPBL  : UAID =   3 for HR:   6 LST
+  190711 METPREP    I84  MPPBL  : Upper air sounding selected for this day: 12 Z
+  190711 METPREP    I84  MPPBL  : UAID =   3 for HR:   6 LST
+  190712 METPREP    I84  MPPBL  : Upper air sounding selected for this day: 12 Z
+  190712 METPREP    I84  MPPBL  : UAID =   3 for HR:   6 LST
+  190713 METPREP    I84  MPPBL  : Upper air sounding selected for this day: 12 Z
+  190713 METPREP    I84  MPPBL  : UAID =   3 for HR:   6 LST
+  190714 METPREP    I84  MPPBL  : Upper air sounding selected for this day: 12 Z
+  190714 METPREP    I84  MPPBL  : UAID =   3 for HR:   6 LST
+  190715 METPREP    I84  MPPBL  : Upper air sounding selected for this day: 12 Z
+  190715 METPREP    I84  MPPBL  : UAID =   3 for HR:   6 LST
+  190716 METPREP    I84  MPPBL  : Upper air sounding selected for this day: 12 Z
+  190716 METPREP    I84  MPPBL  : UAID =   3 for HR:   6 LST
+  190717 METPREP    I84  MPPBL  : Upper air sounding selected for this day: 12 Z
+  190717 METPREP    I84  MPPBL  : UAID =   3 for HR:   6 LST
+  190718 METPREP    I84  MPPBL  : Upper air sounding selected for this day: 12 Z
+  190718 METPREP    I84  MPPBL  : UAID =   3 for HR:   6 LST
+  190719 METPREP    I84  MPPBL  : Upper air sounding selected for this day: 12 Z
+  190719 METPREP    I84  MPPBL  : UAID =   3 for HR:   6 LST
+  190720 METPREP    I84  MPPBL  : Upper air sounding selected for this day: 12 Z
+  190720 METPREP    I84  MPPBL  : UAID =   3 for HR:   6 LST
+  190721 METPREP    I84  MPPBL  : Upper air sounding selected for this day: 12 Z
+  190721 METPREP    I84  MPPBL  : UAID =   3 for HR:   6 LST
+  190722 METPREP    I84  MPPBL  : Upper air sounding selected for this day: 12 Z
+  190722 METPREP    I84  MPPBL  : UAID =   3 for HR:   6 LST
+  190723 METPREP    I84  MPPBL  : Upper air sounding selected for this day: 12 Z
+  190723 METPREP    I84  MPPBL  : UAID =   3 for HR:   6 LST
+  190724 METPREP    I84  MPPBL  : Upper air sounding selected for this day: 12 Z
+  190724 METPREP    I84  MPPBL  : UAID =   3 for HR:   6 LST
+  190725 METPREP    I84  MPPBL  : Upper air sounding selected for this day: 12 Z
+  190725 METPREP    I84  MPPBL  : UAID =   3 for HR:   6 LST
+  190726 METPREP    I84  MPPBL  : Upper air sounding selected for this day: 12 Z
+  190726 METPREP    I84  MPPBL  : UAID =   3 for HR:   6 LST
+  190727 METPREP    I71  MPPBL  : Calm wind - No BL calculations for hour:  05
+  190727 METPREP    I84  MPPBL  : Upper air sounding selected for this day: 12 Z
+  190727 METPREP    I84  MPPBL  : UAID =   3 for HR:   6 LST
+  190728 METPREP    I84  MPPBL  : Upper air sounding selected for this day: 12 Z
+  190728 METPREP    I84  MPPBL  : UAID =   3 for HR:   6 LST
+  190729 METPREP    I84  MPPBL  : Upper air sounding selected for this day: 12 Z
+  190729 METPREP    I84  MPPBL  : UAID =   3 for HR:   6 LST
+  190730 METPREP    I84  MPPBL  : Upper air sounding selected for this day: 12 Z
+  190730 METPREP    I84  MPPBL  : UAID =   3 for HR:   6 LST
+  190731 METPREP    W73  MPPBL  : No ZICONV - No UA sounding - Julian day: 212
+  190801 METPREP    I71  MPPBL  : Missing temperature for hour:  19
+  190801 METPREP    I71  MPPBL  : Missing temperature for hour:  20
+  190801 METPREP    I71  MPPBL  : Missing temperature for hour:  21
+  190801 METPREP    I71  MPPBL  : Missing temperature for hour:  22
+  190801 METPREP    I71  MPPBL  : Missing temperature for hour:  23
+  190801 METPREP    I71  MPPBL  : Missing temperature for hour:  24
+  190801 METPREP    W73  MPPBL  : No ZICONV - No UA sounding - Julian day: 213
+     154 METPREP    I79  FETCH  : EOF reached on input data file after 000000

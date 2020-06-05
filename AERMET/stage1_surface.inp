@@ -1,0 +1,18 @@
+JOB
+
+  REPORT stage1_surface.RPT
+
+  MESSAGES stage1_surface.MSG
+
+SURFACE
+
+  DATA Surface\724698-24015-2019 ISHD
+
+  EXTRACT surf_extract.txt
+
+  XDATES 19/3/1 TO 19/8/1
+
+  LOCATION 24015 40.1744N 103.214W 6 1437
+
+  QAOUT stage1_surf.out
+

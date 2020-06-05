@@ -1,0 +1,107 @@
+        AERMET, A Meteorological Processor for the AERMOD Dispersion Model
+                                   Version  19191
+
+                     Data Processed on 29-MAY-2020 at 12:45:00
+
+                                      Stage 1                          Page   1
+
+              ********************************************************
+              ***        AERMET Setup Finished Successfully        ***
+              ********************************************************
+
+ 1.  Job File Names
+
+     Listing of Messages: MSG\STAGE1_UA.MSG
+     Summary (this file): RPT\STAGE1_UA.RPT
+
+
+ 2.  Upper Air Data  
+
+      Site ID    Latitude(deg.)   Longitude(deg.)   Time Adjustment
+        23062       39.77N           104.88W               6
+
+      Data Format: FSL     
+
+     AERMET Has Determined That Processing For This Pathway Includes:
+          EXTRACT AND QUALITY ASSESSMENT             
+
+          Extract Input -    OPEN: UA\RAOB_SOUNDINGS30583.TMP.TXT
+          Extract Output-    OPEN: EXTRACTED_DATA\UA_EXTRACT.TXT
+          QA Output     -    OPEN: OUT\STAGE1_UA.OUT
+
+          The Extract Dates Are:    Starting:  1-MAR-2019
+                                      Ending:  1-AUG-2019
+
+          Upper Air Data Above the First Level Above 5000 Meters Not Extracted
+          Upper Air Automatic Data Checks Are: OFF
+
+
+ 3.  NWS Surface Data
+
+     AERMET Has Determined That Processing For This Pathway Includes:
+          NONE, NO DATA TO BE PROCESSED ON THIS PATH 
+
+
+
+ 4.  On-site Data    
+
+     AERMET Has Determined That Processing For This Pathway Includes:
+          NONE, NO DATA TO BE PROCESSED ON THIS PATH 
+
+        AERMET, A Meteorological Processor for the AERMOD Dispersion Model
+                                   Version  19191
+
+                     Data Processed on 29-MAY-2020 at 12:45:00
+
+                                      Stage 1                          Page   2
+
+              ********************************************************
+              ***   AERMET Data Processing Finished Successfully   ***
+              ********************************************************
+
+
+                        **** SUMMARY OF THE QA AUDIT ****
+
+     THERE IS NO AUDIT TRAIL FOR    SOUNDINGS
+
+     THIS CONCLUDES THE AUDIT TRAIL
+        AERMET, A Meteorological Processor for the AERMOD Dispersion Model
+                                   Version  19191
+
+                     Data Processed on 29-MAY-2020 at 12:45:00
+
+                                      Stage 1                          Page   3
+
+              ********************************************************
+              ***   AERMET Data Processing Finished Successfully   ***
+              ********************************************************
+
+                     EXTRACT AND/OR QA THE METEOROLOGICAL DATA
+
+
+                      **** AERMET MESSAGE SUMMARY TABLE ****
+
+          0- 9   10-19   20-29   30-39   40-49   50-59   60-69   70-89   TOTAL
+       ------------------------------------------------------------------------
+
+  JOB       
+    E      0       0       0       0       0       0       0       0       0
+    W      0       0       0       0       0       0       0       0       0
+    I      0       1       3       0       0       0       0       0       4
+
+  UPPERAIR  
+    E      0       0       0       0       0       0       0       0       0
+    W      0       0       0       2       0       0       0       0       2
+    I      0       0       0       4       0       0       0       0       4
+    Q      0       0       0      18       0       0       0       0      18
+       ------------------------------------------------------------------------
+           0       1       3      24       0       0       0       0      28
+
+        ****    ERROR MESSAGES    ****
+
+               ---  NONE  ---
+
+
+        ****   WARNING MESSAGES   ****
+20190409 UPPERAIR   W36 GETFSL  : SDG SKIPPED: 1st LEVEL NOT TYPE 9, SDG #  922
+20190530 UPPERAIR   W36 GETFSL  : SDG SKIPPED: 1st LEVEL NOT TYPE 9, SDG # 1023

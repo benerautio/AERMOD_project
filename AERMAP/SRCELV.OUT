@@ -1,0 +1,74 @@
+** AERMAP - VERSION 18081                                              06/01/20
+**                                                                     12:12:42
+
+From SRCELV: 
+     Source elevation calculations for       1 sources
+     IERR =  0: normal (non-edge) case
+     IERR = -1: edge source, no y-adjustment
+     IERR = -2: edge source, w/ y-adjustment
+     IERR = -3: source beyond range of data;
+                possible gap within data file;
+                flagged with warning message 420
+
+SOURCE ELEVATION CALCS FOR SRC#      1
+
+LOCATED IN NED FILE:     1 ;  NED\gdal_uncompress.tif
+
+NED FILE NAD:    4 ;  ANCHOR POINT NAD:   3
+
+NED FILE ZONE:  13 ;  SOURCE LOCATION (Lon, Lat, arc-seconds):    -378142.5044    143921.5723
+                                      (Lon, Lat, dec-degrees):     -105.039585      39.978215
+                                           (UTMx, UTMy, Zone):       496620.00     4425340.00  13
+
+      CALLING FIND4S w/ ISRC, JDEM:       1   1
+
+       FIND4S:
+        DEM  SRC        XSS             YSS
+          1    1    -378142.5044     143921.5723
+
+           NED:gdal_uncompress.tif                 
+                           SW Corner     NW Corner     NE Corner     SE Corner
+             Easting:     413362.602    414596.701    500043.470    500044.098
+             Northing:   4317196.134   4428293.077   4427813.742   4316720.070
+             Latitude:       38.9995       40.0005       40.0005       38.9995
+             Longitude:    -106.0005     -106.0005     -104.9995     -104.9995
+
+           Based on the Find4S Coding of:
+
+             IP= 4----3
+                 |    |
+             IP= 1----2
+
+         IP    xbase      nx       xx       X-Source       ybase      ny       yy       Y-Source
+          1  -378190.50  144  -378142.83  -378142.50      143887.17  104   143921.50   143921.57
+          2  -378190.50  145  -378142.50  -378142.50      143887.17  104   143921.50   143921.57
+          3  -378190.50  145  -378142.50  -378142.50      143887.17  105   143921.83   143921.57
+          4  -378190.50  144  -378142.83  -378142.50      143887.17  105   143921.83   143921.57
+ 
+       DEM RECNUM:
+           IERR =  0
+            IP    JREC   NX   NY
+             1   29991  144  104
+             2   30200  145  104
+             3   30201  145  105
+             4   29992  144  105
+
+           Based on the DEM Coding of:
+
+             IP= 2----3
+                 |    |
+             IP= 1----4
+
+       RECELV:              X-Src       Y-Src
+                          -378142.50   143921.57
+
+         IP    JREC  DEM      XDM         YDM         ELEV
+          1   29991    1  -378142.83   143921.50   1620.83
+          2   29992    1  -378142.83   143921.83   1621.90
+          3   30201    1  -378142.50   143921.83   1622.23
+          4   30200    1  -378142.50   143921.50   1621.30
+
+ELEVATION (M) FOR ISRC       1 =      1621.50
+
+---------
+

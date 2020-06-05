@@ -1,0 +1,82 @@
+** AERMAP - VERSION 18081                                              06/01/20
+**                                                                     12:12:42
+
+DOMCNV/CHKEXT:
+
+TYPDEM = "LAT"
+
+        Domain                   LAT          LONG                         UTM-N (m)     UTM-E (m)   ZONE   NADA
+                                        (neg. for West long.)
+  NE corner coordinates:      143956.50    -378093.78 seconds            4426416.4500   497776.0700    13     3
+  SW corner coordinates:      143886.90    -378190.54 seconds            4424271.4800   495479.9300    13     3
+  NE corner coordinates:      39.987917   -105.026049 decimal deg.
+  SW corner coordinates:      39.968582   -105.052929 decimal deg.
+
+
+       Checking domain corner  1 relative to NED file: NED\gdal_uncompress.tif
+
+                                  LAT (sec)      LONG (sec)      LAT (deg)      LONG (deg)    NAD
+       NED corner Lat/Lon:       144001.83      -377998.17       40.000509     -104.999491     4
+    Domain corner Lat/Lon:       143886.90      -378190.54       39.968582     -105.052929     4
+       NED corner Lat/Lon:       140398.17      -381601.83       38.999491     -106.000509     4
+  
+Domain corner  1 Inside NED file     1: NED\gdal_uncompress.tif
+                                  LAT (sec)      LONG (sec)      LAT (deg)      LONG (deg)    NAD
+       NED corner Lat/Lon:       144001.83      -377998.17       40.000509     -104.999491     4
+    Domain corner Lat/Lon:       143886.90      -378190.54       39.968582     -105.052929     4
+       NED corner Lat/Lon:       140398.17      -381601.83       38.999491     -106.000509     4
+  
+  
+       Checking domain corner  2 relative to NED file: NED\gdal_uncompress.tif
+
+                                  LAT (sec)      LONG (sec)      LAT (deg)      LONG (deg)    NAD
+       NED corner Lat/Lon:       144001.83      -377998.17       40.000509     -104.999491     4
+    Domain corner Lat/Lon:       143956.50      -378190.54       39.987917     -105.052929     4
+       NED corner Lat/Lon:       140398.17      -381601.83       38.999491     -106.000509     4
+  
+Domain corner  2 Inside NED file     1: NED\gdal_uncompress.tif
+                                  LAT (sec)      LONG (sec)      LAT (deg)      LONG (deg)    NAD
+       NED corner Lat/Lon:       144001.83      -377998.17       40.000509     -104.999491     4
+    Domain corner Lat/Lon:       143956.50      -378190.54       39.987917     -105.052929     4
+       NED corner Lat/Lon:       140398.17      -381601.83       38.999491     -106.000509     4
+  
+  
+       Checking domain corner  3 relative to NED file: NED\gdal_uncompress.tif
+
+                                  LAT (sec)      LONG (sec)      LAT (deg)      LONG (deg)    NAD
+       NED corner Lat/Lon:       144001.83      -377998.17       40.000509     -104.999491     4
+    Domain corner Lat/Lon:       143956.50      -378093.78       39.987917     -105.026049     4
+       NED corner Lat/Lon:       140398.17      -381601.83       38.999491     -106.000509     4
+  
+Domain corner  3 Inside NED file     1: NED\gdal_uncompress.tif
+                                  LAT (sec)      LONG (sec)      LAT (deg)      LONG (deg)    NAD
+       NED corner Lat/Lon:       144001.83      -377998.17       40.000509     -104.999491     4
+    Domain corner Lat/Lon:       143956.50      -378093.78       39.987917     -105.026049     4
+       NED corner Lat/Lon:       140398.17      -381601.83       38.999491     -106.000509     4
+  
+  
+       Checking domain corner  4 relative to NED file: NED\gdal_uncompress.tif
+
+                                  LAT (sec)      LONG (sec)      LAT (deg)      LONG (deg)    NAD
+       NED corner Lat/Lon:       144001.83      -377998.17       40.000509     -104.999491     4
+    Domain corner Lat/Lon:       143886.90      -378093.78       39.968582     -105.026049     4
+       NED corner Lat/Lon:       140398.17      -381601.83       38.999491     -106.000509     4
+  
+Domain corner  4 Inside NED file     1: NED\gdal_uncompress.tif
+                                  LAT (sec)      LONG (sec)      LAT (deg)      LONG (deg)    NAD
+       NED corner Lat/Lon:       144001.83      -377998.17       40.000509     -104.999491     4
+    Domain corner Lat/Lon:       143886.90      -378093.78       39.968582     -105.026049     4
+       NED corner Lat/Lon:       140398.17      -381601.83       38.999491     -106.000509     4
+  
+  
+From INITER_NED:
+
+Information on Direct Access Files Within User-specified Domain:
+
+No. of NED Files =      1
+
+Direct Access File for NED File No.      1 Contains     291 Profiles.
+
+ XBASE, YBASE and NODES for First Profile:     -378190.5000     143887.1667    209
+ XBASE, YBASE and NODES for Last  Profile:     -378093.8333     143887.1667    209
+

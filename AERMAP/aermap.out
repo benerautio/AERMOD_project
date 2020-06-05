@@ -1,0 +1,128 @@
+** AERMAP - VERSION 18081                                              06/01/20
+**                                                                     12:12:42
+
+CO STARTING
+CO TITLEONE Basic Exmaple AERMAP
+CO DATATYPE NED
+CO DATAFILE NED\gdal_uncompress.tif TIFFDEBUG
+CO DOMAINXY 495479.93 4424271.48 13 497776.07 4426416.45 13
+CO ANCHORXY 0496620 4425340 0496620 4425340 13 3
+CO TERRHGTS EXTRACT
+CO DEBUGOPT ALL
+CO RUNORNOT RUN
+CO FINISHED
+
+SO STARTING
+SO LOCATION s1 POINT 0496620 4425340
+SO FINISHED
+
+RE STARTING
+RE GRIDPOLR net1 STA
+RE GRIDPOLR net1 ORIG s1
+RE GRIDPOLR net1 DIST 250 500 750
+RE GRIDPOLR net1 GDIR 36 0 10
+RE GRIDPOLR net1 END
+RE FINISHED
+
+OU STARTING
+OU RECEPTOR aermap_rec.OUT
+OU SOURCLOC aermap_src.OUT
+OU FINISHED
+
+ Exiting NEDCHK
+  
+ Finished Reading Input NED Data
+  
+ Exiting CHKADJ
+ Exiting DOMCNV
+ Exiting RECCNV
+ Exiting SRCCNV
+ Exiting CHKEXT
+ Exiting DEMREC
+ Exiting DEMSRC
+ *** AERMAP - VERSION 18081 ***    *** Basic Exmaple AERMAP                                                 ***        06/01/20
+                                   ***                                                                      ***        12:12:42
+
+
+  *** Message Summary For AERMAP Setup ***
+
+ --------- Summary of Total Messages --------
+  
+ A Total of          0 Fatal Error Message(s)
+ A Total of          2 Warning Message(s)
+ A Total of          0 Informational Message(s)
+  
+  
+    ******** FATAL ERROR MESSAGES ******** 
+               ***  NONE  ***         
+  
+  
+    ********   WARNING MESSAGES   ******** 
+ OU W450      27 NEDCHK:Parameter not found in TIFF file.  TiffTag:                 274
+ OU W473      27 NEDCHK:Default elevation units of METERS used; NED file:             1
+
+ ***********************************
+ *** SETUP Finishes Successfully ***
+ ***********************************
+
+ *** AERMAP - VERSION 18081 ***    *** Basic Exmaple AERMAP                                                 ***        06/01/20
+                                   ***                                                                      ***        12:12:42
+
+
+                                            ***     AERMAP SETUP OPTIONS SUMMARY       ***
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+
+  
+ **This Run Includes:       1  NED File(s)
+  
+ **This Run Includes:     108  Receptor(s); and        1  Source(s)
+  
+ **The Input Receptors and Sources Were Assigned a NADA Value of  3:  World Geodetic System of 1984           
+
+ **The Input Receptors and Sources Are Offset:        0.00 meters East;         0.00 meters North
+      from the User-specified Anchor Point at:   496620.00 meters East;   4425340.00 meters North;  Zone  13
+  
+ **Terrain heights were EXTRACTed from NED data
+  
+ **The Following Debug Output Files Have Been Automatically Generated:
+
+   DOMDETAIL.OUT - Details of User-specified Domain and Relation to NED Files
+   MAPDETAIL.OUT - Details Regarding Input NED Files
+   MAPPARAMS.OUT - Summary of NED File Parameters and NED File Adjacency
+  
+ **The Following User-specified Debug Output Files Have Been Generated:
+
+   Critical Hill Height Calculations:  CALCHCDET.OUT
+  
+   Receptor NAD Conversion Results:    RECDETAIL.OUT
+   Receptor vs NED File Locations:     RECNDEM.OUT
+   Receptor Elevation Calculations:    RECELV.OUT
+  
+   Source NAD Conversion Results:      SRCDETAIL.OUT
+   Source vs NED File Locations:       SRCNDEM.OUT
+   Source Elevation Calculations:      SRCELV.OUT
+  
+ *** AERMAP - VERSION 18081 ***    *** Basic Exmaple AERMAP                                                 ***        06/01/20
+                                   ***                                                                      ***        12:12:42
+
+ *** Message Summary For AERMAP Execution ***
+
+ --------- Summary of Total Messages --------
+  
+ A Total of          0 Fatal Error Message(s)
+ A Total of          2 Warning Message(s)
+ A Total of          0 Informational Message(s)
+  
+  
+    ******** FATAL ERROR MESSAGES ******** 
+               ***  NONE  ***         
+  
+  
+    ********   WARNING MESSAGES   ******** 
+ OU W450      27 NEDCHK:Parameter not found in TIFF file.  TiffTag:                 274
+ OU W473      27 NEDCHK:Default elevation units of METERS used; NED file:             1
+
+    ************************************
+    *** AERMAP Finishes Successfully ***
+    ************************************
+

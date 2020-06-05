@@ -1,0 +1,247 @@
+ *** AERMOD - VERSION  19191 ***   *** Aermod Basic Example                                                 ***        06/01/20
+ *** AERMET - VERSION  19191 ***   ***                                                                      ***        12:14:47
+                                                                                                                       PAGE   1
+ *** MODELOPTs:    CONC  ELEV  RURAL
+
+                                            ***     MODEL SETUP OPTIONS SUMMARY       ***
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+
+ **Model Is Setup For Calculation of Average CONCentration Values.
+  
+   --  DEPOSITION LOGIC  --
+ **NO GAS DEPOSITION Data Provided.
+ **NO PARTICLE DEPOSITION Data Provided.
+ **Model Uses NO DRY DEPLETION.  DRYDPLT  =  F
+ **Model Uses NO WET DEPLETION.  WETDPLT  =  F
+  
+ **Model Uses RURAL Dispersion Only.
+  
+ **Model Allows User-Specified Options:
+         1. Stack-tip Downwash.
+         2. Model Accounts for ELEVated Terrain Effects.
+         3. Use Calms Processing Routine.
+         4. Use Missing Data Processing Routine.
+         5. No Exponential Decay.
+  
+ **Other Options Specified:
+         CCVR_Sub - Meteorological data includes CCVR substitutions
+         TEMP_Sub - Meteorological data includes TEMP substitutions
+  
+ **Model Assumes No FLAGPOLE Receptor Heights.
+  
+ **The User Specified a Pollutant Type of:  CH4     
+  
+ **Model Calculates  2 Short Term Average(s) of:   3-HR  24-HR
+     and Calculates PERIOD Averages
+  
+ **This Run Includes:      1 Source(s);       1 Source Group(s); and     108 Receptor(s)
+
+                with:      1 POINT(s), including
+                           0 POINTCAP(s) and      0 POINTHOR(s)
+                 and:      0 VOLUME source(s)
+                 and:      0 AREA type source(s)
+                 and:      0 LINE source(s)
+                 and:      0 RLINE/RLINEXT source(s)
+                 and:      0 OPENPIT source(s)
+                 and:      0 BUOYANT LINE source(s) with      0 line(s)
+
+  
+ **Model Set To Continue RUNning After the Setup Testing.
+
+ **The AERMET Input Meteorological Data Version Date:  19191
+  
+ **Output Options Selected:
+          Model Outputs Tables of PERIOD Averages by Receptor
+          Model Outputs Tables of Highest Short Term Values by Receptor (RECTABLE Keyword)
+          Model Outputs External File(s) of High Values for Plotting (PLOTFILE Keyword)
+          Model Outputs Separate Summary File of High Ranked Values (SUMMFILE Keyword)
+  
+ **NOTE:  The Following Flags May Appear Following CONC Values:  c for Calm Hours
+                                                                 m for Missing Hours
+                                                                 b for Both Calm and Missing Hours
+  
+ **Misc. Inputs:  Base Elev. for Pot. Temp. Profile (m MSL) =  1622.00 ;  Decay Coef. =    0.000     ;  Rot. Angle =     0.0
+                  Emission Units = GRAMS/SEC                                ;  Emission Rate Unit Factor =   0.10000E+07
+                  Output Units   = MICROGRAMS/M**3                         
+  
+ **Approximate Storage Requirements of Model =      3.5 MB of RAM.
+  
+ **Input Runstream File:          aermod.inp                                                                                      
+ **Output Print File:             aermod.out                                                                                      
+
+ **Detailed Error/Message File:   ERRORS.LST                                                                                      
+ **File for Summary of Results:   basic_example.SUM                                                                               
+ *** AERMOD - VERSION  19191 ***   *** Aermod Basic Example                                                 ***        06/01/20
+ *** AERMET - VERSION  19191 ***   ***                                                                      ***        12:14:47
+                                                                                                                       PAGE   2
+ *** MODELOPTs:    CONC  ELEV  RURAL
+
+                                            *** METEOROLOGICAL DAYS SELECTED FOR PROCESSING ***
+                                                               (1=YES; 0=NO)
+
+            1 1 1 1 1 1 1 1 1 1   1 1 1 1 1 1 1 1 1 1   1 1 1 1 1 1 1 1 1 1   1 1 1 1 1 1 1 1 1 1   1 1 1 1 1 1 1 1 1 1
+            1 1 1 1 1 1 1 1 1 1   1 1 1 1 1 1 1 1 1 1   1 1 1 1 1 1 1 1 1 1   1 1 1 1 1 1 1 1 1 1   1 1 1 1 1 1 1 1 1 1
+            1 1 1 1 1 1 1 1 1 1   1 1 1 1 1 1 1 1 1 1   1 1 1 1 1 1 1 1 1 1   1 1 1 1 1 1 1 1 1 1   1 1 1 1 1 1 1 1 1 1
+            1 1 1 1 1 1 1 1 1 1   1 1 1 1 1 1 1 1 1 1   1 1 1 1 1 1 1 1 1 1   1 1 1 1 1 1 1 1 1 1   1 1 1 1 1 1 1 1 1 1
+            1 1 1 1 1 1 1 1 1 1   1 1 1 1 1 1 1 1 1 1   1 1 1 1 1 1 1 1 1 1   1 1 1 1 1 1 1 1 1 1   1 1 1 1 1 1 1 1 1 1
+            1 1 1 1 1 1 1 1 1 1   1 1 1 1 1 1 1 1 1 1   1 1 1 1 1 1 1 1 1 1   1 1 1 1 1 1 1 1 1 1   1 1 1 1 1 1 1 1 1 1
+            1 1 1 1 1 1 1 1 1 1   1 1 1 1 1 1 1 1 1 1   1 1 1 1 1 1 1 1 1 1   1 1 1 1 1 1 1 1 1 1   1 1 1 1 1 1 1 1 1 1
+            1 1 1 1 1 1 1 1 1 1   1 1 1 1 1
+
+                NOTE:  METEOROLOGICAL DATA ACTUALLY PROCESSED WILL ALSO DEPEND ON WHAT IS INCLUDED IN THE DATA FILE.
+
+
+
+                                  *** UPPER BOUND OF FIRST THROUGH FIFTH WIND SPEED CATEGORIES ***
+                                                            (METERS/SEC)
+
+                                                 1.54,   3.09,   5.14,   8.23,  10.80,
+ *** AERMOD - VERSION  19191 ***   *** Aermod Basic Example                                                 ***        06/01/20
+ *** AERMET - VERSION  19191 ***   ***                                                                      ***        12:14:47
+                                                                                                                       PAGE   3
+ *** MODELOPTs:    CONC  ELEV  RURAL
+
+                                    *** UP TO THE FIRST 24 HOURS OF METEOROLOGICAL DATA ***
+
+   Surface file:   ..\AERMET\AERMET.SFC                                                               Met Version:  19191
+   Profile file:   ..\AERMET\AERMET.PFL                                                            
+   Surface format: FREE                                                                                                     
+   Profile format: FREE                                                                                                     
+   Surface station no.:    24015                  Upper air station no.:    23062
+                  Name: AKRON,CO                                   Name: DENVER,CO                               
+                  Year:   2019                                     Year:   2019
+
+ First 24 hours of scalar data
+ YR MO DY JDY HR     H0     U*     W*  DT/DZ ZICNV ZIMCH  M-O LEN    Z0  BOWEN ALBEDO  REF WS   WD     HT  REF TA     HT
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+ 19 03 01  60 01  -24.8  0.250 -9.000 -9.000 -999.  300.     48.1  0.03   0.36   1.00    4.21  158.   10.0  270.9    2.0
+ 19 03 01  60 02  -15.4  0.155 -9.000 -9.000 -999.  151.     18.5  0.03   0.36   1.00    3.27  232.   10.0  270.9    2.0
+ 19 03 01  60 03  -34.9  0.352 -9.000 -9.000 -999.  500.     94.7  0.03   0.36   1.00    5.49  272.   10.0  270.4    2.0
+ 19 03 01  60 04  -37.1  0.378 -9.000 -9.000 -999.  558.    110.6  0.03   0.36   1.00    5.83  271.   10.0  273.1    2.0
+ 19 03 01  60 05  -32.7  0.333 -9.000 -9.000 -999.  462.     85.6  0.04   0.36   1.00    5.15  269.   10.0  272.5    2.0
+ 19 03 01  60 06  -35.4  0.358 -9.000 -9.000 -999.  514.     98.5  0.03   0.36   1.00    5.57  272.   10.0  271.4    2.0
+ 19 03 01  60 07  -25.4  0.341 -9.000 -9.000 -999.  478.    118.2  0.03   0.36   1.00    5.23  274.   10.0  271.4    2.0
+ 19 03 01  60 08  -41.1  0.416 -9.000 -9.000 -999.  644.    133.6  0.03   0.36   1.00    6.34  279.   10.0  272.0    2.0
+ 19 03 01  60 09    4.4  0.398  0.146  0.005   21.  604.  -1094.9  0.03   0.36   0.37    5.66  295.   10.0  273.8    2.0
+ 19 03 01  60 10   34.9  0.572  0.416  0.005   63. 1037.   -407.8  0.05   0.36   0.23    7.57  325.   10.0  277.0    2.0
+ 19 03 01  60 11   12.9  0.851  0.310  0.005   70. 1881.  -3638.4  0.04   0.36   0.19   11.52  349.   10.0  279.9    2.0
+ 19 03 01  60 12   17.3  1.001  0.355  0.005   79. 2392.  -4419.4  0.04   0.36   0.18   13.56  354.   10.0  275.9    2.0
+ 19 03 01  60 13   19.9  0.879  0.386  0.005   88. 2009.  -2609.8  0.04   0.36   0.17   11.90  357.   10.0  276.4    2.0
+ 19 03 01  60 14   89.6  0.749  1.002  0.005  343. 1587.   -359.0  0.05   0.36   0.17    9.82   11.   10.0  276.4    2.0
+ 19 03 01  60 15   81.2  0.604  1.219  0.005  682. 1157.   -207.7  0.05   0.36   0.17    7.83   21.   10.0  277.0    2.0
+ 19 03 01  60 16   63.7  0.441  1.221  0.005  875.  732.   -102.8  0.04   0.36   0.19    5.87   42.   10.0  277.5    2.0
+ 19 03 01  60 17   37.9  0.460  1.063  0.005  969.  748.   -195.9  0.03   0.36   0.22    6.38   87.   10.0  277.0    2.0
+ 19 03 01  60 18    9.1  0.389  0.664  0.005  981.  586.   -492.0  0.03   0.36   0.33    5.61  105.   10.0  274.2    2.0
+ 19 03 01  60 19  -24.7  0.340 -9.000 -9.000 -999.  478.    121.9  0.03   0.36   0.66    5.32  112.   10.0  271.4    2.0
+ 19 03 01  60 20  -19.2  0.384 -9.000 -9.000 -999.  571.    226.2  0.03   0.36   1.00    5.79  123.   10.0  270.9    2.0
+ 19 03 01  60 21  -24.3  0.486 -9.000 -9.000 -999.  813.    362.7  0.03   0.36   1.00    7.23  135.   10.0  270.9    2.0
+ 19 03 01  60 22  -22.4  0.447 -9.000 -9.000 -999.  720.    306.3  0.03   0.36   1.00    6.68  137.   10.0  270.4    2.0
+ 19 03 01  60 23  -25.7  0.513 -9.000 -9.000 -999.  880.    402.8  0.03   0.36   1.00    7.61  134.   10.0  270.4    2.0
+ 19 03 01  60 24  -27.3  0.546 -9.000 -9.000 -999.  967.    456.4  0.03   0.36   1.00    8.08  130.   10.0  270.4    2.0
+
+
+ First hour of profile data
+ YR MO DY HR HEIGHT F  WDIR    WSPD AMB_TMP sigmaA  sigmaW  sigmaV
+ 19 03 01 01   10.0 1  158.    4.21   271.0   99.0  -99.00  -99.00
+
+ F indicates top of profile (=1) or below (=0)
+ *** AERMOD - VERSION  19191 ***   *** Aermod Basic Example                                                 ***        06/01/20
+ *** AERMET - VERSION  19191 ***   ***                                                                      ***        12:14:47
+                                                                                                                       PAGE   4
+ *** MODELOPTs:    CONC  ELEV  RURAL
+
+                                        *** THE SUMMARY OF MAXIMUM PERIOD (  3696 HRS) RESULTS ***
+
+
+                                    ** CONC OF CH4      IN MICROGRAMS/M**3                          **
+
+                                                                                                             NETWORK
+GROUP ID                       AVERAGE CONC                RECEPTOR  (XR, YR, ZELEV, ZHILL, ZFLAG)  OF TYPE  GRID-ID
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+
+ALL       1ST HIGHEST VALUE IS       4.74714 AT (  496866.20,  4425383.41,  1630.90,  1630.90,    0.00)  GP  NET1    
+          2ND HIGHEST VALUE IS       4.71138 AT (  496870.00,  4425340.00,  1629.40,  1629.40,    0.00)  GP  NET1    
+          3RD HIGHEST VALUE IS       4.63449 AT (  496663.41,  4425093.80,  1622.00,  1632.00,    0.00)  GP  NET1    
+          4TH HIGHEST VALUE IS       4.51015 AT (  496854.92,  4425425.51,  1629.00,  1629.00,    0.00)  GP  NET1    
+          5TH HIGHEST VALUE IS       4.49232 AT (  496534.49,  4425574.92,  1612.60,  1612.60,    0.00)  GP  NET1    
+          6TH HIGHEST VALUE IS       4.47124 AT (  496866.20,  4425296.59,  1632.30,  1632.30,    0.00)  GP  NET1    
+          7TH HIGHEST VALUE IS       4.38332 AT (  496745.00,  4425556.51,  1621.50,  1624.60,    0.00)  GP  NET1    
+          8TH HIGHEST VALUE IS       4.28404 AT (  496495.00,  4425556.51,  1612.40,  1612.40,    0.00)  GP  NET1    
+          9TH HIGHEST VALUE IS       4.24454 AT (  496576.59,  4425586.20,  1612.60,  1612.60,    0.00)  GP  NET1    
+         10TH HIGHEST VALUE IS       4.22919 AT (  496373.80,  4425383.41,  1614.00,  1614.80,    0.00)  GP  NET1    
+
+
+ *** RECEPTOR TYPES:  GC = GRIDCART
+                      GP = GRIDPOLR
+                      DC = DISCCART
+                      DP = DISCPOLR
+ *** AERMOD - VERSION  19191 ***   *** Aermod Basic Example                                                 ***        06/01/20
+ *** AERMET - VERSION  19191 ***   ***                                                                      ***        12:14:47
+                                                                                                                       PAGE   5
+ *** MODELOPTs:    CONC  ELEV  RURAL
+
+                                                *** THE SUMMARY OF HIGHEST  3-HR RESULTS ***
+
+
+                                    ** CONC OF CH4      IN MICROGRAMS/M**3                          **
+
+                                                      DATE                                                                    NETWORK
+GROUP ID                          AVERAGE CONC     (YYMMDDHH)             RECEPTOR  (XR, YR, ZELEV, ZHILL, ZFLAG)    OF TYPE  GRID-ID
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+  
+ALL      HIGH   1ST HIGH VALUE IS     198.89894  ON 19061603: AT (  496870.00,  4425340.00,  1629.40,  1629.40,    0.00)  GP  NET1    
+         HIGH   8TH HIGH VALUE IS      90.49220  ON 19070906: AT (  496854.92,  4425425.51,  1629.00,  1629.00,    0.00)  GP  NET1    
+
+
+ *** RECEPTOR TYPES:  GC = GRIDCART
+                      GP = GRIDPOLR
+                      DC = DISCCART
+                      DP = DISCPOLR
+ *** AERMOD - VERSION  19191 ***   *** Aermod Basic Example                                                 ***        06/01/20
+ *** AERMET - VERSION  19191 ***   ***                                                                      ***        12:14:47
+                                                                                                                       PAGE   6
+ *** MODELOPTs:    CONC  ELEV  RURAL
+
+                                                *** THE SUMMARY OF HIGHEST 24-HR RESULTS ***
+
+
+                                    ** CONC OF CH4      IN MICROGRAMS/M**3                          **
+
+                                                      DATE                                                                    NETWORK
+GROUP ID                          AVERAGE CONC     (YYMMDDHH)             RECEPTOR  (XR, YR, ZELEV, ZHILL, ZFLAG)    OF TYPE  GRID-ID
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+  
+ALL      HIGH   1ST HIGH VALUE IS      40.48783  ON 19072224: AT (  496428.49,  4425500.70,  1611.60,  1619.00,    0.00)  GP  NET1    
+         HIGH   8TH HIGH VALUE IS      20.52183  ON 19061824: AT (  496854.92,  4425425.51,  1629.00,  1629.00,    0.00)  GP  NET1    
+
+
+ *** RECEPTOR TYPES:  GC = GRIDCART
+                      GP = GRIDPOLR
+                      DC = DISCCART
+                      DP = DISCPOLR
+ *** AERMOD - VERSION  19191 ***   *** Aermod Basic Example                                                 ***        06/01/20
+ *** AERMET - VERSION  19191 ***   ***                                                                      ***        12:14:47
+                                                                                                                       PAGE   7
+ *** MODELOPTs:    CONC  ELEV  RURAL
+
+ *** Message Summary : AERMOD Model Execution ***
+
+  --------- Summary of Total Messages --------
+  
+ A Total of            0 Fatal Error Message(s)
+ A Total of            1 Warning Message(s)
+ A Total of          211 Informational Message(s)
+
+ A Total of         3696 Hours Were Processed
+
+ A Total of            3 Calm Hours Identified
+
+ A Total of          208 Missing Hours Identified (  5.63 Percent)
+  
+  
+    ******** FATAL ERROR MESSAGES ******** 
+               ***  NONE  ***         
+  
+  
+    ********   WARNING MESSAGES   ******** 
+ CO W207       6       ERRFIL: No Parameters Specified. Default Values Will Used.     ERRORFIL

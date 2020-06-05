@@ -1,0 +1,20 @@
+** AERMAP - VERSION 18081                                              06/01/20
+**                                                                     12:12:42
+
+LOOKING AT NEDs FOR SRC:       1
+SRC#:      1    SLAT/LON:         39.97821454       -105.03958456
+             SHIFTL/L(S):          0.00000000          0.00000000
+            UTM(E/N/Zon):          496620.000         4425340.000   13
+             SHIFTX/Y(M):          0.00000000          0.00000000   SRC NAD:  3
+
+   NED No.:    1 NED Name: NED:gdal_uncompress.tif                  NED NAD:  4
+        NED Max. LAT/LON(D.D):       40.00051     -104.99949
+             Src LAT/LON(D.D):       39.97821     -105.03958
+        NED Min. LAT/LON(D.D):       38.99949     -106.00051
+
+        NED Max. LAT/LON(Sec):   144001.83333  -377998.16667
+             Src LAT/LON(Sec):   143921.57233  -378142.50443
+        NED Min. LAT/LON(Sec):   140398.16667  -381601.83333
+
+NED No.:    1 Contains Src No.:      1
+

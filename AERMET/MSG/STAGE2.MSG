@@ -1,0 +1,10 @@
+         JOB        I19  SETUP  : "END OF FILE" ON UNIT  5 AFTER RECORD #  22
+         JOB        I25   TEST  : SUMMARY: NO DATA EXTRACTION FOR UPPERAIR
+         JOB        I25   TEST  : SUMMARY: NO DATA QA FOR UPPERAIR
+         JOB        I26   TEST  : SUMMARY: NO DATA QA FOR SURFACE
+         JOB        I27   TEST  : SUMMARY: NO DATA QA FOR ONSITE
+         JOB        I27   TEST  : SUMMARY: NO ONSITE data to merge
+             29 HEADERS PROCESSED FROM INPUT FILES
+         MERGE      W66 MERGE   : 1-MIN ASOS winds from AERMINUTE Version 15272  used for WBAN: 24015; Call_ID: KAKO
+         MERGE      I41 FNDCOMDT: ASOS commission date FOUND for WBAN =  24015; CALL4 = KAKO; CALL3 = AKO; CommDate = 19960206
+         MERGE      I66 MERGE   : 1-MIN ASOS WBAN: 24015 matches SURFACE WBAN:    24015

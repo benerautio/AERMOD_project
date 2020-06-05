@@ -1,0 +1,2235 @@
+** AERMAP - VERSION 18081                                              06/01/20
+**                                                                     12:12:42
+
+ Entering CALCHC for Receptor:            1
+ Starting with Local NED File:            1
+
+
+ Checking NED File     1 : gdal_uncompress.tif                     ;  for Receptor No.:       1
+                                                                                          DEM
+        RECLAT      RECLON     DEM_SELAT   DEM_SELON                           DIST(m)  MAXELEV  RECELEV
+        39.980    -105.040        38.999    -104.999                              0.00  4350.79  1612.99
+
+    REC NADA NED NADD        Map Name               Latitude   Longitude      Northing     Easting  Zone
+      1    3   1    4  NED:gdal_uncompress.tif     143929.68  -378142.51    4425590.00   496620.00    13
+
+            DEM    PROF   NODE      NODELAT     NODELON      DIST     ZNODE     RELEV    HEFMAX
+              1     148    122    143927.50  -378141.50     71.41   1620.28   1612.99   1620.28
+              1     149    122    143927.50  -378141.17     74.43   1621.20   1612.99   1621.20
+              1     150    122    143927.50  -378140.83     78.15   1621.23   1612.99   1621.23
+              1     151    122    143927.50  -378140.50     82.45   1621.71   1612.99   1621.71
+              1     152    122    143927.50  -378140.17     87.26   1622.16   1612.99   1622.16
+              1     153    122    143927.50  -378139.83     92.50   1622.54   1612.99   1622.54
+              1     154    122    143927.50  -378139.50     98.10   1622.93   1612.99   1622.93
+
+The Critical Hill Height for Receptor:     1 is  1622.93 meters.
+
+---------
+
+
+ Checking NED File     1 : gdal_uncompress.tif                     ;  for Receptor No.:       2
+                                                                                          DEM
+        RECLAT      RECLON     DEM_SELAT   DEM_SELON                           DIST(m)  MAXELEV  RECELEV
+        39.983    -105.040        38.999    -104.999                              0.00  4350.79  1614.91
+
+    REC NADA NED NADD        Map Name               Latitude   Longitude      Northing     Easting  Zone
+      2    3   1    4  NED:gdal_uncompress.tif     143937.79  -378142.51    4425840.00   496620.00    13
+
+ There were NO potential critical hill heights found in NED file:  gdal_uncompress.tif                     
+
+The Critical Hill Height for Receptor:     2 is  1614.91 meters.
+
+---------
+
+
+ Checking NED File     1 : gdal_uncompress.tif                     ;  for Receptor No.:       3
+                                                                                          DEM
+        RECLAT      RECLON     DEM_SELAT   DEM_SELON                           DIST(m)  MAXELEV  RECELEV
+        39.985    -105.040        38.999    -104.999                              0.00  4350.79  1605.84
+
+    REC NADA NED NADD        Map Name               Latitude   Longitude      Northing     Easting  Zone
+      3    3   1    4  NED:gdal_uncompress.tif     143945.90  -378142.52    4426090.00   496620.00    13
+
+ There were NO potential critical hill heights found in NED file:  gdal_uncompress.tif                     
+
+The Critical Hill Height for Receptor:     3 is  1605.84 meters.
+
+---------
+
+
+ Checking NED File     1 : gdal_uncompress.tif                     ;  for Receptor No.:       4
+                                                                                          DEM
+        RECLAT      RECLON     DEM_SELAT   DEM_SELON                           DIST(m)  MAXELEV  RECELEV
+        39.980    -105.039        38.999    -104.999                              0.00  4350.79  1613.24
+
+    REC NADA NED NADD        Map Name               Latitude   Longitude      Northing     Easting  Zone
+      4    3   1    4  NED:gdal_uncompress.tif     143929.56  -378140.68    4425586.20   496663.41    13
+
+            DEM    PROF   NODE      NODELAT     NODELON      DIST     ZNODE     RELEV    HEFMAX
+              1     148    121    143927.17  -378141.50     76.30   1620.98   1613.24   1620.98
+              1     149    121    143927.17  -378141.17     74.68   1621.33   1613.24   1621.33
+              1     150    120    143926.83  -378140.83     84.14   1622.02   1613.24   1622.02
+              1     151    120    143926.83  -378140.50     84.16   1622.40   1613.24   1622.40
+              1     152    119    143926.50  -378140.17     95.12   1623.15   1613.24   1623.15
+              1     153    118    143926.17  -378139.83    106.52   1623.95   1613.24   1623.95
+              1     154    117    143925.83  -378139.50    118.25   1625.07   1613.24   1625.07
+              1     155    117    143925.83  -378139.17    120.37   1625.49   1613.24   1625.49
+              1     156    117    143925.83  -378138.83    122.96   1625.85   1613.24   1625.85
+              1     157    117    143925.83  -378138.50    125.99   1626.13   1613.24   1626.13
+              1     158    117    143925.83  -378138.17    129.44   1626.46   1613.24   1626.46
+              1     159    117    143925.83  -378137.83    133.26   1626.70   1613.24   1626.70
+              1     163    113    143924.50  -378136.50    184.86   1631.80   1613.24   1631.80
+              1     164    113    143924.50  -378136.17    189.22   1632.95   1613.24   1632.95
+
+The Critical Hill Height for Receptor:     4 is  1632.95 meters.
+
+---------
+
+
+ Checking NED File     1 : gdal_uncompress.tif                     ;  for Receptor No.:       5
+                                                                                          DEM
+        RECLAT      RECLON     DEM_SELAT   DEM_SELON                           DIST(m)  MAXELEV  RECELEV
+        39.983    -105.039        38.999    -104.999                              0.00  4350.79  1613.86
+
+    REC NADA NED NADD        Map Name               Latitude   Longitude      Northing     Easting  Zone
+      5    3   1    4  NED:gdal_uncompress.tif     143937.54  -378138.85    4425832.40   496706.82    13
+
+ There were NO potential critical hill heights found in NED file:  gdal_uncompress.tif                     
+
+The Critical Hill Height for Receptor:     5 is  1613.86 meters.
+
+---------
+
+
+ Checking NED File     1 : gdal_uncompress.tif                     ;  for Receptor No.:       6
+                                                                                          DEM
+        RECLAT      RECLON     DEM_SELAT   DEM_SELON                           DIST(m)  MAXELEV  RECELEV
+        39.985    -105.038        38.999    -104.999                              0.00  4350.79  1607.63
+
+    REC NADA NED NADD        Map Name               Latitude   Longitude      Northing     Easting  Zone
+      6    3   1    4  NED:gdal_uncompress.tif     143945.53  -378137.03    4426078.61   496750.24    13
+
+ There were NO potential critical hill heights found in NED file:  gdal_uncompress.tif                     
+
+The Critical Hill Height for Receptor:     6 is  1607.63 meters.
+
+---------
+
+
+ Checking NED File     1 : gdal_uncompress.tif                     ;  for Receptor No.:       7
+                                                                                          DEM
+        RECLAT      RECLON     DEM_SELAT   DEM_SELON                           DIST(m)  MAXELEV  RECELEV
+        39.980    -105.039        38.999    -104.999                              0.00  4350.79  1612.47
+
+    REC NADA NED NADD        Map Name               Latitude   Longitude      Northing     Easting  Zone
+      7    3   1    4  NED:gdal_uncompress.tif     143929.19  -378138.90    4425574.92   496705.51    13
+
+            DEM    PROF   NODE      NODELAT     NODELON      DIST     ZNODE     RELEV    HEFMAX
+              1     149    120    143926.83  -378141.17     90.45   1621.61   1612.47   1621.61
+              1     150    119    143926.50  -378140.83     94.85   1622.24   1612.47   1622.24
+              1     151    117    143925.83  -378140.50    110.34   1623.76   1612.47   1623.76
+              1     152    117    143925.83  -378140.17    107.88   1624.12   1612.47   1624.12
+              1     153    116    143925.50  -378139.83    116.03   1624.45   1612.47   1624.45
+              1     153    117    143925.83  -378139.83    105.95   1624.56   1612.47   1624.56
+              1     154    115    143925.17  -378139.50    125.00   1625.09   1612.47   1625.09
+              1     155    115    143925.17  -378139.17    124.35   1625.51   1612.47   1625.51
+              1     156    114    143924.83  -378138.83    134.49   1626.30   1612.47   1626.30
+              1     157    113    143924.50  -378138.50    145.07   1627.00   1612.47   1627.00
+              1     158    113    143924.50  -378138.17    145.81   1627.30   1612.47   1627.30
+              1     159    113    143924.50  -378137.83    146.97   1627.63   1612.47   1627.63
+              1     160    113    143924.50  -378137.50    148.54   1627.91   1612.47   1627.91
+              1     161    113    143924.50  -378137.17    150.51   1628.14   1612.47   1628.14
+              1     162    112    143924.17  -378136.83    162.63   1628.80   1612.47   1628.80
+              1     163    111    143923.83  -378136.50    174.88   1631.09   1612.47   1631.09
+              1     163    112    143924.17  -378136.50    165.20   1632.04   1612.47   1632.04
+              1     164    111    143923.83  -378136.17    177.62   1632.07   1612.47   1632.07
+              1     164    112    143924.17  -378136.17    168.09   1632.80   1612.47   1632.80
+              1     164    113    143924.50  -378136.17    158.66   1632.95   1612.47   1632.95
+
+The Critical Hill Height for Receptor:     7 is  1632.95 meters.
+
+---------
+
+
+ Checking NED File     1 : gdal_uncompress.tif                     ;  for Receptor No.:       8
+                                                                                          DEM
+        RECLAT      RECLON     DEM_SELAT   DEM_SELON                           DIST(m)  MAXELEV  RECELEV
+        39.982    -105.038        38.999    -104.999                              0.00  4350.79  1614.28
+
+    REC NADA NED NADD        Map Name               Latitude   Longitude      Northing     Easting  Zone
+      8    3   1    4  NED:gdal_uncompress.tif     143936.81  -378135.30    4425809.85   496791.01    13
+
+            DEM    PROF   NODE      NODELAT     NODELON      DIST     ZNODE     RELEV    HEFMAX
+              1     166    149    143936.50  -378135.50     10.77   1615.44   1614.28   1615.44
+              1     167    149    143936.50  -378135.17     10.22   1615.62   1614.28   1615.62
+
+The Critical Hill Height for Receptor:     8 is  1615.62 meters.
+
+---------
+
+
+ Checking NED File     1 : gdal_uncompress.tif                     ;  for Receptor No.:       9
+                                                                                          DEM
+        RECLAT      RECLON     DEM_SELAT   DEM_SELON                           DIST(m)  MAXELEV  RECELEV
+        39.985    -105.037        38.999    -104.999                              0.00  4350.79  1607.79
+
+    REC NADA NED NADD        Map Name               Latitude   Longitude      Northing     Easting  Zone
+      9    3   1    4  NED:gdal_uncompress.tif     143944.44  -378131.70    4426044.77   496876.52    13
+
+ There were NO potential critical hill heights found in NED file:  gdal_uncompress.tif                     
+
+The Critical Hill Height for Receptor:     9 is  1607.79 meters.
+
+---------
+
+
+ Checking NED File     1 : gdal_uncompress.tif                     ;  for Receptor No.:      10
+                                                                                          DEM
+        RECLAT      RECLON     DEM_SELAT   DEM_SELON                           DIST(m)  MAXELEV  RECELEV
+        39.980    -105.038        38.999    -104.999                              0.00  4350.79  1621.53
+
+    REC NADA NED NADD        Map Name               Latitude   Longitude      Northing     Easting  Zone
+     10    3   1    4  NED:gdal_uncompress.tif     143928.60  -378137.24    4425556.51   496745.00    13
+
+            DEM    PROF   NODE      NODELAT     NODELON      DIST     ZNODE     RELEV    HEFMAX
+              1     160    124    143928.17  -378137.50     14.64   1623.34   1621.53   1623.34
+              1     161    123    143927.83  -378137.17     23.60   1624.02   1621.53   1624.02
+              1     162    123    143927.83  -378136.83     25.42   1624.25   1621.53   1624.25
+              1     163    123    143927.83  -378136.50     29.34   1624.57   1621.53   1624.57
+
+The Critical Hill Height for Receptor:    10 is  1624.57 meters.
+
+---------
+
+
+ Checking NED File     1 : gdal_uncompress.tif                     ;  for Receptor No.:      11
+                                                                                          DEM
+        RECLAT      RECLON     DEM_SELAT   DEM_SELON                           DIST(m)  MAXELEV  RECELEV
+        39.982    -105.037        38.999    -104.999                              0.00  4350.79  1616.92
+
+    REC NADA NED NADD        Map Name               Latitude   Longitude      Northing     Easting  Zone
+     11    3   1    4  NED:gdal_uncompress.tif     143935.62  -378131.97    4425773.01   496870.00    13
+
+ There were NO potential critical hill heights found in NED file:  gdal_uncompress.tif                     
+
+The Critical Hill Height for Receptor:    11 is  1616.92 meters.
+
+---------
+
+
+ Checking NED File     1 : gdal_uncompress.tif                     ;  for Receptor No.:      12
+                                                                                          DEM
+        RECLAT      RECLON     DEM_SELAT   DEM_SELON                           DIST(m)  MAXELEV  RECELEV
+        39.984    -105.035        38.999    -104.999                              0.00  4350.79  1606.06
+
+    REC NADA NED NADD        Map Name               Latitude   Longitude      Northing     Easting  Zone
+     12    3   1    4  NED:gdal_uncompress.tif     143942.64  -378126.70    4425989.52   496995.00    13
+
+            DEM    PROF   NODE      NODELAT     NODELON      DIST     ZNODE     RELEV    HEFMAX
+              1     187    157    143939.17  -378128.50    115.42   1618.56   1606.06   1618.56
+
+The Critical Hill Height for Receptor:    12 is  1618.56 meters.
+
+---------
+
+
+ Checking NED File     1 : gdal_uncompress.tif                     ;  for Receptor No.:      13
+                                                                                          DEM
+        RECLAT      RECLON     DEM_SELAT   DEM_SELON                           DIST(m)  MAXELEV  RECELEV
+        39.980    -105.038        38.999    -104.999                              0.00  4350.79  1624.97
+
+    REC NADA NED NADD        Map Name               Latitude   Longitude      Northing     Easting  Zone
+     13    3   1    4  NED:gdal_uncompress.tif     143927.79  -378135.73    4425531.51   496780.70    13
+
+ There were NO potential critical hill heights found in NED file:  gdal_uncompress.tif                     
+
+The Critical Hill Height for Receptor:    13 is  1624.97 meters.
+
+---------
+
+
+ Checking NED File     1 : gdal_uncompress.tif                     ;  for Receptor No.:      14
+                                                                                          DEM
+        RECLAT      RECLON     DEM_SELAT   DEM_SELON                           DIST(m)  MAXELEV  RECELEV
+        39.982    -105.036        38.999    -104.999                              0.00  4350.79  1615.48
+
+    REC NADA NED NADD        Map Name               Latitude   Longitude      Northing     Easting  Zone
+     14    3   1    4  NED:gdal_uncompress.tif     143934.00  -378128.96    4425723.02   496941.39    13
+
+            DEM    PROF   NODE      NODELAT     NODELON      DIST     ZNODE     RELEV    HEFMAX
+              1     185    143    143934.50  -378129.17     16.17   1617.58   1615.48   1617.58
+              1     185    144    143934.83  -378129.17     26.16   1618.80   1615.48   1618.80
+              1     185    145    143935.17  -378129.17     36.31   1619.57   1615.48   1619.57
+              1     186    143    143934.50  -378128.83     15.71   1619.84   1615.48   1619.84
+              1     186    144    143934.83  -378128.83     25.87   1620.96   1615.48   1620.96
+              1     187    143    143934.50  -378128.50     18.90   1621.66   1615.48   1621.66
+
+The Critical Hill Height for Receptor:    14 is  1621.66 meters.
+
+---------
+
+
+ Checking NED File     1 : gdal_uncompress.tif                     ;  for Receptor No.:      15
+                                                                                          DEM
+        RECLAT      RECLON     DEM_SELAT   DEM_SELON                           DIST(m)  MAXELEV  RECELEV
+        39.983    -105.034        38.999    -104.999                              0.00  4350.79  1611.36
+
+    REC NADA NED NADD        Map Name               Latitude   Longitude      Northing     Easting  Zone
+     15    3   1    4  NED:gdal_uncompress.tif     143940.21  -378122.19    4425914.53   497102.09    13
+
+ There were NO potential critical hill heights found in NED file:  gdal_uncompress.tif                     
+
+The Critical Hill Height for Receptor:    15 is  1611.36 meters.
+
+---------
+
+
+ Checking NED File     1 : gdal_uncompress.tif                     ;  for Receptor No.:      16
+                                                                                          DEM
+        RECLAT      RECLON     DEM_SELAT   DEM_SELON                           DIST(m)  MAXELEV  RECELEV
+        39.980    -105.037        38.999    -104.999                              0.00  4350.79  1627.15
+
+    REC NADA NED NADD        Map Name               Latitude   Longitude      Northing     Easting  Zone
+     16    3   1    4  NED:gdal_uncompress.tif     143926.79  -378134.43    4425500.70   496811.51    13
+
+            DEM    PROF   NODE      NODELAT     NODELON      DIST     ZNODE     RELEV    HEFMAX
+              1     167    117    143925.83  -378135.17     34.19   1631.13   1627.15   1631.13
+
+The Critical Hill Height for Receptor:    16 is  1631.13 meters.
+
+---------
+
+
+ Checking NED File     1 : gdal_uncompress.tif                     ;  for Receptor No.:      17
+                                                                                          DEM
+        RECLAT      RECLON     DEM_SELAT   DEM_SELON                           DIST(m)  MAXELEV  RECELEV
+        39.981    -105.035        38.999    -104.999                              0.00  4350.79  1618.24
+
+    REC NADA NED NADD        Map Name               Latitude   Longitude      Northing     Easting  Zone
+     17    3   1    4  NED:gdal_uncompress.tif     143932.00  -378126.36    4425661.39   497003.02    13
+
+            DEM    PROF   NODE      NODELAT     NODELON      DIST     ZNODE     RELEV    HEFMAX
+              1     191    133    143931.17  -378127.17     32.08   1621.61   1618.24   1621.61
+              1     191    134    143931.50  -378127.17     24.60   1622.05   1618.24   1622.05
+              1     192    132    143930.83  -378126.83     37.75   1623.80   1618.24   1623.80
+              1     192    133    143931.17  -378126.83     28.10   1623.95   1618.24   1623.95
+              1     193    131    143930.50  -378126.50     46.45   1624.15   1618.24   1624.15
+              1     194    130    143930.17  -378126.17     56.80   1624.21   1618.24   1624.21
+              1     195    130    143930.17  -378125.83     57.98   1624.32   1618.24   1624.32
+              1     195    131    143930.50  -378125.83     47.99   1624.38   1618.24   1624.38
+              1     196    130    143930.17  -378125.50     60.18   1624.53   1618.24   1624.53
+
+The Critical Hill Height for Receptor:    17 is  1624.53 meters.
+
+---------
+
+
+ Checking NED File     1 : gdal_uncompress.tif                     ;  for Receptor No.:      18
+                                                                                          DEM
+        RECLAT      RECLON     DEM_SELAT   DEM_SELON                           DIST(m)  MAXELEV  RECELEV
+        39.983    -105.033        38.999    -104.999                              0.00  4350.79  1613.48
+
+    REC NADA NED NADD        Map Name               Latitude   Longitude      Northing     Easting  Zone
+     18    3   1    4  NED:gdal_uncompress.tif     143937.22  -378118.29    4425822.09   497194.53    13
+
+            DEM    PROF   NODE      NODELAT     NODELON      DIST     ZNODE     RELEV    HEFMAX
+              1     219    148    143936.17  -378117.83     34.14   1617.25   1613.48   1617.25
+              1     220    147    143935.83  -378117.50     46.59   1618.14   1613.48   1618.14
+              1     221    148    143936.17  -378117.17     41.93   1618.23   1613.48   1618.23
+              1     222    148    143936.17  -378116.83     47.35   1618.53   1613.48   1618.53
+
+The Critical Hill Height for Receptor:    18 is  1618.53 meters.
+
+---------
+
+
+ Checking NED File     1 : gdal_uncompress.tif                     ;  for Receptor No.:      19
+                                                                                          DEM
+        RECLAT      RECLON     DEM_SELAT   DEM_SELON                           DIST(m)  MAXELEV  RECELEV
+        39.979    -105.037        38.999    -104.999                              0.00  4350.79  1627.93
+
+    REC NADA NED NADD        Map Name               Latitude   Longitude      Northing     Easting  Zone
+     19    3   1    4  NED:gdal_uncompress.tif     143925.63  -378133.38    4425465.00   496836.51    13
+
+ There were NO potential critical hill heights found in NED file:  gdal_uncompress.tif                     
+
+The Critical Hill Height for Receptor:    19 is  1627.93 meters.
+
+---------
+
+
+ Checking NED File     1 : gdal_uncompress.tif                     ;  for Receptor No.:      20
+                                                                                          DEM
+        RECLAT      RECLON     DEM_SELAT   DEM_SELON                           DIST(m)  MAXELEV  RECELEV
+        39.980    -105.035        38.999    -104.999                              0.00  4350.79  1621.83
+
+    REC NADA NED NADD        Map Name               Latitude   Longitude      Northing     Easting  Zone
+     20    3   1    4  NED:gdal_uncompress.tif     143929.69  -378124.25    4425590.00   497053.01    13
+
+            DEM    PROF   NODE      NODELAT     NODELON      DIST     ZNODE     RELEV    HEFMAX
+              1     197    127    143929.17  -378125.17     26.99   1624.77   1621.83   1624.77
+              1     198    126    143928.83  -378124.83     29.72   1625.05   1621.83   1625.05
+
+The Critical Hill Height for Receptor:    20 is  1625.05 meters.
+
+---------
+
+
+ Checking NED File     1 : gdal_uncompress.tif                     ;  for Receptor No.:      21
+                                                                                          DEM
+        RECLAT      RECLON     DEM_SELAT   DEM_SELON                           DIST(m)  MAXELEV  RECELEV
+        39.982    -105.032        38.999    -104.999                              0.00  4350.79  1620.35
+
+    REC NADA NED NADD        Map Name               Latitude   Longitude      Northing     Easting  Zone
+     21    3   1    4  NED:gdal_uncompress.tif     143933.74  -378115.13    4425715.00   497269.52    13
+
+            DEM    PROF   NODE      NODELAT     NODELON      DIST     ZNODE     RELEV    HEFMAX
+              1     225    138    143932.83  -378115.83     32.73   1624.06   1620.35   1624.06
+
+The Critical Hill Height for Receptor:    21 is  1624.06 meters.
+
+---------
+
+
+ Checking NED File     1 : gdal_uncompress.tif                     ;  for Receptor No.:      22
+                                                                                          DEM
+        RECLAT      RECLON     DEM_SELAT   DEM_SELON                           DIST(m)  MAXELEV  RECELEV
+        39.979    -105.037        38.999    -104.999                              0.00  4350.79  1629.00
+
+    REC NADA NED NADD        Map Name               Latitude   Longitude      Northing     Easting  Zone
+     22    3   1    4  NED:gdal_uncompress.tif     143924.35  -378132.60    4425425.51   496854.92    13
+
+ There were NO potential critical hill heights found in NED file:  gdal_uncompress.tif                     
+
+The Critical Hill Height for Receptor:    22 is  1629.00 meters.
+
+---------
+
+
+ Checking NED File     1 : gdal_uncompress.tif                     ;  for Receptor No.:      23
+                                                                                          DEM
+        RECLAT      RECLON     DEM_SELAT   DEM_SELON                           DIST(m)  MAXELEV  RECELEV
+        39.980    -105.034        38.999    -104.999                              0.00  4350.79  1625.37
+
+    REC NADA NED NADD        Map Name               Latitude   Longitude      Northing     Easting  Zone
+     23    3   1    4  NED:gdal_uncompress.tif     143927.13  -378122.70    4425511.01   497089.85    13
+
+            DEM    PROF   NODE      NODELAT     NODELON      DIST     ZNODE     RELEV    HEFMAX
+              1     202    120    143926.83  -378123.50     21.05   1627.75   1625.37   1627.75
+
+The Critical Hill Height for Receptor:    23 is  1627.75 meters.
+
+---------
+
+
+ Checking NED File     1 : gdal_uncompress.tif                     ;  for Receptor No.:      24
+                                                                                          DEM
+        RECLAT      RECLON     DEM_SELAT   DEM_SELON                           DIST(m)  MAXELEV  RECELEV
+        39.981    -105.031        38.999    -104.999                              0.00  4350.79  1618.24
+
+    REC NADA NED NADD        Map Name               Latitude   Longitude      Northing     Easting  Zone
+     24    3   1    4  NED:gdal_uncompress.tif     143929.90  -378112.79    4425596.52   497324.77    13
+
+ There were NO potential critical hill heights found in NED file:  gdal_uncompress.tif                     
+
+The Critical Hill Height for Receptor:    24 is  1618.24 meters.
+
+---------
+
+
+ Checking NED File     1 : gdal_uncompress.tif                     ;  for Receptor No.:      25
+                                                                                          DEM
+        RECLAT      RECLON     DEM_SELAT   DEM_SELON                           DIST(m)  MAXELEV  RECELEV
+        39.979    -105.037        38.999    -104.999                              0.00  4350.79  1630.91
+
+    REC NADA NED NADD        Map Name               Latitude   Longitude      Northing     Easting  Zone
+     25    3   1    4  NED:gdal_uncompress.tif     143922.98  -378132.13    4425383.41   496866.20    13
+
+ There were NO potential critical hill heights found in NED file:  gdal_uncompress.tif                     
+
+The Critical Hill Height for Receptor:    25 is  1630.91 meters.
+
+---------
+
+
+ Checking NED File     1 : gdal_uncompress.tif                     ;  for Receptor No.:      26
+                                                                                          DEM
+        RECLAT      RECLON     DEM_SELAT   DEM_SELON                           DIST(m)  MAXELEV  RECELEV
+        39.979    -105.034        38.999    -104.999                              0.00  4350.79  1622.44
+
+    REC NADA NED NADD        Map Name               Latitude   Longitude      Northing     Easting  Zone
+     26    3   1    4  NED:gdal_uncompress.tif     143924.40  -378121.75    4425426.82   497112.40    13
+
+            DEM    PROF   NODE      NODELAT     NODELON      DIST     ZNODE     RELEV    HEFMAX
+              1     198    110    143923.50  -378124.83     78.30   1630.39   1622.44   1630.39
+              1     201    106    143922.17  -378123.83     84.72   1631.04   1622.44   1631.04
+              1     202    105    143921.83  -378123.50     89.31   1631.42   1622.44   1631.42
+              1     203    105    143921.83  -378123.17     85.91   1631.48   1622.44   1631.48
+              1     204    104    143921.50  -378122.83     92.95   1632.04   1622.44   1632.04
+              1     206    104    143921.50  -378122.17     89.85   1632.09   1622.44   1632.09
+              1     207    102    143920.83  -378121.83    109.87   1633.69   1622.44   1633.69
+              1     208    102    143920.83  -378121.50    110.01   1634.27   1622.44   1634.27
+              1     209    101    143920.50  -378121.17    120.92   1634.83   1622.44   1634.83
+              1     209    102    143920.83  -378121.17    110.71   1634.86   1622.44   1634.86
+              1     210    101    143920.50  -378120.83    122.07   1635.28   1622.44   1635.28
+              1     211    101    143920.50  -378120.50    123.72   1635.63   1622.44   1635.63
+              1     213    102    143920.83  -378119.83    118.86   1635.78   1622.44   1635.78
+              1     214    102    143920.83  -378119.50    122.09   1635.97   1622.44   1635.97
+              1     215    102    143920.83  -378119.17    125.75   1636.07   1622.44   1636.07
+              1     216    102    143920.83  -378118.83    129.78   1636.15   1622.44   1636.15
+              1     217    102    143920.83  -378118.50    134.16   1636.17   1622.44   1636.17
+
+The Critical Hill Height for Receptor:    26 is  1636.17 meters.
+
+---------
+
+
+ Checking NED File     1 : gdal_uncompress.tif                     ;  for Receptor No.:      27
+                                                                                          DEM
+        RECLAT      RECLON     DEM_SELAT   DEM_SELON                           DIST(m)  MAXELEV  RECELEV
+        39.979    -105.031        38.999    -104.999                              0.00  4350.79  1628.32
+
+    REC NADA NED NADD        Map Name               Latitude   Longitude      Northing     Easting  Zone
+     27    3   1    4  NED:gdal_uncompress.tif     143925.81  -378111.37    4425470.24   497358.61    13
+
+            DEM    PROF   NODE      NODELAT     NODELON      DIST     ZNODE     RELEV    HEFMAX
+              1     235    112    143924.17  -378112.50     57.28   1634.33   1628.32   1634.33
+              1     237    112    143924.17  -378111.83     51.77   1634.35   1628.32   1634.35
+              1     238    113    143924.50  -378111.50     40.41   1634.41   1628.32   1634.41
+              1     239    111    143923.83  -378111.17     61.03   1634.51   1628.32   1634.51
+              1     240    111    143923.83  -378110.83     62.14   1634.61   1628.32   1634.61
+
+The Critical Hill Height for Receptor:    27 is  1634.61 meters.
+
+---------
+
+
+ Checking NED File     1 : gdal_uncompress.tif                     ;  for Receptor No.:      28
+                                                                                          DEM
+        RECLAT      RECLON     DEM_SELAT   DEM_SELON                           DIST(m)  MAXELEV  RECELEV
+        39.978    -105.037        38.999    -104.999                              0.00  4350.79  1629.39
+
+    REC NADA NED NADD        Map Name               Latitude   Longitude      Northing     Easting  Zone
+     28    3   1    4  NED:gdal_uncompress.tif     143921.58  -378131.96    4425340.00   496870.00    13
+
+ There were NO potential critical hill heights found in NED file:  gdal_uncompress.tif                     
+
+The Critical Hill Height for Receptor:    28 is  1629.39 meters.
+
+---------
+
+
+ Checking NED File     1 : gdal_uncompress.tif                     ;  for Receptor No.:      29
+                                                                                          DEM
+        RECLAT      RECLON     DEM_SELAT   DEM_SELON                           DIST(m)  MAXELEV  RECELEV
+        39.978    -105.034        38.999    -104.999                              0.00  4350.79  1632.25
+
+    REC NADA NED NADD        Map Name               Latitude   Longitude      Northing     Easting  Zone
+     29    3   1    4  NED:gdal_uncompress.tif     143921.58  -378121.42    4425340.00   497120.00    13
+
+            DEM    PROF   NODE      NODELAT     NODELON      DIST     ZNODE     RELEV    HEFMAX
+              1     209    102    143920.83  -378121.17     23.79   1634.86   1632.25   1634.86
+              1     210    102    143920.83  -378120.83     26.93   1635.19   1632.25   1635.19
+              1     211    102    143920.83  -378120.50     31.77   1635.48   1632.25   1635.48
+
+The Critical Hill Height for Receptor:    29 is  1635.48 meters.
+
+---------
+
+
+ Checking NED File     1 : gdal_uncompress.tif                     ;  for Receptor No.:      30
+                                                                                          DEM
+        RECLAT      RECLON     DEM_SELAT   DEM_SELON                           DIST(m)  MAXELEV  RECELEV
+        39.978    -105.031        38.999    -104.999                              0.00  4350.79  1635.62
+
+    REC NADA NED NADD        Map Name               Latitude   Longitude      Northing     Easting  Zone
+     30    3   1    4  NED:gdal_uncompress.tif     143921.58  -378110.88    4425340.00   497370.00    13
+
+ There were NO potential critical hill heights found in NED file:  gdal_uncompress.tif                     
+
+The Critical Hill Height for Receptor:    30 is  1635.62 meters.
+
+---------
+
+
+ Checking NED File     1 : gdal_uncompress.tif                     ;  for Receptor No.:      31
+                                                                                          DEM
+        RECLAT      RECLON     DEM_SELAT   DEM_SELON                           DIST(m)  MAXELEV  RECELEV
+        39.978    -105.037        38.999    -104.999                              0.00  4350.79  1632.34
+
+    REC NADA NED NADD        Map Name               Latitude   Longitude      Northing     Easting  Zone
+     31    3   1    4  NED:gdal_uncompress.tif     143920.17  -378132.12    4425296.59   496866.20    13
+
+ There were NO potential critical hill heights found in NED file:  gdal_uncompress.tif                     
+
+The Critical Hill Height for Receptor:    31 is  1632.34 meters.
+
+---------
+
+
+ Checking NED File     1 : gdal_uncompress.tif                     ;  for Receptor No.:      32
+                                                                                          DEM
+        RECLAT      RECLON     DEM_SELAT   DEM_SELON                           DIST(m)  MAXELEV  RECELEV
+        39.977    -105.034        38.999    -104.999                              0.00  4350.79  1635.05
+
+    REC NADA NED NADD        Map Name               Latitude   Longitude      Northing     Easting  Zone
+     32    3   1    4  NED:gdal_uncompress.tif     143918.76  -378121.74    4425253.18   497112.40    13
+
+            DEM    PROF   NODE      NODELAT     NODELON      DIST     ZNODE     RELEV    HEFMAX
+              1     223     72    143910.83  -378116.50    274.39   1662.71   1635.05   1662.71
+              1     224     71    143910.50  -378116.17    287.15   1663.91   1635.05   1663.91
+              1     225     71    143910.50  -378115.83    290.88   1664.36   1635.05   1664.36
+
+The Critical Hill Height for Receptor:    32 is  1664.36 meters.
+
+---------
+
+
+ Checking NED File     1 : gdal_uncompress.tif                     ;  for Receptor No.:      33
+                                                                                          DEM
+        RECLAT      RECLON     DEM_SELAT   DEM_SELON                           DIST(m)  MAXELEV  RECELEV
+        39.977    -105.031        38.999    -104.999                              0.00  4350.79  1642.11
+
+    REC NADA NED NADD        Map Name               Latitude   Longitude      Northing     Easting  Zone
+     33    3   1    4  NED:gdal_uncompress.tif     143917.36  -378111.36    4425209.76   497358.61    13
+
+            DEM    PROF   NODE      NODELAT     NODELON      DIST     ZNODE     RELEV    HEFMAX
+              1     235     71    143910.50  -378112.50    213.22   1663.73   1642.11   1663.73
+
+The Critical Hill Height for Receptor:    33 is  1663.73 meters.
+
+---------
+
+
+ Checking NED File     1 : gdal_uncompress.tif                     ;  for Receptor No.:      34
+                                                                                          DEM
+        RECLAT      RECLON     DEM_SELAT   DEM_SELON                           DIST(m)  MAXELEV  RECELEV
+        39.977    -105.037        38.999    -104.999                              0.00  4350.79  1632.52
+
+    REC NADA NED NADD        Map Name               Latitude   Longitude      Northing     Easting  Zone
+     34    3   1    4  NED:gdal_uncompress.tif     143918.80  -378132.60    4425254.49   496854.92    13
+
+            DEM    PROF   NODE      NODELAT     NODELON      DIST     ZNODE     RELEV    HEFMAX
+              1     178     93    143917.83  -378131.50     39.65   1636.53   1632.52   1636.53
+              1     180     92    143917.50  -378130.83     58.03   1638.47   1632.52   1638.47
+
+The Critical Hill Height for Receptor:    34 is  1638.47 meters.
+
+---------
+
+
+ Checking NED File     1 : gdal_uncompress.tif                     ;  for Receptor No.:      35
+                                                                                          DEM
+        RECLAT      RECLON     DEM_SELAT   DEM_SELON                           DIST(m)  MAXELEV  RECELEV
+        39.977    -105.034        38.999    -104.999                              0.00  4350.79  1639.60
+
+    REC NADA NED NADD        Map Name               Latitude   Longitude      Northing     Easting  Zone
+     35    3   1    4  NED:gdal_uncompress.tif     143916.03  -378122.69    4425168.99   497089.85    13
+
+            DEM    PROF   NODE      NODELAT     NODELON      DIST     ZNODE     RELEV    HEFMAX
+              1     205     86    143915.50  -378122.50     17.03   1641.58   1639.60   1641.58
+              1     219     73    143911.17  -378117.83    189.24   1658.57   1639.60   1658.57
+              1     220     66    143908.83  -378117.50    253.92   1665.10   1639.60   1665.10
+              1     221     66    143908.83  -378117.17    257.85   1665.69   1639.60   1665.69
+              1     222     66    143908.83  -378116.83    261.96   1666.09   1639.60   1666.09
+              1     223     66    143908.83  -378116.50    266.24   1666.28   1639.60   1666.28
+
+The Critical Hill Height for Receptor:    35 is  1666.28 meters.
+
+---------
+
+
+ Checking NED File     1 : gdal_uncompress.tif                     ;  for Receptor No.:      36
+                                                                                          DEM
+        RECLAT      RECLON     DEM_SELAT   DEM_SELON                           DIST(m)  MAXELEV  RECELEV
+        39.976    -105.031        38.999    -104.999                              0.00  4350.79  1650.06
+
+    REC NADA NED NADD        Map Name               Latitude   Longitude      Northing     Easting  Zone
+     36    3   1    4  NED:gdal_uncompress.tif     143913.26  -378112.79    4425083.48   497324.77    13
+
+            DEM    PROF   NODE      NODELAT     NODELON      DIST     ZNODE     RELEV    HEFMAX
+              1     223     67    143909.17  -378116.50    153.99   1665.93   1650.06   1665.93
+              1     224     66    143908.83  -378116.17    158.38   1666.35   1650.06   1666.35
+
+The Critical Hill Height for Receptor:    36 is  1666.35 meters.
+
+---------
+
+
+ Checking NED File     1 : gdal_uncompress.tif                     ;  for Receptor No.:      37
+                                                                                          DEM
+        RECLAT      RECLON     DEM_SELAT   DEM_SELON                           DIST(m)  MAXELEV  RECELEV
+        39.977    -105.037        38.999    -104.999                              0.00  4350.79  1634.05
+
+    REC NADA NED NADD        Map Name               Latitude   Longitude      Northing     Easting  Zone
+     37    3   1    4  NED:gdal_uncompress.tif     143917.52  -378133.37    4425215.00   496836.51    13
+
+            DEM    PROF   NODE      NODELAT     NODELON      DIST     ZNODE     RELEV    HEFMAX
+              1     173     90    143916.83  -378133.17     21.77   1636.31   1634.05   1636.31
+              1     174     90    143916.83  -378132.83     24.79   1636.53   1634.05   1636.53
+              1     175     91    143917.17  -378132.50     23.44   1636.99   1634.05   1636.99
+
+The Critical Hill Height for Receptor:    37 is  1636.99 meters.
+
+---------
+
+
+ Checking NED File     1 : gdal_uncompress.tif                     ;  for Receptor No.:      38
+                                                                                          DEM
+        RECLAT      RECLON     DEM_SELAT   DEM_SELON                           DIST(m)  MAXELEV  RECELEV
+        39.976    -105.035        38.999    -104.999                              0.00  4350.79  1642.17
+
+    REC NADA NED NADD        Map Name               Latitude   Longitude      Northing     Easting  Zone
+     38    3   1    4  NED:gdal_uncompress.tif     143913.47  -378124.24    4425090.00   497053.01    13
+
+            DEM    PROF   NODE      NODELAT     NODELON      DIST     ZNODE     RELEV    HEFMAX
+              1     204     78    143912.83  -378122.83     38.80   1646.11   1642.17   1646.11
+              1     218     66    143908.83  -378118.17    203.08   1662.63   1642.17   1662.63
+              1     219     65    143908.50  -378117.83    215.94   1663.99   1642.17   1663.99
+              1     219     66    143908.83  -378117.83    208.77   1664.01   1642.17   1664.01
+              1     220     65    143908.50  -378117.50    221.59   1665.10   1642.17   1665.10
+              1     221     64    143908.17  -378117.17    234.42   1665.87   1642.17   1665.87
+              1     222     64    143908.17  -378116.83    240.15   1666.31   1642.17   1666.31
+              1     222     65    143908.50  -378116.83    233.27   1666.36   1642.17   1666.36
+              1     223     65    143908.50  -378116.50    239.29   1666.44   1642.17   1666.44
+
+The Critical Hill Height for Receptor:    38 is  1666.44 meters.
+
+---------
+
+
+ Checking NED File     1 : gdal_uncompress.tif                     ;  for Receptor No.:      39
+                                                                                          DEM
+        RECLAT      RECLON     DEM_SELAT   DEM_SELON                           DIST(m)  MAXELEV  RECELEV
+        39.975    -105.032        38.999    -104.999                              0.00  4350.79  1665.80
+
+    REC NADA NED NADD        Map Name               Latitude   Longitude      Northing     Easting  Zone
+     39    3   1    4  NED:gdal_uncompress.tif     143909.42  -378115.11    4424965.00   497269.52    13
+
+ There were NO potential critical hill heights found in NED file:  gdal_uncompress.tif                     
+
+The Critical Hill Height for Receptor:    39 is  1665.80 meters.
+
+---------
+
+
+ Checking NED File     1 : gdal_uncompress.tif                     ;  for Receptor No.:      40
+                                                                                          DEM
+        RECLAT      RECLON     DEM_SELAT   DEM_SELON                           DIST(m)  MAXELEV  RECELEV
+        39.977    -105.037        38.999    -104.999                              0.00  4350.79  1629.32
+
+    REC NADA NED NADD        Map Name               Latitude   Longitude      Northing     Easting  Zone
+     40    3   1    4  NED:gdal_uncompress.tif     143916.36  -378134.43    4425179.30   496811.51    13
+
+            DEM    PROF   NODE      NODELAT     NODELON      DIST     ZNODE     RELEV    HEFMAX
+              1     170     88    143916.17  -378134.17      8.65   1630.39   1629.32   1630.39
+              1     170     89    143916.50  -378134.17      7.49   1631.07   1629.32   1631.07
+              1     170     90    143916.83  -378134.17     15.78   1631.40   1629.32   1631.40
+              1     171     88    143916.17  -378133.83     15.34   1632.12   1629.32   1632.12
+              1     171     89    143916.50  -378133.83     14.72   1633.06   1629.32   1633.06
+              1     171     90    143916.83  -378133.83     20.23   1633.36   1629.32   1633.36
+              1     172     88    143916.17  -378133.50     22.82   1633.49   1629.32   1633.49
+              1     172     89    143916.50  -378133.50     22.41   1634.28   1629.32   1634.28
+              1     172     90    143916.83  -378133.50     26.36   1634.35   1629.32   1634.35
+              1     173     87    143915.83  -378133.17     34.08   1634.43   1629.32   1634.43
+              1     173     88    143916.17  -378133.17     30.52   1635.41   1629.32   1635.41
+              1     173     89    143916.50  -378133.17     30.21   1636.12   1629.32   1636.12
+              1     173     90    143916.83  -378133.17     33.25   1636.31   1629.32   1636.31
+              1     174     89    143916.50  -378132.83     38.06   1636.36   1629.32   1636.36
+              1     174     90    143916.83  -378132.83     40.51   1636.53   1629.32   1636.53
+              1     175     91    143917.17  -378132.50     52.02   1636.99   1629.32   1636.99
+              1     177     90    143916.83  -378131.83     63.24   1637.15   1629.32   1637.15
+              1     178     90    143916.83  -378131.50     70.96   1637.78   1629.32   1637.78
+              1     179     91    143917.17  -378131.17     81.25   1638.05   1629.32   1638.05
+
+The Critical Hill Height for Receptor:    40 is  1638.05 meters.
+
+---------
+
+
+ Checking NED File     1 : gdal_uncompress.tif                     ;  for Receptor No.:      41
+                                                                                          DEM
+        RECLAT      RECLON     DEM_SELAT   DEM_SELON                           DIST(m)  MAXELEV  RECELEV
+        39.975    -105.035        38.999    -104.999                              0.00  4350.79  1639.92
+
+    REC NADA NED NADD        Map Name               Latitude   Longitude      Northing     Easting  Zone
+     41    3   1    4  NED:gdal_uncompress.tif     143911.15  -378126.35    4425018.61   497003.02    13
+
+            DEM    PROF   NODE      NODELAT     NODELON      DIST     ZNODE     RELEV    HEFMAX
+              1     198     70    143910.17  -378124.83     47.13   1644.75   1639.92   1644.75
+              1     199     71    143910.50  -378124.50     48.31   1645.08   1639.92   1645.08
+              1     214     67    143909.17  -378119.50    173.72   1657.33   1639.92   1657.33
+              1     215     66    143908.83  -378119.17    184.87   1658.83   1639.92   1658.83
+              1     216     64    143908.17  -378118.83    200.75   1660.12   1639.92   1660.12
+              1     217     62    143907.50  -378118.50    217.71   1661.77   1639.92   1661.77
+              1     218     60    143906.83  -378118.17    235.50   1663.61   1639.92   1663.61
+              1     219     60    143906.83  -378117.83    242.07   1664.32   1639.92   1664.32
+              1     220     60    143906.83  -378117.50    248.71   1664.89   1639.92   1664.89
+              1     220     61    143907.17  -378117.50    243.36   1665.08   1639.92   1665.08
+              1     220     65    143908.50  -378117.50    225.39   1665.10   1639.92   1665.10
+              1     221     61    143907.17  -378117.17    250.22   1665.64   1639.92   1665.64
+              1     221     62    143907.50  -378117.17    245.33   1665.72   1639.92   1665.72
+              1     221     63    143907.83  -378117.17    240.78   1665.84   1639.92   1665.84
+              1     221     64    143908.17  -378117.17    236.59   1665.87   1639.92   1665.87
+              1     222     61    143907.17  -378116.83    257.13   1665.94   1639.92   1665.94
+              1     222     62    143907.50  -378116.83    252.38   1666.11   1639.92   1666.11
+              1     222     63    143907.83  -378116.83    247.96   1666.41   1639.92   1666.41
+              1     223     63    143907.83  -378116.50    255.19   1666.44   1639.92   1666.44
+              1     223     64    143908.17  -378116.50    251.24   1666.50   1639.92   1666.50
+
+The Critical Hill Height for Receptor:    41 is  1666.50 meters.
+
+---------
+
+
+ Checking NED File     1 : gdal_uncompress.tif                     ;  for Receptor No.:      42
+                                                                                          DEM
+        RECLAT      RECLON     DEM_SELAT   DEM_SELON                           DIST(m)  MAXELEV  RECELEV
+        39.974    -105.033        38.999    -104.999                              0.00  4350.79  1662.34
+
+    REC NADA NED NADD        Map Name               Latitude   Longitude      Northing     Easting  Zone
+     42    3   1    4  NED:gdal_uncompress.tif     143905.94  -378118.27    4424857.91   497194.53    13
+
+            DEM    PROF   NODE      NODELAT     NODELON      DIST     ZNODE     RELEV    HEFMAX
+              1     218     58    143906.17  -378118.17      7.35   1663.15   1662.34   1663.15
+              1     219     58    143906.17  -378117.83     12.53   1663.62   1662.34   1663.62
+
+The Critical Hill Height for Receptor:    42 is  1663.62 meters.
+
+---------
+
+
+ Checking NED File     1 : gdal_uncompress.tif                     ;  for Receptor No.:      43
+                                                                                          DEM
+        RECLAT      RECLON     DEM_SELAT   DEM_SELON                           DIST(m)  MAXELEV  RECELEV
+        39.976    -105.038        38.999    -104.999                              0.00  4350.79  1623.42
+
+    REC NADA NED NADD        Map Name               Latitude   Longitude      Northing     Easting  Zone
+     43    3   1    4  NED:gdal_uncompress.tif     143915.36  -378135.73    4425148.49   496780.70    13
+
+            DEM    PROF   NODE      NODELAT     NODELON      DIST     ZNODE     RELEV    HEFMAX
+              1     162     83    143914.50  -378136.83     37.40   1627.20   1623.42   1627.20
+              1     163     88    143916.17  -378136.50     30.86   1627.30   1623.42   1627.30
+              1     163     89    143916.50  -378136.50     39.59   1627.41   1623.42   1627.41
+              1     169     87    143915.83  -378134.50     32.51   1627.67   1623.42   1627.67
+              1     169     88    143916.17  -378134.50     38.22   1628.56   1623.42   1628.56
+              1     169     89    143916.50  -378134.50     45.57   1629.15   1623.42   1629.15
+              1     169     90    143916.83  -378134.50     53.88   1629.45   1623.42   1629.45
+              1     169     92    143917.50  -378134.50     72.05   1630.89   1623.42   1630.89
+              1     169     93    143917.83  -378134.50     81.56   1631.82   1623.42   1631.82
+              1     170     92    143917.50  -378134.17     75.59   1632.23   1623.42   1632.23
+              1     171     89    143916.50  -378133.83     56.98   1633.06   1623.42   1633.06
+              1     171     90    143916.83  -378133.83     63.82   1633.36   1623.42   1633.36
+              1     172     88    143916.17  -378133.50     58.35   1633.49   1623.42   1633.49
+              1     172     89    143916.50  -378133.50     63.40   1634.28   1623.42   1634.28
+              1     172     90    143916.83  -378133.50     69.62   1634.35   1623.42   1634.35
+              1     173     87    143915.83  -378133.17     62.44   1634.43   1623.42   1634.43
+              1     173     88    143916.17  -378133.17     65.59   1635.41   1623.42   1635.41
+              1     173     89    143916.50  -378133.17     70.13   1636.12   1623.42   1636.12
+              1     173     90    143916.83  -378133.17     75.79   1636.31   1623.42   1636.31
+              1     174     89    143916.50  -378132.83     77.08   1636.36   1623.42   1636.36
+              1     174     90    143916.83  -378132.83     82.27   1636.53   1623.42   1636.53
+              1     175     91    143917.17  -378132.50     94.63   1636.99   1623.42   1636.99
+              1     177     90    143916.83  -378131.83    102.90   1637.15   1623.42   1637.15
+              1     178     90    143916.83  -378131.50    110.05   1637.78   1623.42   1637.78
+              1     179     91    143917.17  -378131.17    121.65   1638.05   1623.42   1638.05
+              1     180     92    143917.50  -378130.83    133.50   1638.47   1623.42   1638.47
+              1     182     91    143917.17  -378130.17    143.16   1639.04   1623.42   1639.04
+              1     184     89    143916.50  -378129.50    151.84   1639.09   1623.42   1639.09
+
+The Critical Hill Height for Receptor:    43 is  1639.09 meters.
+
+---------
+
+
+ Checking NED File     1 : gdal_uncompress.tif                     ;  for Receptor No.:      44
+                                                                                          DEM
+        RECLAT      RECLON     DEM_SELAT   DEM_SELON                           DIST(m)  MAXELEV  RECELEV
+        39.975    -105.036        38.999    -104.999                              0.00  4350.79  1634.80
+
+    REC NADA NED NADD        Map Name               Latitude   Longitude      Northing     Easting  Zone
+     44    3   1    4  NED:gdal_uncompress.tif     143909.15  -378128.95    4424956.98   496941.39    13
+
+            DEM    PROF   NODE      NODELAT     NODELON      DIST     ZNODE     RELEV    HEFMAX
+              1     188     68    143909.50  -378128.17     21.40   1637.09   1634.80   1637.09
+              1     188     69    143909.83  -378128.17     27.99   1637.81   1634.80   1637.81
+              1     189     68    143909.50  -378127.83     28.52   1638.00   1634.80   1638.00
+              1     189     69    143909.83  -378127.83     33.75   1638.59   1634.80   1638.59
+              1     190     65    143908.50  -378127.50     39.82   1638.79   1634.80   1638.79
+              1     190     69    143909.83  -378127.50     40.25   1639.22   1634.80   1639.22
+              1     191     68    143909.50  -378127.17     43.59   1639.50   1634.80   1639.50
+              1     191     69    143909.83  -378127.17     47.18   1639.80   1634.80   1639.80
+              1     192     68    143909.50  -378126.83     51.30   1640.15   1634.80   1640.15
+              1     192     69    143909.83  -378126.83     54.38   1640.28   1634.80   1640.28
+              1     193     68    143909.50  -378126.50     59.06   1640.83   1634.80   1640.83
+              1     198     62    143907.50  -378124.83    110.14   1646.02   1634.80   1646.02
+              1     199     63    143907.83  -378124.50    113.12   1646.32   1634.80   1646.32
+              1     213     58    143906.17  -378119.83    235.08   1658.50   1634.80   1658.50
+              1     214     57    143905.83  -378119.50    246.46   1659.64   1634.80   1659.64
+              1     214     58    143906.17  -378119.50    242.37   1659.67   1634.80   1659.67
+              1     215     57    143905.83  -378119.17    253.68   1660.56   1634.80   1660.56
+              1     215     58    143906.17  -378119.17    249.71   1660.71   1634.80   1660.71
+              1     216     57    143905.83  -378118.83    260.94   1661.14   1634.80   1661.14
+              1     216     58    143906.17  -378118.83    257.08   1661.42   1634.80   1661.42
+              1     216     59    143906.50  -378118.83    253.57   1661.43   1634.80   1661.43
+              1     217     57    143905.83  -378118.50    268.23   1661.71   1634.80   1661.71
+              1     217     58    143906.17  -378118.50    264.48   1662.36   1634.80   1662.36
+              1     217     59    143906.50  -378118.50    261.07   1662.58   1634.80   1662.58
+              1     218     58    143906.17  -378118.17    271.90   1663.15   1634.80   1663.15
+              1     218     59    143906.50  -378118.17    268.60   1663.56   1634.80   1663.56
+              1     218     60    143906.83  -378118.17    265.64   1663.61   1634.80   1663.61
+              1     219     58    143906.17  -378117.83    279.36   1663.62   1634.80   1663.62
+              1     219     59    143906.50  -378117.83    276.14   1664.06   1634.80   1664.06
+              1     219     60    143906.83  -378117.83    273.27   1664.32   1634.80   1664.32
+              1     220     59    143906.50  -378117.50    283.70   1664.46   1634.80   1664.46
+              1     220     60    143906.83  -378117.50    280.91   1664.89   1634.80   1664.89
+              1     220     61    143907.17  -378117.50    278.47   1665.08   1634.80   1665.08
+              1     220     65    143908.50  -378117.50    272.39   1665.10   1634.80   1665.10
+              1     221     60    143906.83  -378117.17    288.57   1665.28   1634.80   1665.28
+              1     221     61    143907.17  -378117.17    286.19   1665.64   1634.80   1665.64
+              1     221     62    143907.50  -378117.17    284.17   1665.72   1634.80   1665.72
+              1     221     63    143907.83  -378117.17    282.50   1665.84   1634.80   1665.84
+              1     221     64    143908.17  -378117.17    281.21   1665.87   1634.80   1665.87
+              1     222     61    143907.17  -378116.83    293.92   1665.94   1634.80   1665.94
+              1     222     62    143907.50  -378116.83    291.95   1666.11   1634.80   1666.11
+              1     222     63    143907.83  -378116.83    290.33   1666.41   1634.80   1666.41
+              1     223     63    143907.83  -378116.50    298.17   1666.44   1634.80   1666.44
+              1     223     64    143908.17  -378116.50    296.94   1666.50   1634.80   1666.50
+
+The Critical Hill Height for Receptor:    44 is  1666.50 meters.
+
+---------
+
+
+ Checking NED File     1 : gdal_uncompress.tif                     ;  for Receptor No.:      45
+                                                                                          DEM
+        RECLAT      RECLON     DEM_SELAT   DEM_SELON                           DIST(m)  MAXELEV  RECELEV
+        39.973    -105.034        38.999    -104.999                              0.00  4350.79  1649.71
+
+    REC NADA NED NADD        Map Name               Latitude   Longitude      Northing     Easting  Zone
+     45    3   1    4  NED:gdal_uncompress.tif     143902.94  -378122.17    4424765.47   497102.09    13
+
+            DEM    PROF   NODE      NODELAT     NODELON      DIST     ZNODE     RELEV    HEFMAX
+              1     213     52    143904.17  -378119.83     67.06   1656.56   1649.71   1656.56
+              1     214     52    143904.17  -378119.50     73.73   1657.10   1649.71   1657.10
+              1     214     53    143904.50  -378119.50     79.49   1657.68   1649.71   1657.68
+
+The Critical Hill Height for Receptor:    45 is  1657.68 meters.
+
+---------
+
+
+ Checking NED File     1 : gdal_uncompress.tif                     ;  for Receptor No.:      46
+                                                                                          DEM
+        RECLAT      RECLON     DEM_SELAT   DEM_SELON                           DIST(m)  MAXELEV  RECELEV
+        39.976    -105.038        38.999    -104.999                              0.00  4350.79  1627.00
+
+    REC NADA NED NADD        Map Name               Latitude   Longitude      Northing     Easting  Zone
+     46    3   1    4  NED:gdal_uncompress.tif     143914.55  -378137.23    4425123.49   496745.00    13
+
+ There were NO potential critical hill heights found in NED file:  gdal_uncompress.tif                     
+
+The Critical Hill Height for Receptor:    46 is  1627.00 meters.
+
+---------
+
+
+ Checking NED File     1 : gdal_uncompress.tif                     ;  for Receptor No.:      47
+                                                                                          DEM
+        RECLAT      RECLON     DEM_SELAT   DEM_SELON                           DIST(m)  MAXELEV  RECELEV
+        39.974    -105.037        38.999    -104.999                              0.00  4350.79  1634.41
+
+    REC NADA NED NADD        Map Name               Latitude   Longitude      Northing     Easting  Zone
+     47    3   1    4  NED:gdal_uncompress.tif     143907.53  -378131.96    4424906.99   496870.00    13
+
+ There were NO potential critical hill heights found in NED file:  gdal_uncompress.tif                     
+
+The Critical Hill Height for Receptor:    47 is  1634.41 meters.
+
+---------
+
+
+ Checking NED File     1 : gdal_uncompress.tif                     ;  for Receptor No.:      48
+                                                                                          DEM
+        RECLAT      RECLON     DEM_SELAT   DEM_SELON                           DIST(m)  MAXELEV  RECELEV
+        39.972    -105.035        38.999    -104.999                              0.00  4350.79  1645.36
+
+    REC NADA NED NADD        Map Name               Latitude   Longitude      Northing     Easting  Zone
+     48    3   1    4  NED:gdal_uncompress.tif     143900.51  -378126.68    4424690.48   496995.00    13
+
+ There were NO potential critical hill heights found in NED file:  gdal_uncompress.tif                     
+
+The Critical Hill Height for Receptor:    48 is  1645.36 meters.
+
+---------
+
+
+ Checking NED File     1 : gdal_uncompress.tif                     ;  for Receptor No.:      49
+                                                                                          DEM
+        RECLAT      RECLON     DEM_SELAT   DEM_SELON                           DIST(m)  MAXELEV  RECELEV
+        39.976    -105.039        38.999    -104.999                              0.00  4350.79  1625.62
+
+    REC NADA NED NADD        Map Name               Latitude   Longitude      Northing     Easting  Zone
+     49    3   1    4  NED:gdal_uncompress.tif     143913.95  -378138.90    4425105.08   496705.51    13
+
+            DEM    PROF   NODE      NODELAT     NODELON      DIST     ZNODE     RELEV    HEFMAX
+              1     156     81    143913.83  -378138.83      3.99   1626.14   1625.62   1626.14
+              1     157     80    143913.50  -378138.50     16.84   1627.68   1625.62   1627.68
+
+The Critical Hill Height for Receptor:    49 is  1627.68 meters.
+
+---------
+
+
+ Checking NED File     1 : gdal_uncompress.tif                     ;  for Receptor No.:      50
+                                                                                          DEM
+        RECLAT      RECLON     DEM_SELAT   DEM_SELON                           DIST(m)  MAXELEV  RECELEV
+        39.974    -105.038        38.999    -104.999                              0.00  4350.79  1637.84
+
+    REC NADA NED NADD        Map Name               Latitude   Longitude      Northing     Easting  Zone
+     50    3   1    4  NED:gdal_uncompress.tif     143906.34  -378135.29    4424870.15   496791.01    13
+
+ There were NO potential critical hill heights found in NED file:  gdal_uncompress.tif                     
+
+The Critical Hill Height for Receptor:    50 is  1637.84 meters.
+
+---------
+
+
+ Checking NED File     1 : gdal_uncompress.tif                     ;  for Receptor No.:      51
+                                                                                          DEM
+        RECLAT      RECLON     DEM_SELAT   DEM_SELON                           DIST(m)  MAXELEV  RECELEV
+        39.972    -105.037        38.999    -104.999                              0.00  4350.79  1641.79
+
+    REC NADA NED NADD        Map Name               Latitude   Longitude      Northing     Easting  Zone
+     51    3   1    4  NED:gdal_uncompress.tif     143898.72  -378131.68    4424635.23   496876.52    13
+
+ There were NO potential critical hill heights found in NED file:  gdal_uncompress.tif                     
+
+The Critical Hill Height for Receptor:    51 is  1641.79 meters.
+
+---------
+
+
+ Checking NED File     1 : gdal_uncompress.tif                     ;  for Receptor No.:      52
+                                                                                          DEM
+        RECLAT      RECLON     DEM_SELAT   DEM_SELON                           DIST(m)  MAXELEV  RECELEV
+        39.976    -105.039        38.999    -104.999                              0.00  4350.79  1621.99
+
+    REC NADA NED NADD        Map Name               Latitude   Longitude      Northing     Easting  Zone
+     52    3   1    4  NED:gdal_uncompress.tif     143913.59  -378140.67    4425093.80   496663.41    13
+
+            DEM    PROF   NODE      NODELAT     NODELON      DIST     ZNODE     RELEV    HEFMAX
+              1     144     75    143911.83  -378142.83     74.58   1629.45   1621.99   1629.45
+              1     145     74    143911.50  -378142.50     77.66   1630.03   1621.99   1630.03
+              1     146     73    143911.17  -378142.17     82.68   1630.71   1621.99   1630.71
+              1     147     72    143910.83  -378141.83     89.32   1630.97   1621.99   1630.97
+              1     148     72    143910.83  -378141.50     87.20   1631.03   1621.99   1631.03
+              1     149     71    143910.50  -378141.17     95.95   1631.66   1621.99   1631.66
+              1     150     71    143910.50  -378140.83     95.30   1631.80   1621.99   1631.80
+              1     151     71    143910.50  -378140.50     95.31   1631.94   1621.99   1631.94
+              1     152     71    143910.50  -378140.17     95.97   1632.02   1621.99   1632.02
+
+The Critical Hill Height for Receptor:    52 is  1632.02 meters.
+
+---------
+
+
+ Checking NED File     1 : gdal_uncompress.tif                     ;  for Receptor No.:      53
+                                                                                          DEM
+        RECLAT      RECLON     DEM_SELAT   DEM_SELON                           DIST(m)  MAXELEV  RECELEV
+        39.974    -105.039        38.999    -104.999                              0.00  4350.79  1633.62
+
+    REC NADA NED NADD        Map Name               Latitude   Longitude      Northing     Easting  Zone
+     53    3   1    4  NED:gdal_uncompress.tif     143905.60  -378138.83    4424847.60   496706.82    13
+
+            DEM    PROF   NODE      NODELAT     NODELON      DIST     ZNODE     RELEV    HEFMAX
+              1     153     55    143905.17  -378139.83     27.24   1636.65   1633.62   1636.65
+              1     154     56    143905.50  -378139.50     16.10   1636.73   1633.62   1636.73
+
+The Critical Hill Height for Receptor:    53 is  1636.73 meters.
+
+---------
+
+
+ Checking NED File     1 : gdal_uncompress.tif                     ;  for Receptor No.:      54
+                                                                                          DEM
+        RECLAT      RECLON     DEM_SELAT   DEM_SELON                           DIST(m)  MAXELEV  RECELEV
+        39.972    -105.038        38.999    -104.999                              0.00  4350.79  1632.26
+
+    REC NADA NED NADD        Map Name               Latitude   Longitude      Northing     Easting  Zone
+     54    3   1    4  NED:gdal_uncompress.tif     143897.62  -378137.00    4424601.39   496750.24    13
+
+            DEM    PROF   NODE      NODELAT     NODELON      DIST     ZNODE     RELEV    HEFMAX
+              1     162     32    143897.50  -378136.83      5.36   1633.02   1632.26   1633.02
+              1     162     33    143897.83  -378136.83      7.75   1633.05   1632.26   1633.05
+              1     163     31    143897.17  -378136.50     18.28   1634.89   1632.26   1634.89
+              1     163     32    143897.50  -378136.50     12.41   1635.05   1632.26   1635.05
+              1     163     33    143897.83  -378136.50     13.61   1635.07   1632.26   1635.07
+              1     164     30    143896.83  -378136.17     31.24   1635.53   1632.26   1635.53
+              1     164     31    143897.17  -378136.17     24.17   1635.81   1632.26   1635.81
+              1     165     30    143896.83  -378135.83     36.76   1636.20   1632.26   1636.20
+              1     166     30    143896.83  -378135.50     43.03   1636.67   1632.26   1636.67
+
+The Critical Hill Height for Receptor:    54 is  1636.67 meters.
+
+---------
+
+
+ Checking NED File     1 : gdal_uncompress.tif                     ;  for Receptor No.:      55
+                                                                                          DEM
+        RECLAT      RECLON     DEM_SELAT   DEM_SELON                           DIST(m)  MAXELEV  RECELEV
+        39.976    -105.040        38.999    -104.999                              0.00  4350.79  1623.78
+
+    REC NADA NED NADD        Map Name               Latitude   Longitude      Northing     Easting  Zone
+     55    3   1    4  NED:gdal_uncompress.tif     143913.46  -378142.50    4425090.00   496620.00    13
+
+            DEM    PROF   NODE      NODELAT     NODELON      DIST     ZNODE     RELEV    HEFMAX
+              1     142     76    143912.17  -378143.50     46.51   1628.63   1623.78   1628.63
+              1     143     75    143911.83  -378143.17     52.71   1629.29   1623.78   1629.29
+              1     144     75    143911.83  -378142.83     50.90   1629.45   1623.78   1629.45
+              1     145     74    143911.50  -378142.50     60.56   1630.03   1623.78   1630.03
+              1     146     74    143911.50  -378142.17     61.07   1630.19   1623.78   1630.19
+              1     147     74    143911.50  -378141.83     62.59   1630.30   1623.78   1630.30
+              1     148     74    143911.50  -378141.50     65.04   1630.58   1623.78   1630.58
+
+The Critical Hill Height for Receptor:    55 is  1630.58 meters.
+
+---------
+
+
+ Checking NED File     1 : gdal_uncompress.tif                     ;  for Receptor No.:      56
+                                                                                          DEM
+        RECLAT      RECLON     DEM_SELAT   DEM_SELON                           DIST(m)  MAXELEV  RECELEV
+        39.974    -105.040        38.999    -104.999                              0.00  4350.79  1633.43
+
+    REC NADA NED NADD        Map Name               Latitude   Longitude      Northing     Easting  Zone
+     56    3   1    4  NED:gdal_uncompress.tif     143905.35  -378142.50    4424840.00   496620.00    13
+
+ There were NO potential critical hill heights found in NED file:  gdal_uncompress.tif                     
+
+The Critical Hill Height for Receptor:    56 is  1633.43 meters.
+
+---------
+
+
+ Checking NED File     1 : gdal_uncompress.tif                     ;  for Receptor No.:      57
+                                                                                          DEM
+        RECLAT      RECLON     DEM_SELAT   DEM_SELON                           DIST(m)  MAXELEV  RECELEV
+        39.971    -105.040        38.999    -104.999                              0.00  4350.79  1626.82
+
+    REC NADA NED NADD        Map Name               Latitude   Longitude      Northing     Easting  Zone
+     57    3   1    4  NED:gdal_uncompress.tif     143897.25  -378142.49    4424590.00   496620.00    13
+
+            DEM    PROF   NODE      NODELAT     NODELON      DIST     ZNODE     RELEV    HEFMAX
+              1     144     32    143897.50  -378142.83     11.30   1628.21   1626.82   1628.21
+              1     145     32    143897.50  -378142.50      7.84   1628.26   1626.82   1628.26
+
+The Critical Hill Height for Receptor:    57 is  1628.26 meters.
+
+---------
+
+
+ Checking NED File     1 : gdal_uncompress.tif                     ;  for Receptor No.:      58
+                                                                                          DEM
+        RECLAT      RECLON     DEM_SELAT   DEM_SELON                           DIST(m)  MAXELEV  RECELEV
+        39.976    -105.040        38.999    -104.999                              0.00  4350.79  1624.26
+
+    REC NADA NED NADD        Map Name               Latitude   Longitude      Northing     Easting  Zone
+     58    3   1    4  NED:gdal_uncompress.tif     143913.59  -378144.33    4425093.80   496576.59    13
+
+            DEM    PROF   NODE      NODELAT     NODELON      DIST     ZNODE     RELEV    HEFMAX
+              1     138     79    143913.17  -378144.83     17.60   1626.14   1624.26   1626.14
+              1     139     78    143912.83  -378144.50     23.56   1626.83   1624.26   1626.83
+              1     140     77    143912.50  -378144.17     33.72   1627.68   1624.26   1627.68
+              1     141     77    143912.50  -378143.83     35.51   1627.84   1624.26   1627.84
+
+The Critical Hill Height for Receptor:    58 is  1627.84 meters.
+
+---------
+
+
+ Checking NED File     1 : gdal_uncompress.tif                     ;  for Receptor No.:      59
+                                                                                          DEM
+        RECLAT      RECLON     DEM_SELAT   DEM_SELON                           DIST(m)  MAXELEV  RECELEV
+        39.974    -105.041        38.999    -104.999                              0.00  4350.79  1627.58
+
+    REC NADA NED NADD        Map Name               Latitude   Longitude      Northing     Easting  Zone
+     59    3   1    4  NED:gdal_uncompress.tif     143905.60  -378146.16    4424847.60   496533.18    13
+
+            DEM    PROF   NODE      NODELAT     NODELON      DIST     ZNODE     RELEV    HEFMAX
+              1     133     53    143904.50  -378146.50     34.89   1631.38   1627.58   1631.38
+              1     134     53    143904.50  -378146.17     33.92   1631.51   1627.58   1631.51
+              1     135     52    143904.17  -378145.83     44.86   1632.14   1627.58   1632.14
+
+The Critical Hill Height for Receptor:    59 is  1632.14 meters.
+
+---------
+
+
+ Checking NED File     1 : gdal_uncompress.tif                     ;  for Receptor No.:      60
+                                                                                          DEM
+        RECLAT      RECLON     DEM_SELAT   DEM_SELON                           DIST(m)  MAXELEV  RECELEV
+        39.972    -105.041        38.999    -104.999                              0.00  4350.79  1619.25
+
+    REC NADA NED NADD        Map Name               Latitude   Longitude      Northing     Easting  Zone
+     60    3   1    4  NED:gdal_uncompress.tif     143897.61  -378147.98    4424601.39   496489.76    13
+
+            DEM    PROF   NODE      NODELAT     NODELON      DIST     ZNODE     RELEV    HEFMAX
+              1     124     27    143895.83  -378149.50     65.68   1626.30   1619.25   1626.30
+              1     132     39    143899.83  -378146.83     73.69   1626.91   1619.25   1626.91
+              1     133     39    143899.83  -378146.50     76.96   1627.59   1619.25   1627.59
+              1     133     40    143900.17  -378146.50     86.24   1628.30   1619.25   1628.30
+              1     134     40    143900.17  -378146.17     89.75   1628.73   1619.25   1628.73
+              1     134     41    143900.50  -378146.17     98.89   1629.19   1619.25   1629.19
+              1     135     41    143900.50  -378145.83    102.58   1629.77   1619.25   1629.77
+              1     136     41    143900.50  -378145.50    106.74   1630.26   1619.25   1630.26
+              1     136     42    143900.83  -378145.50    115.45   1630.86   1619.25   1630.86
+              1     137     42    143900.83  -378145.17    119.68   1631.36   1619.25   1631.36
+              1     138     42    143900.83  -378144.83    124.27   1631.76   1619.25   1631.76
+
+The Critical Hill Height for Receptor:    60 is  1631.76 meters.
+
+---------
+
+
+ Checking NED File     1 : gdal_uncompress.tif                     ;  for Receptor No.:      61
+                                                                                          DEM
+        RECLAT      RECLON     DEM_SELAT   DEM_SELON                           DIST(m)  MAXELEV  RECELEV
+        39.976    -105.041        38.999    -104.999                              0.00  4350.79  1624.63
+
+    REC NADA NED NADD        Map Name               Latitude   Longitude      Northing     Easting  Zone
+     61    3   1    4  NED:gdal_uncompress.tif     143913.95  -378146.10    4425105.08   496534.49    13
+
+            DEM    PROF   NODE      NODELAT     NODELON      DIST     ZNODE     RELEV    HEFMAX
+              1     134     81    143913.83  -378146.17      3.92   1625.11   1624.63   1625.11
+
+The Critical Hill Height for Receptor:    61 is  1625.11 meters.
+
+---------
+
+
+ Checking NED File     1 : gdal_uncompress.tif                     ;  for Receptor No.:      62
+                                                                                          DEM
+        RECLAT      RECLON     DEM_SELAT   DEM_SELON                           DIST(m)  MAXELEV  RECELEV
+        39.974    -105.042        38.999    -104.999                              0.00  4350.79  1622.89
+
+    REC NADA NED NADD        Map Name               Latitude   Longitude      Northing     Easting  Zone
+     62    3   1    4  NED:gdal_uncompress.tif     143906.33  -378149.71    4424870.15   496448.99    13
+
+            DEM    PROF   NODE      NODELAT     NODELON      DIST     ZNODE     RELEV    HEFMAX
+              1     123     56    143905.50  -378149.83     25.78   1625.55   1622.89   1625.55
+              1     124     55    143905.17  -378149.50     36.21   1626.80   1622.89   1626.80
+              1     125     54    143904.83  -378149.17     47.90   1627.68   1622.89   1627.68
+              1     126     54    143904.83  -378148.83     50.59   1628.16   1622.89   1628.16
+              1     127     54    143904.83  -378148.50     54.31   1628.64   1622.89   1628.64
+              1     128     54    143904.83  -378148.17     58.86   1628.97   1622.89   1628.97
+
+The Critical Hill Height for Receptor:    62 is  1628.97 meters.
+
+---------
+
+
+ Checking NED File     1 : gdal_uncompress.tif                     ;  for Receptor No.:      63
+                                                                                          DEM
+        RECLAT      RECLON     DEM_SELAT   DEM_SELON                           DIST(m)  MAXELEV  RECELEV
+        39.972    -105.043        38.999    -104.999                              0.00  4350.79  1613.83
+
+    REC NADA NED NADD        Map Name               Latitude   Longitude      Northing     Easting  Zone
+     63    3   1    4  NED:gdal_uncompress.tif     143898.71  -378153.31    4424635.23   496363.48    13
+
+            DEM    PROF   NODE      NODELAT     NODELON      DIST     ZNODE     RELEV    HEFMAX
+              1      96     33    143897.83  -378158.83    133.94   1627.35   1613.83   1627.35
+              1      96     34    143898.17  -378158.83    132.25   1627.43   1613.83   1627.43
+              1      97     30    143896.83  -378158.50    136.17   1627.59   1613.83   1627.59
+              1     106     23    143894.50  -378155.50    139.88   1628.45   1613.83   1628.45
+
+The Critical Hill Height for Receptor:    63 is  1628.45 meters.
+
+---------
+
+
+ Checking NED File     1 : gdal_uncompress.tif                     ;  for Receptor No.:      64
+                                                                                          DEM
+        RECLAT      RECLON     DEM_SELAT   DEM_SELON                           DIST(m)  MAXELEV  RECELEV
+        39.976    -105.041        38.999    -104.999                              0.00  4350.79  1624.60
+
+    REC NADA NED NADD        Map Name               Latitude   Longitude      Northing     Easting  Zone
+     64    3   1    4  NED:gdal_uncompress.tif     143914.55  -378147.77    4425123.49   496495.00    13
+
+ There were NO potential critical hill heights found in NED file:  gdal_uncompress.tif                     
+
+The Critical Hill Height for Receptor:    64 is  1624.60 meters.
+
+---------
+
+
+ Checking NED File     1 : gdal_uncompress.tif                     ;  for Receptor No.:      65
+                                                                                          DEM
+        RECLAT      RECLON     DEM_SELAT   DEM_SELON                           DIST(m)  MAXELEV  RECELEV
+        39.974    -105.043        38.999    -104.999                              0.00  4350.79  1615.77
+
+    REC NADA NED NADD        Map Name               Latitude   Longitude      Northing     Easting  Zone
+     65    3   1    4  NED:gdal_uncompress.tif     143907.52  -378153.04    4424906.99   496370.00    13
+
+            DEM    PROF   NODE      NODELAT     NODELON      DIST     ZNODE     RELEV    HEFMAX
+              1     114     60    143906.83  -378152.83     21.83   1618.09   1615.77   1618.09
+              1     115     58    143906.17  -378152.50     43.74   1620.43   1615.77   1620.43
+              1     116     55    143905.17  -378152.17     75.57   1623.40   1615.77   1623.40
+              1     117     55    143905.17  -378151.83     78.10   1624.22   1615.77   1624.22
+              1     118     55    143905.17  -378151.50     81.32   1624.50   1615.77   1624.50
+              1     119     54    143904.83  -378151.17     94.09   1625.21   1615.77   1625.21
+              1     120     55    143905.17  -378150.83     89.54   1625.27   1615.77   1625.27
+              1     121     55    143905.17  -378150.50     94.37   1625.65   1615.77   1625.65
+              1     122     55    143905.17  -378150.17     99.60   1625.99   1615.77   1625.99
+              1     123     55    143905.17  -378149.83    105.17   1626.42   1615.77   1626.42
+
+The Critical Hill Height for Receptor:    65 is  1626.42 meters.
+
+---------
+
+
+ Checking NED File     1 : gdal_uncompress.tif                     ;  for Receptor No.:      66
+                                                                                          DEM
+        RECLAT      RECLON     DEM_SELAT   DEM_SELON                           DIST(m)  MAXELEV  RECELEV
+        39.972    -105.044        38.999    -104.999                              0.00  4350.79  1612.55
+
+    REC NADA NED NADD        Map Name               Latitude   Longitude      Northing     Easting  Zone
+     66    3   1    4  NED:gdal_uncompress.tif     143900.50  -378158.30    4424690.48   496245.00    13
+
+            DEM    PROF   NODE      NODELAT     NODELON      DIST     ZNODE     RELEV    HEFMAX
+              1      82     35    143898.50  -378163.50    137.92   1626.60   1612.55   1626.60
+              1      84     35    143898.50  -378162.83    123.97   1626.62   1612.55   1626.62
+              1      85     35    143898.50  -378162.50    117.17   1626.63   1612.55   1626.63
+              1      86     35    143898.50  -378162.17    110.52   1626.78   1612.55   1626.78
+              1      88     32    143897.50  -378161.50    119.66   1626.83   1612.55   1626.83
+              1      89     29    143896.50  -378161.17    140.85   1626.84   1612.55   1626.84
+              1      89     32    143897.50  -378161.17    114.81   1627.10   1612.55   1627.10
+              1      89     35    143898.50  -378161.17     91.79   1627.14   1612.55   1627.14
+              1      90     35    143898.50  -378160.83     86.09   1627.22   1612.55   1627.22
+              1      91     35    143898.50  -378160.50     80.77   1627.37   1612.55   1627.37
+              1      92     28    143896.17  -378160.17    140.77   1627.54   1612.55   1627.54
+              1      92     29    143896.50  -378160.17    131.05   1627.55   1612.55   1627.55
+              1      93     29    143896.50  -378159.83    128.59   1627.56   1612.55   1627.56
+              1      94     29    143896.50  -378159.50    126.58   1627.61   1612.55   1627.61
+              1      95     27    143895.83  -378159.17    145.37   1627.64   1612.55   1627.64
+              1      95     29    143896.50  -378159.17    125.04   1627.73   1612.55   1627.73
+              1      96     27    143895.83  -378158.83    144.46   1627.75   1612.55   1627.75
+              1      96     28    143896.17  -378158.83    134.22   1627.80   1612.55   1627.80
+              1      96     29    143896.50  -378158.83    123.99   1627.87   1612.55   1627.87
+              1      97     27    143895.83  -378158.50    143.99   1627.99   1612.55   1627.99
+
+The Critical Hill Height for Receptor:    66 is  1627.99 meters.
+
+---------
+
+
+ Checking NED File     1 : gdal_uncompress.tif                     ;  for Receptor No.:      67
+                                                                                          DEM
+        RECLAT      RECLON     DEM_SELAT   DEM_SELON                           DIST(m)  MAXELEV  RECELEV
+        39.976    -105.041        38.999    -104.999                              0.00  4350.79  1622.73
+
+    REC NADA NED NADD        Map Name               Latitude   Longitude      Northing     Easting  Zone
+     67    3   1    4  NED:gdal_uncompress.tif     143915.36  -378149.28    4425148.49   496459.30    13
+
+ There were NO potential critical hill heights found in NED file:  gdal_uncompress.tif                     
+
+The Critical Hill Height for Receptor:    67 is  1622.73 meters.
+
+---------
+
+
+ Checking NED File     1 : gdal_uncompress.tif                     ;  for Receptor No.:      68
+                                                                                          DEM
+        RECLAT      RECLON     DEM_SELAT   DEM_SELON                           DIST(m)  MAXELEV  RECELEV
+        39.975    -105.043        38.999    -104.999                              0.00  4350.79  1606.07
+
+    REC NADA NED NADD        Map Name               Latitude   Longitude      Northing     Easting  Zone
+     68    3   1    4  NED:gdal_uncompress.tif     143909.14  -378156.05    4424956.98   496298.61    13
+
+            DEM    PROF   NODE      NODELAT     NODELON      DIST     ZNODE     RELEV    HEFMAX
+              1     100     74    143911.50  -378157.50     80.43   1614.37   1606.07   1614.37
+              1     101     74    143911.50  -378157.17     77.37   1615.18   1606.07   1615.18
+              1     101     75    143911.83  -378157.17     87.10   1615.21   1606.07   1615.21
+              1     102     74    143911.50  -378156.83     75.02   1615.27   1606.07   1615.27
+              1     102     75    143911.83  -378156.83     85.02   1615.82   1606.07   1615.82
+              1     103     75    143911.83  -378156.50     83.64   1616.13   1606.07   1616.13
+              1     104     75    143911.83  -378156.17     83.00   1616.39   1606.07   1616.39
+              1     104     76    143912.17  -378156.17     93.27   1616.39   1606.07   1616.39
+              1     105     75    143911.83  -378155.83     83.10   1616.53   1606.07   1616.53
+              1     105     76    143912.17  -378155.83     93.37   1616.64   1606.07   1616.64
+              1     106     75    143911.83  -378155.50     83.96   1616.72   1606.07   1616.72
+              1     106     76    143912.17  -378155.50     94.13   1616.93   1606.07   1616.93
+              1     107     75    143911.83  -378155.17     85.54   1616.94   1606.07   1616.94
+              1     107     76    143912.17  -378155.17     95.54   1617.23   1606.07   1617.23
+              1     108     75    143911.83  -378154.83     87.80   1617.24   1606.07   1617.24
+              1     108     76    143912.17  -378154.83     97.57   1617.64   1606.07   1617.64
+              1     109     76    143912.17  -378154.50    100.19   1618.05   1606.07   1618.05
+              1     110     76    143912.17  -378154.17    103.35   1618.37   1606.07   1618.37
+              1     110     77    143912.50  -378154.17    112.71   1618.49   1606.07   1618.49
+              1     111     76    143912.17  -378153.83    107.01   1618.56   1606.07   1618.56
+              1     111     77    143912.50  -378153.83    116.07   1618.97   1606.07   1618.97
+              1     111     78    143912.83  -378153.83    125.33   1619.06   1606.07   1619.06
+              1     112     77    143912.50  -378153.50    119.86   1619.36   1606.07   1619.36
+              1     112     78    143912.83  -378153.50    128.84   1619.60   1606.07   1619.60
+              1     113     56    143905.50  -378153.17    131.54   1619.65   1606.07   1619.65
+              1     113     78    143912.83  -378153.17    132.74   1620.02   1606.07   1620.02
+              1     114     55    143905.17  -378152.83    144.44   1621.28   1606.07   1621.28
+              1     115     54    143904.83  -378152.50    157.35   1622.73   1606.07   1622.73
+              1     116     54    143904.83  -378152.17    161.72   1623.37   1606.07   1623.37
+              1     116     55    143905.17  -378152.17    153.38   1623.40   1606.07   1623.40
+              1     117     54    143904.83  -378151.83    166.35   1623.86   1606.07   1623.86
+              1     117     55    143905.17  -378151.83    158.26   1624.22   1606.07   1624.22
+              1     118     54    143904.83  -378151.50    171.22   1624.42   1606.07   1624.42
+              1     118     55    143905.17  -378151.50    163.37   1624.50   1606.07   1624.50
+              1     119     54    143904.83  -378151.17    176.32   1625.21   1606.07   1625.21
+              1     120     54    143904.83  -378150.83    181.61   1625.22   1606.07   1625.22
+              1     120     55    143905.17  -378150.83    174.22   1625.27   1606.07   1625.27
+              1     121     54    143904.83  -378150.50    187.09   1625.70   1606.07   1625.70
+              1     122     54    143904.83  -378150.17    192.73   1626.25   1606.07   1626.25
+              1     123     54    143904.83  -378149.83    198.54   1626.68   1606.07   1626.68
+              1     124     54    143904.83  -378149.50    204.48   1627.13   1606.07   1627.13
+              1     125     54    143904.83  -378149.17    210.55   1627.68   1606.07   1627.68
+              1     126     54    143904.83  -378148.83    216.74   1628.16   1606.07   1628.16
+              1     127     54    143904.83  -378148.50    223.04   1628.64   1606.07   1628.64
+
+The Critical Hill Height for Receptor:    68 is  1628.64 meters.
+
+---------
+
+
+ Checking NED File     1 : gdal_uncompress.tif                     ;  for Receptor No.:      69
+                                                                                          DEM
+        RECLAT      RECLON     DEM_SELAT   DEM_SELON                           DIST(m)  MAXELEV  RECELEV
+        39.973    -105.045        38.999    -104.999                              0.00  4350.79  1617.58
+
+    REC NADA NED NADD        Map Name               Latitude   Longitude      Northing     Easting  Zone
+     69    3   1    4  NED:gdal_uncompress.tif     143902.93  -378162.82    4424765.47   496137.91    13
+
+ There were NO potential critical hill heights found in NED file:  gdal_uncompress.tif                     
+
+The Critical Hill Height for Receptor:    69 is  1617.58 meters.
+
+---------
+
+
+ Checking NED File     1 : gdal_uncompress.tif                     ;  for Receptor No.:      70
+                                                                                          DEM
+        RECLAT      RECLON     DEM_SELAT   DEM_SELON                           DIST(m)  MAXELEV  RECELEV
+        39.977    -105.042        38.999    -104.999                              0.00  4350.79  1619.82
+
+    REC NADA NED NADD        Map Name               Latitude   Longitude      Northing     Easting  Zone
+     70    3   1    4  NED:gdal_uncompress.tif     143916.36  -378150.58    4425179.30   496428.49    13
+
+            DEM    PROF   NODE      NODELAT     NODELON      DIST     ZNODE     RELEV    HEFMAX
+              1     120     88    143916.17  -378150.83      8.48   1620.81   1619.82   1620.81
+              1     121     87    143915.83  -378150.50     16.26   1621.54   1619.82   1621.54
+
+The Critical Hill Height for Receptor:    70 is  1621.54 meters.
+
+---------
+
+
+ Checking NED File     1 : gdal_uncompress.tif                     ;  for Receptor No.:      71
+                                                                                          DEM
+        RECLAT      RECLON     DEM_SELAT   DEM_SELON                           DIST(m)  MAXELEV  RECELEV
+        39.975    -105.044        38.999    -104.999                              0.00  4350.79  1610.36
+
+    REC NADA NED NADD        Map Name               Latitude   Longitude      Northing     Easting  Zone
+     71    3   1    4  NED:gdal_uncompress.tif     143911.14  -378158.65    4425018.61   496236.98    13
+
+            DEM    PROF   NODE      NODELAT     NODELON      DIST     ZNODE     RELEV    HEFMAX
+              1      97     73    143911.17  -378158.50      3.56   1610.75   1610.36   1610.75
+              1      98     73    143911.17  -378158.17     11.41   1611.51   1610.36   1611.51
+              1      98     74    143911.50  -378158.17     15.86   1612.10   1610.36   1612.10
+              1      99     73    143911.17  -378157.83     19.31   1612.30   1610.36   1612.30
+              1      99     74    143911.50  -378157.83     22.23   1613.16   1610.36   1613.16
+              1      99     75    143911.83  -378157.83     28.76   1613.52   1610.36   1613.52
+              1     100     74    143911.50  -378157.50     29.36   1614.37   1610.36   1614.37
+              1     100     75    143911.83  -378157.50     34.56   1614.62   1610.36   1614.62
+              1     101     74    143911.50  -378157.17     36.81   1615.18   1610.36   1615.18
+              1     101     75    143911.83  -378157.17     41.08   1615.21   1610.36   1615.21
+              1     102     74    143911.50  -378156.83     44.42   1615.27   1610.36   1615.27
+              1     102     75    143911.83  -378156.83     48.02   1615.82   1610.36   1615.82
+              1     103     75    143911.83  -378156.50     55.21   1616.13   1610.36   1616.13
+
+The Critical Hill Height for Receptor:    71 is  1616.13 meters.
+
+---------
+
+
+ Checking NED File     1 : gdal_uncompress.tif                     ;  for Receptor No.:      72
+                                                                                          DEM
+        RECLAT      RECLON     DEM_SELAT   DEM_SELON                           DIST(m)  MAXELEV  RECELEV
+        39.974    -105.046        38.999    -104.999                              0.00  4350.79  1604.52
+
+    REC NADA NED NADD        Map Name               Latitude   Longitude      Northing     Easting  Zone
+     72    3   1    4  NED:gdal_uncompress.tif     143905.93  -378166.72    4424857.91   496045.47    13
+
+            DEM    PROF   NODE      NODELAT     NODELON      DIST     ZNODE     RELEV    HEFMAX
+              1      60     50    143903.50  -378170.83    123.06   1616.85   1604.52   1616.85
+              1      61     49    143903.17  -378170.50    123.71   1617.01   1604.52   1617.01
+              1      82     48    143902.83  -378163.50    122.18   1617.25   1604.52   1617.25
+              1      83     48    143902.83  -378163.17    127.27   1617.59   1604.52   1617.59
+
+The Critical Hill Height for Receptor:    72 is  1617.59 meters.
+
+---------
+
+
+ Checking NED File     1 : gdal_uncompress.tif                     ;  for Receptor No.:      73
+                                                                                          DEM
+        RECLAT      RECLON     DEM_SELAT   DEM_SELON                           DIST(m)  MAXELEV  RECELEV
+        39.977    -105.042        38.999    -104.999                              0.00  4350.79  1616.61
+
+    REC NADA NED NADD        Map Name               Latitude   Longitude      Northing     Easting  Zone
+     73    3   1    4  NED:gdal_uncompress.tif     143917.51  -378151.63    4425215.00   496403.49    13
+
+            DEM    PROF   NODE      NODELAT     NODELON      DIST     ZNODE     RELEV    HEFMAX
+              1     116     89    143916.50  -378152.17     33.79   1620.26   1616.61   1620.26
+              1     117     88    143916.17  -378151.83     41.86   1620.90   1616.61   1620.90
+              1     118     88    143916.17  -378151.50     41.69   1620.99   1616.61   1620.99
+
+The Critical Hill Height for Receptor:    73 is  1620.99 meters.
+
+---------
+
+
+ Checking NED File     1 : gdal_uncompress.tif                     ;  for Receptor No.:      74
+                                                                                          DEM
+        RECLAT      RECLON     DEM_SELAT   DEM_SELON                           DIST(m)  MAXELEV  RECELEV
+        39.976    -105.045        38.999    -104.999                              0.00  4350.79  1608.03
+
+    REC NADA NED NADD        Map Name               Latitude   Longitude      Northing     Easting  Zone
+     74    3   1    4  NED:gdal_uncompress.tif     143913.46  -378160.76    4425090.00   496186.99    13
+
+            DEM    PROF   NODE      NODELAT     NODELON      DIST     ZNODE     RELEV    HEFMAX
+              1      93     82    143914.17  -378159.83     30.95   1611.16   1608.03   1611.16
+              1      93     83    143914.50  -378159.83     38.91   1612.05   1608.03   1612.05
+              1      93     84    143914.83  -378159.83     47.76   1612.85   1608.03   1612.85
+              1      94     84    143914.83  -378159.50     51.86   1613.54   1608.03   1613.54
+              1      94     85    143915.17  -378159.50     60.57   1614.20   1608.03   1614.20
+              1      95     85    143915.17  -378159.17     64.83   1615.00   1608.03   1615.00
+              1      95     86    143915.50  -378159.17     73.43   1615.48   1608.03   1615.48
+              1      96     85    143915.17  -378158.83     69.72   1615.82   1608.03   1615.82
+              1      96     86    143915.50  -378158.83     77.79   1616.26   1608.03   1616.26
+              1      96     87    143915.83  -378158.83     86.33   1616.68   1608.03   1616.68
+              1      97     86    143915.50  -378158.50     82.68   1616.89   1608.03   1616.89
+              1      97     87    143915.83  -378158.50     90.76   1617.31   1608.03   1617.31
+              1      98     87    143915.83  -378158.17     95.63   1617.71   1608.03   1617.71
+
+The Critical Hill Height for Receptor:    74 is  1617.71 meters.
+
+---------
+
+
+ Checking NED File     1 : gdal_uncompress.tif                     ;  for Receptor No.:      75
+                                                                                          DEM
+        RECLAT      RECLON     DEM_SELAT   DEM_SELON                           DIST(m)  MAXELEV  RECELEV
+        39.975    -105.047        38.999    -104.999                              0.00  4350.79  1608.70
+
+    REC NADA NED NADD        Map Name               Latitude   Longitude      Northing     Easting  Zone
+     75    3   1    4  NED:gdal_uncompress.tif     143909.40  -378169.88    4424965.00   495970.48    13
+
+            DEM    PROF   NODE      NODELAT     NODELON      DIST     ZNODE     RELEV    HEFMAX
+              1      64     67    143909.17  -378169.50     11.52   1609.95   1608.70   1609.95
+
+The Critical Hill Height for Receptor:    75 is  1609.95 meters.
+
+---------
+
+
+ Checking NED File     1 : gdal_uncompress.tif                     ;  for Receptor No.:      76
+                                                                                          DEM
+        RECLAT      RECLON     DEM_SELAT   DEM_SELON                           DIST(m)  MAXELEV  RECELEV
+        39.977    -105.042        38.999    -104.999                              0.00  4350.79  1611.44
+
+    REC NADA NED NADD        Map Name               Latitude   Longitude      Northing     Easting  Zone
+     76    3   1    4  NED:gdal_uncompress.tif     143918.80  -378152.41    4425254.49   496385.08    13
+
+            DEM    PROF   NODE      NODELAT     NODELON      DIST     ZNODE     RELEV    HEFMAX
+              1     112     89    143916.50  -378153.50     75.40   1619.40   1611.44   1619.40
+              1     113     88    143916.17  -378153.17     83.06   1620.17   1611.44   1620.17
+              1     114     87    143915.83  -378152.83     91.92   1620.63   1611.44   1620.63
+              1     115     87    143915.83  -378152.50     91.39   1620.87   1611.44   1620.87
+              1     116     87    143915.83  -378152.17     91.54   1621.02   1611.44   1621.02
+              1     117     87    143915.83  -378151.83     92.37   1621.21   1611.44   1621.21
+              1     118     87    143915.83  -378151.50     93.86   1621.38   1611.44   1621.38
+              1     119     87    143915.83  -378151.17     95.99   1621.46   1611.44   1621.46
+              1     120     87    143915.83  -378150.83     98.70   1621.50   1611.44   1621.50
+
+The Critical Hill Height for Receptor:    76 is  1621.50 meters.
+
+---------
+
+
+ Checking NED File     1 : gdal_uncompress.tif                     ;  for Receptor No.:      77
+                                                                                          DEM
+        RECLAT      RECLON     DEM_SELAT   DEM_SELON                           DIST(m)  MAXELEV  RECELEV
+        39.977    -105.045        38.999    -104.999                              0.00  4350.79  1607.74
+
+    REC NADA NED NADD        Map Name               Latitude   Longitude      Northing     Easting  Zone
+     77    3   1    4  NED:gdal_uncompress.tif     143916.02  -378162.31    4425168.99   496150.15    13
+
+            DEM    PROF   NODE      NODELAT     NODELON      DIST     ZNODE     RELEV    HEFMAX
+              1      88     88    143916.17  -378161.50     19.76   1609.92   1607.74   1609.92
+              1      89     87    143915.83  -378161.17     27.72   1610.62   1607.74   1610.62
+              1      89     88    143916.17  -378161.17     27.51   1610.88   1607.74   1610.88
+              1      89     89    143916.50  -378161.17     30.93   1611.09   1607.74   1611.09
+              1      90     87    143915.83  -378160.83     35.50   1611.59   1607.74   1611.59
+              1      90     88    143916.17  -378160.83     35.34   1611.81   1607.74   1611.81
+              1      90     89    143916.50  -378160.83     38.06   1611.91   1607.74   1611.91
+              1      90     90    143916.83  -378160.83     43.12   1612.42   1607.74   1612.42
+              1      91     87    143915.83  -378160.50     43.33   1612.55   1607.74   1612.55
+              1      91     88    143916.17  -378160.50     43.19   1612.63   1607.74   1612.63
+              1      91     89    143916.50  -378160.50     45.45   1612.89   1607.74   1612.89
+              1      91     90    143916.83  -378160.50     49.76   1613.36   1607.74   1613.36
+              1      91     91    143917.17  -378160.50     55.67   1613.61   1607.74   1613.61
+              1      92     89    143916.50  -378160.17     52.98   1613.79   1607.74   1613.79
+              1      92     90    143916.83  -378160.17     56.73   1614.23   1607.74   1614.23
+              1      92     91    143917.17  -378160.17     61.98   1614.35   1607.74   1614.35
+              1      93     88    143916.17  -378159.83     58.95   1614.40   1607.74   1614.40
+              1      93     89    143916.50  -378159.83     60.62   1614.64   1607.74   1614.64
+              1      93     90    143916.83  -378159.83     63.92   1615.10   1607.74   1615.10
+              1      93     91    143917.17  -378159.83     68.62   1615.16   1607.74   1615.16
+              1      94     88    143916.17  -378159.50     66.83   1615.34   1607.74   1615.34
+              1      94     89    143916.50  -378159.50     68.31   1615.63   1607.74   1615.63
+              1      94     90    143916.83  -378159.50     71.26   1616.03   1607.74   1616.03
+              1      94     91    143917.17  -378159.50     75.50   1616.05   1607.74   1616.05
+              1      95     88    143916.17  -378159.17     74.73   1616.26   1607.74   1616.26
+              1      95     89    143916.50  -378159.17     76.05   1616.75   1607.74   1616.75
+              1      95     90    143916.83  -378159.17     78.71   1616.90   1607.74   1616.90
+              1      96     88    143916.17  -378158.83     82.62   1617.01   1607.74   1617.01
+              1      96     89    143916.50  -378158.83     83.82   1617.38   1607.74   1617.38
+              1      96     90    143916.83  -378158.83     86.24   1617.61   1607.74   1617.61
+              1      96     91    143917.17  -378158.83     89.78   1617.76   1607.74   1617.76
+              1      97     89    143916.50  -378158.50     91.62   1617.99   1607.74   1617.99
+              1      97     90    143916.83  -378158.50     93.84   1618.12   1607.74   1618.12
+              1      98     89    143916.50  -378158.17     99.43   1618.36   1607.74   1618.36
+              1      98     90    143916.83  -378158.17    101.48   1618.43   1607.74   1618.43
+              1      99     88    143916.17  -378157.83    106.32   1618.45   1607.74   1618.45
+              1      99     89    143916.50  -378157.83    107.26   1618.66   1607.74   1618.66
+              1      99     90    143916.83  -378157.83    109.16   1618.71   1607.74   1618.71
+
+The Critical Hill Height for Receptor:    77 is  1618.71 meters.
+
+---------
+
+
+ Checking NED File     1 : gdal_uncompress.tif                     ;  for Receptor No.:      78
+                                                                                          DEM
+        RECLAT      RECLON     DEM_SELAT   DEM_SELON                           DIST(m)  MAXELEV  RECELEV
+        39.976    -105.048        38.999    -104.999                              0.00  4350.79  1600.73
+
+    REC NADA NED NADD        Map Name               Latitude   Longitude      Northing     Easting  Zone
+     78    3   1    4  NED:gdal_uncompress.tif     143913.24  -378172.21    4425083.48   495915.23    13
+
+            DEM    PROF   NODE      NODELAT     NODELON      DIST     ZNODE     RELEV    HEFMAX
+              1      55     79    143913.17  -378172.50      7.20   1601.54   1600.73   1601.54
+
+The Critical Hill Height for Receptor:    78 is  1601.54 meters.
+
+---------
+
+
+ Checking NED File     1 : gdal_uncompress.tif                     ;  for Receptor No.:      79
+                                                                                          DEM
+        RECLAT      RECLON     DEM_SELAT   DEM_SELON                           DIST(m)  MAXELEV  RECELEV
+        39.978    -105.042        38.999    -104.999                              0.00  4350.79  1604.53
+
+    REC NADA NED NADD        Map Name               Latitude   Longitude      Northing     Easting  Zone
+     79    3   1    4  NED:gdal_uncompress.tif     143920.16  -378152.88    4425296.59   496373.80    13
+
+            DEM    PROF   NODE      NODELAT     NODELON      DIST     ZNODE     RELEV    HEFMAX
+              1     102     90    143916.83  -378156.83    138.98   1618.87   1604.53   1618.87
+              1     103     89    143916.50  -378156.50    141.81   1619.15   1604.53   1619.15
+              1     104     88    143916.17  -378156.17    145.75   1619.34   1604.53   1619.34
+              1     105     88    143916.17  -378155.83    141.68   1619.36   1604.53   1619.36
+              1     106     87    143915.83  -378155.50    147.20   1619.46   1604.53   1619.46
+              1     107     87    143915.83  -378155.17    144.04   1619.60   1604.53   1619.60
+              1     108     86    143915.50  -378154.83    151.01   1619.74   1604.53   1619.74
+              1     108     87    143915.83  -378154.83    141.25   1619.75   1604.53   1619.75
+              1     109     86    143915.50  -378154.50    148.77   1619.96   1604.53   1619.96
+              1     110     86    143915.50  -378154.17    146.93   1620.15   1604.53   1620.15
+              1     111     85    143915.17  -378153.83    155.67   1620.39   1604.53   1620.39
+              1     112     85    143915.17  -378153.50    154.72   1620.59   1604.53   1620.59
+              1     113     85    143915.17  -378153.17    154.17   1620.76   1604.53   1620.76
+              1     114     84    143914.83  -378152.83    164.31   1621.07   1604.53   1621.07
+              1     115     84    143914.83  -378152.50    164.56   1621.24   1604.53   1621.24
+              1     116     84    143914.83  -378152.17    165.19   1621.43   1604.53   1621.43
+              1     117     84    143914.83  -378151.83    166.19   1621.63   1604.53   1621.63
+              1     118     84    143914.83  -378151.50    167.56   1621.83   1604.53   1621.83
+              1     119     84    143914.83  -378151.17    169.28   1622.07   1604.53   1622.07
+              1     120     84    143914.83  -378150.83    171.36   1622.33   1604.53   1622.33
+              1     121     84    143914.83  -378150.50    173.77   1622.59   1604.53   1622.59
+              1     122     84    143914.83  -378150.17    176.50   1622.77   1604.53   1622.77
+              1     123     84    143914.83  -378149.83    179.54   1623.03   1604.53   1623.03
+              1     124     84    143914.83  -378149.50    182.87   1623.28   1604.53   1623.28
+              1     125     84    143914.83  -378149.17    186.48   1623.55   1604.53   1623.55
+              1     126     84    143914.83  -378148.83    190.35   1623.77   1604.53   1623.77
+
+The Critical Hill Height for Receptor:    79 is  1623.77 meters.
+
+---------
+
+
+ Checking NED File     1 : gdal_uncompress.tif                     ;  for Receptor No.:      80
+                                                                                          DEM
+        RECLAT      RECLON     DEM_SELAT   DEM_SELON                           DIST(m)  MAXELEV  RECELEV
+        39.977    -105.045        38.999    -104.999                              0.00  4350.79  1602.53
+
+    REC NADA NED NADD        Map Name               Latitude   Longitude      Northing     Easting  Zone
+     80    3   1    4  NED:gdal_uncompress.tif     143918.75  -378163.26    4425253.18   496127.60    13
+
+            DEM    PROF   NODE      NODELAT     NODELON      DIST     ZNODE     RELEV    HEFMAX
+              1      83     96    143918.83  -378163.17      3.47   1602.90   1602.53   1602.90
+              1      85     91    143917.17  -378162.50     52.04   1607.78   1602.53   1607.78
+              1      86     91    143917.17  -378162.17     55.29   1608.59   1602.53   1608.59
+              1      87     90    143916.83  -378161.83     68.12   1609.38   1602.53   1609.38
+              1      87     91    143917.17  -378161.83     59.42   1609.56   1602.53   1609.56
+              1      88     90    143916.83  -378161.50     72.38   1610.54   1602.53   1610.54
+              1      89     89    143916.50  -378161.17     85.34   1611.09   1602.53   1611.09
+              1      89     90    143916.83  -378161.17     77.22   1611.43   1602.53   1611.43
+              1      89     91    143917.17  -378161.17     69.67   1611.50   1602.53   1611.50
+              1      90     89    143916.50  -378160.83     90.18   1611.91   1602.53   1611.91
+              1      90     90    143916.83  -378160.83     82.54   1612.42   1602.53   1612.42
+              1      90     91    143917.17  -378160.83     75.52   1612.57   1602.53   1612.57
+              1      91     89    143916.50  -378160.50     95.43   1612.89   1602.53   1612.89
+              1      91     90    143916.83  -378160.50     88.24   1613.36   1602.53   1613.36
+              1      91     91    143917.17  -378160.50     81.72   1613.61   1602.53   1613.61
+              1      92     89    143916.50  -378160.17    101.03   1613.79   1602.53   1613.79
+              1      92     90    143916.83  -378160.17     94.27   1614.23   1602.53   1614.23
+              1      92     91    143917.17  -378160.17     88.19   1614.35   1602.53   1614.35
+              1      93     88    143916.17  -378159.83    113.86   1614.40   1602.53   1614.40
+              1      93     89    143916.50  -378159.83    106.92   1614.64   1602.53   1614.64
+              1      93     90    143916.83  -378159.83    100.56   1615.10   1602.53   1615.10
+              1      93     91    143917.17  -378159.83     94.88   1615.16   1602.53   1615.16
+              1      94     88    143916.17  -378159.50    119.64   1615.34   1602.53   1615.34
+              1      94     89    143916.50  -378159.50    113.06   1615.63   1602.53   1615.63
+              1      94     90    143916.83  -378159.50    107.06   1616.03   1602.53   1616.03
+              1      94     91    143917.17  -378159.50    101.75   1616.05   1602.53   1616.05
+              1      95     88    143916.17  -378159.17    125.65   1616.26   1602.53   1616.26
+              1      95     89    143916.50  -378159.17    119.40   1616.75   1602.53   1616.75
+              1      95     90    143916.83  -378159.17    113.74   1616.90   1602.53   1616.90
+              1      96     88    143916.17  -378158.83    131.87   1617.01   1602.53   1617.01
+              1      96     89    143916.50  -378158.83    125.92   1617.38   1602.53   1617.38
+              1      96     90    143916.83  -378158.83    120.57   1617.61   1602.53   1617.61
+              1      96     91    143917.17  -378158.83    115.88   1617.76   1602.53   1617.76
+              1      97     89    143916.50  -378158.50    132.60   1617.99   1602.53   1617.99
+              1      97     90    143916.83  -378158.50    127.52   1618.12   1602.53   1618.12
+              1      98     89    143916.50  -378158.17    139.40   1618.36   1602.53   1618.36
+              1      98     90    143916.83  -378158.17    134.58   1618.43   1602.53   1618.43
+              1      99     88    143916.17  -378157.83    151.46   1618.45   1602.53   1618.45
+              1      99     89    143916.50  -378157.83    146.31   1618.66   1602.53   1618.66
+              1      99     90    143916.83  -378157.83    141.73   1618.71   1602.53   1618.71
+              1     100     88    143916.17  -378157.50    158.24   1618.74   1602.53   1618.74
+              1     100     89    143916.50  -378157.50    153.32   1618.94   1602.53   1618.94
+              1     101     89    143916.50  -378157.17    160.42   1619.09   1602.53   1619.09
+
+The Critical Hill Height for Receptor:    80 is  1619.09 meters.
+
+---------
+
+
+ Checking NED File     1 : gdal_uncompress.tif                     ;  for Receptor No.:      81
+                                                                                          DEM
+        RECLAT      RECLON     DEM_SELAT   DEM_SELON                           DIST(m)  MAXELEV  RECELEV
+        39.977    -105.048        38.999    -104.999                              0.00  4350.79  1594.29
+
+    REC NADA NED NADD        Map Name               Latitude   Longitude      Northing     Easting  Zone
+     81    3   1    4  NED:gdal_uncompress.tif     143917.34  -378173.64    4425209.76   495881.39    13
+
+            DEM    PROF   NODE      NODELAT     NODELON      DIST     ZNODE     RELEV    HEFMAX
+              1      52     92    143917.50  -378173.50      6.07   1595.26   1594.29   1595.26
+              1      52     93    143917.83  -378173.50     15.70   1596.12   1594.29   1596.12
+              1      54     92    143917.50  -378172.83     19.84   1596.27   1594.29   1596.27
+
+The Critical Hill Height for Receptor:    81 is  1596.27 meters.
+
+---------
+
+
+ Checking NED File     1 : gdal_uncompress.tif                     ;  for Receptor No.:      82
+                                                                                          DEM
+        RECLAT      RECLON     DEM_SELAT   DEM_SELON                           DIST(m)  MAXELEV  RECELEV
+        39.978    -105.043        38.999    -104.999                              0.00  4350.79  1607.58
+
+    REC NADA NED NADD        Map Name               Latitude   Longitude      Northing     Easting  Zone
+     82    3   1    4  NED:gdal_uncompress.tif     143921.57  -378153.04    4425340.00   496370.00    13
+
+            DEM    PROF   NODE      NODELAT     NODELON      DIST     ZNODE     RELEV    HEFMAX
+              1     109    109    143923.17  -378154.50     60.18   1613.67   1607.58   1613.67
+              1     110    109    143923.17  -378154.17     56.02   1614.17   1607.58   1614.17
+              1     110    110    143923.50  -378154.17     65.25   1615.03   1607.58   1615.03
+              1     110    111    143923.83  -378154.17     74.75   1615.69   1607.58   1615.69
+              1     110    112    143924.17  -378154.17     84.44   1616.36   1607.58   1616.36
+              1     110    113    143924.50  -378154.17     94.25   1617.13   1607.58   1617.13
+              1     111    113    143924.50  -378153.83     92.33   1617.32   1607.58   1617.32
+              1     111    114    143924.83  -378153.83    102.42   1617.93   1607.58   1617.93
+              1     112    114    143924.83  -378153.50    101.27   1618.00   1607.58   1618.00
+              1     113    114    143924.83  -378153.17    100.74   1618.06   1607.58   1618.06
+              1     115    114    143924.83  -378152.50    101.52   1618.17   1607.58   1618.17
+              1     116    114    143924.83  -378152.17    102.83   1618.22   1607.58   1618.22
+              1     117    114    143924.83  -378151.83    104.72   1618.25   1607.58   1618.25
+
+The Critical Hill Height for Receptor:    82 is  1618.25 meters.
+
+---------
+
+
+ Checking NED File     1 : gdal_uncompress.tif                     ;  for Receptor No.:      83
+                                                                                          DEM
+        RECLAT      RECLON     DEM_SELAT   DEM_SELON                           DIST(m)  MAXELEV  RECELEV
+        39.978    -105.045        38.999    -104.999                              0.00  4350.79  1598.01
+
+    REC NADA NED NADD        Map Name               Latitude   Longitude      Northing     Easting  Zone
+     83    3   1    4  NED:gdal_uncompress.tif     143921.56  -378163.58    4425340.00   496120.00    13
+
+            DEM    PROF   NODE      NODELAT     NODELON      DIST     ZNODE     RELEV    HEFMAX
+              1      73    111    143923.83  -378166.50     98.39   1608.02   1598.01   1608.02
+              1      74    112    143924.17  -378166.17    100.96   1608.33   1598.01   1608.33
+              1      75    112    143924.17  -378165.83     96.37   1608.45   1598.01   1608.45
+              1      76    112    143924.17  -378165.50     92.23   1608.57   1598.01   1608.57
+              1      76    113    143924.50  -378165.50    101.30   1608.72   1598.01   1608.72
+              1      77    113    143924.50  -378165.17     98.01   1608.92   1598.01   1608.92
+              1      78    113    143924.50  -378164.83     95.26   1609.02   1598.01   1609.02
+              1      79    113    143924.50  -378164.50     93.10   1609.14   1598.01   1609.14
+              1      79    115    143925.17  -378164.50    113.20   1609.40   1598.01   1609.40
+              1      81    114    143924.83  -378163.83    100.99   1609.52   1598.01   1609.52
+              1      82    114    143924.83  -378163.50    100.84   1609.61   1598.01   1609.61
+              1      83    114    143924.83  -378163.17    101.30   1609.73   1598.01   1609.73
+              1      84    114    143924.83  -378162.83    102.38   1609.79   1598.01   1609.79
+              1      85    114    143924.83  -378162.50    104.05   1609.85   1598.01   1609.85
+              1      85    115    143925.17  -378162.50    114.04   1610.02   1598.01   1610.02
+              1      86    115    143925.17  -378162.17    116.08   1610.15   1598.01   1610.15
+              1      87    115    143925.17  -378161.83    118.62   1610.22   1598.01   1610.22
+              1      88    115    143925.17  -378161.50    121.61   1610.33   1598.01   1610.33
+              1      91     91    143917.17  -378160.50    154.14   1613.61   1598.01   1613.61
+              1      92     91    143917.17  -378160.17    158.05   1614.35   1598.01   1614.35
+              1      93     91    143917.17  -378159.83    162.25   1615.16   1598.01   1615.16
+              1      94     90    143916.83  -378159.50    175.18   1616.03   1598.01   1616.03
+              1      94     91    143917.17  -378159.50    166.72   1616.05   1598.01   1616.05
+              1      95     90    143916.83  -378159.17    179.68   1616.90   1598.01   1616.90
+              1      96     89    143916.50  -378158.83    192.65   1617.38   1598.01   1617.38
+              1      96     90    143916.83  -378158.83    184.41   1617.61   1598.01   1617.61
+              1      96     91    143917.17  -378158.83    176.38   1617.76   1598.01   1617.76
+              1      97     89    143916.50  -378158.50    197.38   1617.99   1598.01   1617.99
+              1      97     90    143916.83  -378158.50    189.35   1618.12   1598.01   1618.12
+              1      98     89    143916.50  -378158.17    202.31   1618.36   1598.01   1618.36
+              1      98     90    143916.83  -378158.17    194.48   1618.43   1598.01   1618.43
+              1      99     90    143916.83  -378157.83    199.80   1618.71   1598.01   1618.71
+              1     100     90    143916.83  -378157.50    205.28   1618.79   1598.01   1618.79
+
+The Critical Hill Height for Receptor:    83 is  1618.79 meters.
+
+---------
+
+
+ Checking NED File     1 : gdal_uncompress.tif                     ;  for Receptor No.:      84
+                                                                                          DEM
+        RECLAT      RECLON     DEM_SELAT   DEM_SELON                           DIST(m)  MAXELEV  RECELEV
+        39.978    -105.048        38.999    -104.999                              0.00  4350.79  1599.04
+
+    REC NADA NED NADD        Map Name               Latitude   Longitude      Northing     Easting  Zone
+     84    3   1    4  NED:gdal_uncompress.tif     143921.56  -378174.13    4425340.00   495870.00    13
+
+            DEM    PROF   NODE      NODELAT     NODELON      DIST     ZNODE     RELEV    HEFMAX
+              1      47    105    143921.83  -378175.17     26.11   1602.28   1599.04   1602.28
+              1      47    106    143922.17  -378175.17     30.99   1602.71   1599.04   1602.71
+              1      48    106    143922.17  -378174.83     25.14   1602.83   1599.04   1602.83
+              1      49    106    143922.17  -378174.50     20.71   1603.02   1599.04   1603.02
+              1      49    107    143922.50  -378174.50     30.32   1603.26   1599.04   1603.26
+              1      50    107    143922.50  -378174.17     29.00   1603.48   1599.04   1603.48
+              1      51    107    143922.50  -378173.83     29.80   1603.60   1599.04   1603.60
+              1      52    107    143922.50  -378173.50     32.56   1603.76   1599.04   1603.76
+              1      53    107    143922.50  -378173.17     36.84   1603.92   1599.04   1603.92
+              1      53    108    143922.83  -378173.17     45.37   1603.98   1599.04   1603.98
+              1      54    107    143922.50  -378172.83     42.19   1604.09   1599.04   1604.09
+              1      54    108    143922.83  -378172.83     49.81   1604.36   1599.04   1604.36
+
+The Critical Hill Height for Receptor:    84 is  1604.36 meters.
+
+---------
+
+
+ Checking NED File     1 : gdal_uncompress.tif                     ;  for Receptor No.:      85
+                                                                                          DEM
+        RECLAT      RECLON     DEM_SELAT   DEM_SELON                           DIST(m)  MAXELEV  RECELEV
+        39.979    -105.042        38.999    -104.999                              0.00  4350.79  1614.04
+
+    REC NADA NED NADD        Map Name               Latitude   Longitude      Northing     Easting  Zone
+     85    3   1    4  NED:gdal_uncompress.tif     143922.98  -378152.89    4425383.41   496373.80    13
+
+            DEM    PROF   NODE      NODELAT     NODELON      DIST     ZNODE     RELEV    HEFMAX
+              1     114    109    143923.17  -378152.83      5.99   1614.78   1614.04   1614.78
+
+The Critical Hill Height for Receptor:    85 is  1614.78 meters.
+
+---------
+
+
+ Checking NED File     1 : gdal_uncompress.tif                     ;  for Receptor No.:      86
+                                                                                          DEM
+        RECLAT      RECLON     DEM_SELAT   DEM_SELON                           DIST(m)  MAXELEV  RECELEV
+        39.979    -105.045        38.999    -104.999                              0.00  4350.79  1608.75
+
+    REC NADA NED NADD        Map Name               Latitude   Longitude      Northing     Easting  Zone
+     86    3   1    4  NED:gdal_uncompress.tif     143924.38  -378163.27    4425426.82   496127.60    13
+
+            DEM    PROF   NODE      NODELAT     NODELON      DIST     ZNODE     RELEV    HEFMAX
+              1      83    113    143924.50  -378163.17      4.37   1609.22   1608.75   1609.22
+
+The Critical Hill Height for Receptor:    86 is  1609.22 meters.
+
+---------
+
+
+ Checking NED File     1 : gdal_uncompress.tif                     ;  for Receptor No.:      87
+                                                                                          DEM
+        RECLAT      RECLON     DEM_SELAT   DEM_SELON                           DIST(m)  MAXELEV  RECELEV
+        39.979    -105.048        38.999    -104.999                              0.00  4350.79  1603.89
+
+    REC NADA NED NADD        Map Name               Latitude   Longitude      Northing     Easting  Zone
+     87    3   1    4  NED:gdal_uncompress.tif     143925.78  -378173.65    4425470.24   495881.39    13
+
+            DEM    PROF   NODE      NODELAT     NODELON      DIST     ZNODE     RELEV    HEFMAX
+              1      51    116    143925.50  -378173.83      9.83   1605.06   1603.89   1605.06
+              1      52    116    143925.50  -378173.50      9.46   1606.12   1603.89   1606.12
+              1      53    116    143925.50  -378173.17     14.40   1606.16   1603.89   1606.16
+
+The Critical Hill Height for Receptor:    87 is  1606.16 meters.
+
+---------
+
+
+ Checking NED File     1 : gdal_uncompress.tif                     ;  for Receptor No.:      88
+                                                                                          DEM
+        RECLAT      RECLON     DEM_SELAT   DEM_SELON                           DIST(m)  MAXELEV  RECELEV
+        39.979    -105.042        38.999    -104.999                              0.00  4350.79  1617.52
+
+    REC NADA NED NADD        Map Name               Latitude   Longitude      Northing     Easting  Zone
+     88    3   1    4  NED:gdal_uncompress.tif     143924.34  -378152.41    4425425.51   496385.08    13
+
+ There were NO potential critical hill heights found in NED file:  gdal_uncompress.tif                     
+
+The Critical Hill Height for Receptor:    88 is  1617.52 meters.
+
+---------
+
+
+ Checking NED File     1 : gdal_uncompress.tif                     ;  for Receptor No.:      89
+                                                                                          DEM
+        RECLAT      RECLON     DEM_SELAT   DEM_SELON                           DIST(m)  MAXELEV  RECELEV
+        39.980    -105.045        38.999    -104.999                              0.00  4350.79  1610.93
+
+    REC NADA NED NADD        Map Name               Latitude   Longitude      Northing     Easting  Zone
+     89    3   1    4  NED:gdal_uncompress.tif     143927.11  -378162.32    4425511.01   496150.15    13
+
+            DEM    PROF   NODE      NODELAT     NODELON      DIST     ZNODE     RELEV    HEFMAX
+              1      86    121    143927.17  -378162.17      3.95   1611.46   1610.93   1611.46
+
+The Critical Hill Height for Receptor:    89 is  1611.46 meters.
+
+---------
+
+
+ Checking NED File     1 : gdal_uncompress.tif                     ;  for Receptor No.:      90
+                                                                                          DEM
+        RECLAT      RECLON     DEM_SELAT   DEM_SELON                           DIST(m)  MAXELEV  RECELEV
+        39.981    -105.048        38.999    -104.999                              0.00  4350.79  1599.81
+
+    REC NADA NED NADD        Map Name               Latitude   Longitude      Northing     Easting  Zone
+     90    3   1    4  NED:gdal_uncompress.tif     143929.88  -378172.22    4425596.52   495915.23    13
+
+            DEM    PROF   NODE      NODELAT     NODELON      DIST     ZNODE     RELEV    HEFMAX
+              1      54    126    143928.83  -378172.83     35.41   1603.73   1599.81   1603.73
+              1      55    125    143928.50  -378172.50     43.10   1604.28   1599.81   1604.28
+
+The Critical Hill Height for Receptor:    90 is  1604.28 meters.
+
+---------
+
+
+ Checking NED File     1 : gdal_uncompress.tif                     ;  for Receptor No.:      91
+                                                                                          DEM
+        RECLAT      RECLON     DEM_SELAT   DEM_SELON                           DIST(m)  MAXELEV  RECELEV
+        39.979    -105.042        38.999    -104.999                              0.00  4350.79  1614.75
+
+    REC NADA NED NADD        Map Name               Latitude   Longitude      Northing     Easting  Zone
+     91    3   1    4  NED:gdal_uncompress.tif     143925.62  -378151.64    4425465.00   496403.49    13
+
+            DEM    PROF   NODE      NODELAT     NODELON      DIST     ZNODE     RELEV    HEFMAX
+              1     114    115    143925.17  -378152.83     31.73   1618.40   1614.75   1618.40
+              1     116    115    143925.17  -378152.17     18.91   1618.44   1614.75   1618.44
+              1     117    115    143925.17  -378151.83     14.86   1618.51   1614.75   1618.51
+              1     119    115    143925.17  -378151.17     17.95   1618.54   1614.75   1618.54
+              1     120    115    143925.17  -378150.83     23.67   1618.59   1614.75   1618.59
+
+The Critical Hill Height for Receptor:    91 is  1618.59 meters.
+
+---------
+
+
+ Checking NED File     1 : gdal_uncompress.tif                     ;  for Receptor No.:      92
+                                                                                          DEM
+        RECLAT      RECLON     DEM_SELAT   DEM_SELON                           DIST(m)  MAXELEV  RECELEV
+        39.980    -105.045        38.999    -104.999                              0.00  4350.79  1608.05
+
+    REC NADA NED NADD        Map Name               Latitude   Longitude      Northing     Easting  Zone
+     92    3   1    4  NED:gdal_uncompress.tif     143929.67  -378160.77    4425590.00   496186.99    13
+
+ There were NO potential critical hill heights found in NED file:  gdal_uncompress.tif                     
+
+The Critical Hill Height for Receptor:    92 is  1608.05 meters.
+
+---------
+
+
+ Checking NED File     1 : gdal_uncompress.tif                     ;  for Receptor No.:      93
+                                                                                          DEM
+        RECLAT      RECLON     DEM_SELAT   DEM_SELON                           DIST(m)  MAXELEV  RECELEV
+        39.982    -105.047        38.999    -104.999                              0.00  4350.79  1602.93
+
+    REC NADA NED NADD        Map Name               Latitude   Longitude      Northing     Easting  Zone
+     93    3   1    4  NED:gdal_uncompress.tif     143933.73  -378169.90    4425715.00   495970.48    13
+
+ There were NO potential critical hill heights found in NED file:  gdal_uncompress.tif                     
+
+The Critical Hill Height for Receptor:    93 is  1602.93 meters.
+
+---------
+
+
+ Checking NED File     1 : gdal_uncompress.tif                     ;  for Receptor No.:      94
+                                                                                          DEM
+        RECLAT      RECLON     DEM_SELAT   DEM_SELON                           DIST(m)  MAXELEV  RECELEV
+        39.980    -105.042        38.999    -104.999                              0.00  4350.79  1611.55
+
+    REC NADA NED NADD        Map Name               Latitude   Longitude      Northing     Easting  Zone
+     94    3   1    4  NED:gdal_uncompress.tif     143926.78  -378150.58    4425500.70   496428.49    13
+
+            DEM    PROF   NODE      NODELAT     NODELON      DIST     ZNODE     RELEV    HEFMAX
+              1     116    115    143925.17  -378152.17     62.41   1618.44   1611.55   1618.44
+              1     117    115    143925.17  -378151.83     57.99   1618.51   1611.55   1618.51
+              1     119    115    143925.17  -378151.17     51.71   1618.54   1611.55   1618.54
+              1     120    115    143925.17  -378150.83     50.17   1618.59   1611.55   1618.59
+              1     123    115    143925.17  -378149.83     52.89   1618.61   1611.55   1618.61
+              1     124    115    143925.17  -378149.50     56.04   1618.85   1611.55   1618.85
+              1     126    116    143925.50  -378148.83     57.31   1618.87   1611.55   1618.87
+              1     127    116    143925.50  -378148.50     63.27   1618.90   1611.55   1618.90
+              1     128    116    143925.50  -378148.17     69.62   1618.99   1611.55   1618.99
+
+The Critical Hill Height for Receptor:    94 is  1618.99 meters.
+
+---------
+
+
+ Checking NED File     1 : gdal_uncompress.tif                     ;  for Receptor No.:      95
+                                                                                          DEM
+        RECLAT      RECLON     DEM_SELAT   DEM_SELON                           DIST(m)  MAXELEV  RECELEV
+        39.981    -105.044        38.999    -104.999                              0.00  4350.79  1610.09
+
+    REC NADA NED NADD        Map Name               Latitude   Longitude      Northing     Easting  Zone
+     95    3   1    4  NED:gdal_uncompress.tif     143931.99  -378158.66    4425661.39   496236.98    13
+
+ There were NO potential critical hill heights found in NED file:  gdal_uncompress.tif                     
+
+The Critical Hill Height for Receptor:    95 is  1610.09 meters.
+
+---------
+
+
+ Checking NED File     1 : gdal_uncompress.tif                     ;  for Receptor No.:      96
+                                                                                          DEM
+        RECLAT      RECLON     DEM_SELAT   DEM_SELON                           DIST(m)  MAXELEV  RECELEV
+        39.983    -105.046        38.999    -104.999                              0.00  4350.79  1603.57
+
+    REC NADA NED NADD        Map Name               Latitude   Longitude      Northing     Easting  Zone
+     96    3   1    4  NED:gdal_uncompress.tif     143937.20  -378166.74    4425822.09   496045.47    13
+
+ There were NO potential critical hill heights found in NED file:  gdal_uncompress.tif                     
+
+The Critical Hill Height for Receptor:    96 is  1603.57 meters.
+
+---------
+
+
+ Checking NED File     1 : gdal_uncompress.tif                     ;  for Receptor No.:      97
+                                                                                          DEM
+        RECLAT      RECLON     DEM_SELAT   DEM_SELON                           DIST(m)  MAXELEV  RECELEV
+        39.980    -105.041        38.999    -104.999                              0.00  4350.79  1612.12
+
+    REC NADA NED NADD        Map Name               Latitude   Longitude      Northing     Easting  Zone
+     97    3   1    4  NED:gdal_uncompress.tif     143927.78  -378149.28    4425531.51   496459.30    13
+
+ There were NO potential critical hill heights found in NED file:  gdal_uncompress.tif                     
+
+The Critical Hill Height for Receptor:    97 is  1612.12 meters.
+
+---------
+
+
+ Checking NED File     1 : gdal_uncompress.tif                     ;  for Receptor No.:      98
+                                                                                          DEM
+        RECLAT      RECLON     DEM_SELAT   DEM_SELON                           DIST(m)  MAXELEV  RECELEV
+        39.982    -105.043        38.999    -104.999                              0.00  4350.79  1611.44
+
+    REC NADA NED NADD        Map Name               Latitude   Longitude      Northing     Easting  Zone
+     98    3   1    4  NED:gdal_uncompress.tif     143933.99  -378156.06    4425723.02   496298.61    13
+
+ There were NO potential critical hill heights found in NED file:  gdal_uncompress.tif                     
+
+The Critical Hill Height for Receptor:    98 is  1611.44 meters.
+
+---------
+
+
+ Checking NED File     1 : gdal_uncompress.tif                     ;  for Receptor No.:      99
+                                                                                          DEM
+        RECLAT      RECLON     DEM_SELAT   DEM_SELON                           DIST(m)  MAXELEV  RECELEV
+        39.983    -105.045        38.999    -104.999                              0.00  4350.79  1602.10
+
+    REC NADA NED NADD        Map Name               Latitude   Longitude      Northing     Easting  Zone
+     99    3   1    4  NED:gdal_uncompress.tif     143940.20  -378162.84    4425914.53   496137.91    13
+
+ There were NO potential critical hill heights found in NED file:  gdal_uncompress.tif                     
+
+The Critical Hill Height for Receptor:    99 is  1602.10 meters.
+
+---------
+
+
+ Checking NED File     1 : gdal_uncompress.tif                     ;  for Receptor No.:     100
+                                                                                          DEM
+        RECLAT      RECLON     DEM_SELAT   DEM_SELON                           DIST(m)  MAXELEV  RECELEV
+        39.980    -105.041        38.999    -104.999                              0.00  4350.79  1612.44
+
+    REC NADA NED NADD        Map Name               Latitude   Longitude      Northing     Easting  Zone
+    100    3   1    4  NED:gdal_uncompress.tif     143928.59  -378147.78    4425556.51   496495.00    13
+
+ There were NO potential critical hill heights found in NED file:  gdal_uncompress.tif                     
+
+The Critical Hill Height for Receptor:   100 is  1612.44 meters.
+
+---------
+
+
+ Checking NED File     1 : gdal_uncompress.tif                     ;  for Receptor No.:     101
+                                                                                          DEM
+        RECLAT      RECLON     DEM_SELAT   DEM_SELON                           DIST(m)  MAXELEV  RECELEV
+        39.982    -105.043        38.999    -104.999                              0.00  4350.79  1610.96
+
+    REC NADA NED NADD        Map Name               Latitude   Longitude      Northing     Easting  Zone
+    101    3   1    4  NED:gdal_uncompress.tif     143935.61  -378153.05    4425773.01   496370.00    13
+
+            DEM    PROF   NODE      NODELAT     NODELON      DIST     ZNODE     RELEV    HEFMAX
+              1     117    147    143935.83  -378151.83     29.73   1614.44   1610.96   1614.44
+
+The Critical Hill Height for Receptor:   101 is  1614.44 meters.
+
+---------
+
+
+ Checking NED File     1 : gdal_uncompress.tif                     ;  for Receptor No.:     102
+                                                                                          DEM
+        RECLAT      RECLON     DEM_SELAT   DEM_SELON                           DIST(m)  MAXELEV  RECELEV
+        39.984    -105.044        38.999    -104.999                              0.00  4350.79  1605.16
+
+    REC NADA NED NADD        Map Name               Latitude   Longitude      Northing     Easting  Zone
+    102    3   1    4  NED:gdal_uncompress.tif     143942.63  -378158.33    4425989.52   496245.00    13
+
+ There were NO potential critical hill heights found in NED file:  gdal_uncompress.tif                     
+
+The Critical Hill Height for Receptor:   102 is  1605.16 meters.
+
+---------
+
+
+ Checking NED File     1 : gdal_uncompress.tif                     ;  for Receptor No.:     103
+                                                                                          DEM
+        RECLAT      RECLON     DEM_SELAT   DEM_SELON                           DIST(m)  MAXELEV  RECELEV
+        39.980    -105.041        38.999    -104.999                              0.00  4350.79  1612.65
+
+    REC NADA NED NADD        Map Name               Latitude   Longitude      Northing     Easting  Zone
+    103    3   1    4  NED:gdal_uncompress.tif     143929.19  -378146.11    4425574.92   496534.49    13
+
+ There were NO potential critical hill heights found in NED file:  gdal_uncompress.tif                     
+
+The Critical Hill Height for Receptor:   103 is  1612.65 meters.
+
+---------
+
+
+ Checking NED File     1 : gdal_uncompress.tif                     ;  for Receptor No.:     104
+                                                                                          DEM
+        RECLAT      RECLON     DEM_SELAT   DEM_SELON                           DIST(m)  MAXELEV  RECELEV
+        39.982    -105.042        38.999    -104.999                              0.00  4350.79  1614.68
+
+    REC NADA NED NADD        Map Name               Latitude   Longitude      Northing     Easting  Zone
+    104    3   1    4  NED:gdal_uncompress.tif     143936.81  -378149.72    4425809.85   496448.99    13
+
+ There were NO potential critical hill heights found in NED file:  gdal_uncompress.tif                     
+
+The Critical Hill Height for Receptor:   104 is  1614.68 meters.
+
+---------
+
+
+ Checking NED File     1 : gdal_uncompress.tif                     ;  for Receptor No.:     105
+                                                                                          DEM
+        RECLAT      RECLON     DEM_SELAT   DEM_SELON                           DIST(m)  MAXELEV  RECELEV
+        39.985    -105.043        38.999    -104.999                              0.00  4350.79  1603.55
+
+    REC NADA NED NADD        Map Name               Latitude   Longitude      Northing     Easting  Zone
+    105    3   1    4  NED:gdal_uncompress.tif     143944.43  -378153.33    4426044.77   496363.48    13
+
+ There were NO potential critical hill heights found in NED file:  gdal_uncompress.tif                     
+
+The Critical Hill Height for Receptor:   105 is  1603.55 meters.
+
+---------
+
+
+ Checking NED File     1 : gdal_uncompress.tif                     ;  for Receptor No.:     106
+                                                                                          DEM
+        RECLAT      RECLON     DEM_SELAT   DEM_SELON                           DIST(m)  MAXELEV  RECELEV
+        39.980    -105.040        38.999    -104.999                              0.00  4350.79  1612.64
+
+    REC NADA NED NADD        Map Name               Latitude   Longitude      Northing     Easting  Zone
+    106    3   1    4  NED:gdal_uncompress.tif     143929.56  -378144.34    4425586.20   496576.59    13
+
+ There were NO potential critical hill heights found in NED file:  gdal_uncompress.tif                     
+
+The Critical Hill Height for Receptor:   106 is  1612.64 meters.
+
+---------
+
+
+ Checking NED File     1 : gdal_uncompress.tif                     ;  for Receptor No.:     107
+                                                                                          DEM
+        RECLAT      RECLON     DEM_SELAT   DEM_SELON                           DIST(m)  MAXELEV  RECELEV
+        39.983    -105.041        38.999    -104.999                              0.00  4350.79  1614.99
+
+    REC NADA NED NADD        Map Name               Latitude   Longitude      Northing     Easting  Zone
+    107    3   1    4  NED:gdal_uncompress.tif     143937.54  -378146.17    4425832.40   496533.18    13
+
+ There were NO potential critical hill heights found in NED file:  gdal_uncompress.tif                     
+
+The Critical Hill Height for Receptor:   107 is  1614.99 meters.
+
+---------
+
+
+ Checking NED File     1 : gdal_uncompress.tif                     ;  for Receptor No.:     108
+                                                                                          DEM
+        RECLAT      RECLON     DEM_SELAT   DEM_SELON                           DIST(m)  MAXELEV  RECELEV
+        39.985    -105.041        38.999    -104.999                              0.00  4350.79  1605.25
+
+    REC NADA NED NADD        Map Name               Latitude   Longitude      Northing     Easting  Zone
+    108    3   1    4  NED:gdal_uncompress.tif     143945.53  -378148.01    4426078.61   496489.76    13
+
+ There were NO potential critical hill heights found in NED file:  gdal_uncompress.tif                     
+
+The Critical Hill Height for Receptor:   108 is  1605.25 meters.
+
+---------

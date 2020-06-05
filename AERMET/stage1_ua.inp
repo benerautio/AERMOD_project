@@ -1,0 +1,16 @@
+JOB
+  REPORT RPT\stage1_ua.RPT
+
+  MESSAGES MSG\stage1_ua.MSG
+
+UPPERAIR
+
+  DATA UA\raob_soundings30583.tmp.txt FSL
+
+  EXTRACT extracted_data\ua_extract.txt
+
+  XDATES 19/3/1 TO 19/8/1
+
+  LOCATION 23062 39.77N 104.88W 6
+
+  QAOUT OUT\stage1_ua.out

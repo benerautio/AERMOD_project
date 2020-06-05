@@ -1,0 +1,53 @@
+** AERMAP - VERSION 18081                                              06/01/20
+**                                                                     12:12:42
+
+ From NEDCHK:
+
+***********************
+ OPENING FILE: 
+
+   NED File #:         1
+   NED File Name: NED\gdal_uncompress.tif                                                                                                                                                                                 
+
+
+ Attempting to read TIFF file header.
+
+ Byte order: Little Endian 
+   IFD Offset (bytes):            8
+
+ Attempting to read TIFF tags.
+
+ Columns (profiles):      10812
+ Rows (nodes/profile):    10812
+
+ WARNING: TIFF Tag   274: Orientation          was not found - default used for
+          NED file:      1.
+          Orientation = 1; row-major with (0,0) = NW corner
+
+ TIFF Data Organization: Strips
+           RowsPerStrip:      1
+ TIFF Data SampleFormat: floating point
+         BytesPerSample:      4
+ Coordinate Type:  Geographic Lat-Lon System
+ Horizontal Datum: North American Datum of 1983            
+
+ WARNING: Elevation units not found in NED file      1.
+          Default units of METERS assumed.
+
+ GT Raster Type = Pixel Is Area
+   Model Tie Point (NW corner) adjusted to midpoint of pixel.
+ X Model Tie Point (NW corner of file):   -106.000556 (degrees);  -381602.000 (arc-seconds)
+ Y Model Tie Point (NW corner of file):     40.000556 (degrees);   144002.000 (arc-seconds)
+ Z Model Tie Point (reference elevation):       0.000  meters
+ Spatial Res. X:  0.000092593 (degrees);     0.333333 (arc-seconds)
+ Spatial Res. Y:  0.000092593 (degrees);     0.333333 (arc-seconds)
+ Spatial Res. Z:       1.0000  meters
+ SW Corner Lon (degrees): -106.000509
+ SW Corner Lat (degrees):   38.999491
+ NW Corner Lon (degrees): -106.000509
+ NW Corner Lat (degrees):   40.000509
+ NE Corner Lon (degrees): -104.999491
+ NE Corner Lat (degrees):   40.000509
+ SE Corner Lon (degrees): -104.999491
+ SE Corner Lat (degrees):   38.999491
+ Reference UTM Zone (SW corner):  13
